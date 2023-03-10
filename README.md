@@ -49,19 +49,19 @@
 
 # Network Automation
 
-| Slide Deck | Red Hat Internal Link |
-|---|---|
-| Ansible Network Automation - 101 | [Google Source](https://docs.google.com/presentation/d/1s336icuospEPuCkbO6KAtGU0szVXHodGJrhNlCvi2PU/edit?usp=sharing) |
-| Ansible Network Automation - 201 | [Google Source](https://docs.google.com/presentation/d/1JJF2K2q38xJCp5o8ynmCH_C7tdsjI9odELTnbCR6cBM/edit?usp=sharing) |
-| Ansible Network Automation - 301 | [Google Source](https://docs.google.com/presentation/d/1adExEpewrK6WnQ59Vs_cEg8KtML2ZPgIFyDT_WAkLiw/edit?usp=sharing) |
+| Slide Deck | Red Hat Internal Link | Partner | 
+|---|---|---|
+| Ansible Network Automation - 101 | [Google Source](https://docs.google.com/presentation/d/1s336icuospEPuCkbO6KAtGU0szVXHodGJrhNlCvi2PU/edit?usp=sharing) | [Content Center](https://content.redhat.com/us/en/assets/display.html?id=aeecd93f-be31-4a10-8ad8-5e53f51ef7be) |
+| Ansible Network Automation - 201 | [Google Source](https://docs.google.com/presentation/d/1JJF2K2q38xJCp5o8ynmCH_C7tdsjI9odELTnbCR6cBM/edit?usp=sharing) | [Content Center](https://content.redhat.com/us/en/assets/display.html?id=ad2c882f-93e7-4bd8-b7bb-e8abb05b7005) |
+| Ansible Network Automation - 301 | [Google Source](https://docs.google.com/presentation/d/1adExEpewrK6WnQ59Vs_cEg8KtML2ZPgIFyDT_WAkLiw/edit?usp=sharing) | [Content Center](https://content.redhat.com/us/en/assets/display.html?id=f40a3f3a-0de9-40fb-b96a-7bcccde8ff3d) |
 
 # Infrastructure Automation
 
-| Slide Deck | Red Hat Internal Link |
-|---|---|
-| Ansible Infrastructure Automation - 101 | [Google Source](https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit) |
-| Ansible Infrastructure Automation - 201 | [Google Source](https://docs.google.com/presentation/d/18dYwFv4gtUOEu9DElGIQAJxxEnMVRCV6pDWMkU3FXdw/edit) |
-| Ansible Infrastructure Automation - 301 | [Google Source](https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit) |
+| Slide Deck | Red Hat Internal Link | Partner | 
+|---|---|---|
+| Ansible Infrastructure Automation - 101 | [Google Source](https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit) | Coming Soon! |
+| Ansible Infrastructure Automation - 201 | [Google Source](https://docs.google.com/presentation/d/18dYwFv4gtUOEu9DElGIQAJxxEnMVRCV6pDWMkU3FXdw/edit) | Coming soon! |
+| Ansible Infrastructure Automation - 301 | [Google Source](https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit) | [Content Center](https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1) |
 
 
 # Security Automation
