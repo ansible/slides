@@ -15,6 +15,7 @@
 |---|---|
 | Technical Roadmap | [Google Source](https://docs.google.com/presentation/d/1hwzPck-T8tldzNH1nDHanmRU3SV6Qm3a0yy_mXTbNlE/edit?usp=sharing) |
 | Technical Deck | [Google Source](https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing) |
+| AE Level 1 Pitch Deck | [Google Source](https://docs.google.com/presentation/d/1-yTlKfJyfqCNrD1P5l17GeFeXaMkrI6gIS6Qr7m4fo4/edit?usp=sharing) |
 
 
 # Hybrid Cloud Automation
