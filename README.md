@@ -60,7 +60,7 @@
 | Slide Deck | Red Hat Internal Link | Partner | 
 |---|---|---|
 | Ansible Infrastructure Automation - 101 | [Google Source](https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit) | Coming Soon! |
-| Ansible Infrastructure Automation - 201 | [Google Source](https://docs.google.com/presentation/d/18dYwFv4gtUOEu9DElGIQAJxxEnMVRCV6pDWMkU3FXdw/edit) | Coming soon! |
+| Ansible Infrastructure Automation - 201 | [Google Source](https://docs.google.com/presentation/d/1GaYUtsjCCpjBiCqLMkxBNuDh4LdJRmfhdeDQRZaGcZw/edit?usp=sharing) | Coming soon! |
 | Ansible Infrastructure Automation - 301 | [Google Source](https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit) | [Content Center](https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1) |
 
 
