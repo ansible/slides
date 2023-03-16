@@ -32,7 +32,8 @@
 | Ansible Public Cloud  - 201 | [Google Source](https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link) | Coming soon! |
 | Ansible Public Cloud  - 301 | [Google Source](https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link) | [Content Center](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc) |
 
-On-Cloud
+**On-Cloud**
+
 | Slide Deck | Red Hat Internal Link | Partner | 
 |---|---|---|
 | AAP on AWS - Tech deck  | [Google Source](https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit#slide=id.g162e193674e_0_0) | Coming soon! |
