@@ -30,7 +30,14 @@
 |---|---|---|
 | Ansible Public Cloud - 101 | [Google Source](https://docs.google.com/presentation/d/1R4vhHkSnoFL8o_ryiOooMUqRTcnniOkC1LzK43S6S_0/edit?usp=share_link) | [Content Center](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=44d6f35b-1a80-40b9-b4bb-60f68295e854) |
 | Ansible Public Cloud  - 201 | [Google Source](https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link) | Coming soon! |
-| Ansible Public Cloud  - 301 | [Google Source](https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link) | [Content Center](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc)
+| Ansible Public Cloud  - 301 | [Google Source](https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link) | [Content Center](https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc) |
+
+On-Cloud
+| Slide Deck | Red Hat Internal Link | Partner | 
+|---|---|---|
+| AAP on AWS - Tech deck  | [Google Source](https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit#slide=id.g162e193674e_0_0) | Coming soon! |
+| AAP on Azure - Tech deck | [Google Source](https://docs.google.com/presentation/d/1vPM7v4UraxDxl2xysT92VGNf7mL1VWzsMv_MS-2vvpw/edit#slide=id.gf40a1fc211_0_0) | Coming soon! |
+| AAP on Google Cloud - Tech deck | [Google Source](https://docs.google.com/presentation/d/1a7K2lt5_p_mjnmjpkxc7xJcErdTO5YC4LdGfgaeqDKk/edit#slide=id.g162e193674e_0_0) | Coming soon! |
 
 ## Cloud Native
 
