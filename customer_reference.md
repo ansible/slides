@@ -1,6 +1,6 @@
 # General
 
-<p> In addition to the slide decks provided below, you can access customer references for Red Hat Ansible Automation Platform publicly via this <a href="https://www.redhat.com/en/success-stories?f[0]=taxonomy_product_tid:25911">link</a>. </p>
+<p> In addition to the slide decks provided below, you can access customer references for Red Hat Ansible Automation Platform publicly via this <a target="_blank" href="https://www.redhat.com/en/success-stories?f[0]=taxonomy_product_tid:25911">link</a>. </p>
 
 <table>
 <thead>
