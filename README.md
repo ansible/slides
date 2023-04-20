@@ -106,7 +106,7 @@
 <tbody>
 <tr>
 <td>AAP on AWS - Tech deck</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit?usp=sharing">Google Source</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit?usp=sharing">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
