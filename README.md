@@ -3,6 +3,7 @@
 - [General](#general)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
+  - [On Cloud](#on-cloud)
   - [Cloud Native](#cloud-native)
   - [Private Cloud - VMware](#private-cloud---vmware)
 - [Network Automation](#network-automation)
@@ -92,7 +93,7 @@
 </tbody>
 </table>
 
-**On-Cloud**
+## On Cloud
 
 <table>
 <thead>
