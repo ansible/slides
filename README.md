@@ -65,10 +65,6 @@
 
 ## Public Cloud
 
-
-
-**On-Cloud**
-
 <table>
 <thead>
 <tr>
@@ -96,6 +92,30 @@
 </tbody>
 </table>
 
+**On-Cloud**
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>Partner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AAP on AWS - Tech deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit#slide=id.g162e193674e_0_0)">Google Source</td>
+<td>Coming Soon!</td>
+<td>AAP on Azure - Tech deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1vPM7v4UraxDxl2xysT92VGNf7mL1VWzsMv_MS-2vvpw/edit#slide=id.gf40a1fc211_0_0)">Google Source</a></td>
+<td>Coming Soon!</a></td>
+<td>AAP on Google Cloud - Tech deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1a7K2lt5_p_mjnmjpkxc7xJcErdTO5YC4LdGfgaeqDKk/edit#slide=id.g162e193674e_0_0)">Google Source</a></td>
+<td>Coming Soon!</a></td>
+</tr>
+</tbody>
+</table>
 
 ## Cloud Native
 
