@@ -1,6 +1,7 @@
 <h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 
 - [General](#general)
+- [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
   - [On Cloud](#on-cloud)
@@ -44,6 +45,34 @@
 </tbody>
 </table>
 
+# Edge Automation
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>Partner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Edge Automation - 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/16GqzO19UR6AxsUS2x8mW3WRZbkDu6rEYEUT6cI7G19I/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Edge Automation - 201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Zk-25k14yq9uXvh-Z-VOieuR5Ew8tehyH8eFksoKyjs/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Edge Automation - 301</td>
+<td>Coming soon!</td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
 
 # Hybrid Cloud Automation
 
