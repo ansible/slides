@@ -1,4 +1,4 @@
-# Ansible Deck Finder <div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div> <!-- omit in toc -->
+<h1> Ansible Deck Finder</h1><div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div>
 
 - [General](#general)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
