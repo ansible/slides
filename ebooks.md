@@ -24,7 +24,7 @@
 <tr>
 <td>Using automation to get the most from your public cloud</td>
 <td><a target="_blank" href="https://www.redhat.com/en/engage/automation-public-cloud-20221014">on redhat.com</a></td>
-<td><a  target="_blank" href="https://www.redhat.com/en/resources/using-automation-public-cloud-detail">on redhat.com</a></td>
+<td><a  target="_blank" href="https://www.redhat.com/en/resources/using-automation-public-cloud-detail">employee link</a></td>
 </tr>
 </tbody>
 </table>
