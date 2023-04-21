@@ -1,4 +1,4 @@
-# Ansible Deck Finder [edit](https://github.com/ansible/slides/edit/main/README.md)<!-- omit in toc -->
+# Ansible Deck Finder [<a style="size:10pt;" target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]<!-- omit in toc -->
 
 - [General](#general)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
