@@ -1,4 +1,4 @@
-# General
+<h1> Customer References<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/customer_references.md">edit</a>]</div></h1>
 
 <p> In addition to the slide decks provided below, you can access customer references for Red Hat Ansible Automation Platform publicly via this <a target="_blank" href="https://www.redhat.com/en/success-stories?f[0]=taxonomy_product_tid:25911">link</a>. </p>
 
