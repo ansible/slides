@@ -30,4 +30,21 @@
 </table>
 
 
+# Security Automation
 
+<table>
+<thead>
+<tr>
+<th>ebook title</th>
+<th>external link</th>
+<th>employee / partner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Enhance security with automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/security-with-automation-20230412">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e8deff-fe33-4a2e-8788-33d48169cbbf">Content Center</a></td>
+</tr>
+</tbody>
+</table>
