@@ -29,6 +29,29 @@
 </tbody>
 </table>
 
+# Network Automation
+
+<table>
+<thead>
+<tr>
+<th>ebook title</th>
+<th>external link</th>
+<th>employee / partner</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Network automation for everyone</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/network-automation-everyone-s-202101221234">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=026234ee-52b2-4cb4-84b8-66489678236a">Content Center</a></td>
+</tr>
+<tr>
+<td>Network automation guide: Expand automation across multivendor networks</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/network-automation-guide-20221202">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5c47feab-360d-42c4-8335-d7199cee4985">Content Center</a></td>
+</tr>
+</tbody>
+</table>
 
 # Security Automation
 
