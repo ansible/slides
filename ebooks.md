@@ -8,7 +8,7 @@
 
 # General
 
-table>
+<table>
 <thead>
 <tr>
 <th>ebook title</th>
