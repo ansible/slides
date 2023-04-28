@@ -1,5 +1,30 @@
 <h1> Ansible e-book finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/ebooks.md">edit</a>]</div></h1>
 
+- [General](#general)
+- [Hybrid Cloud Automation](#hybrid-cloud-automation)
+- [Network Automation](#network-automation)
+- [Security Automation](#security-automation)
+
+
+# General
+
+table>
+<thead>
+<tr>
+<th>ebook title</th>
+<th>external link</th>
+<th>Red Hat employee link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automate infrastructure workflows</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/infra-automation-ebook-s-202009020400">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ed02d47c-64e1-4954-bf97-367641cdcbc7">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
 # Hybrid Cloud Automation
 
 <table>
