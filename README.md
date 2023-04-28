@@ -18,7 +18,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -52,7 +52,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -81,7 +81,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -100,7 +100,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -129,7 +129,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -159,7 +159,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -188,7 +188,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -217,7 +217,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -246,7 +246,7 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>Partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>

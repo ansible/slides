@@ -13,7 +13,7 @@ table>
 <tr>
 <th>ebook title</th>
 <th>external link</th>
-<th>Red Hat employee link</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -32,7 +32,7 @@ table>
 <tr>
 <th>ebook title</th>
 <th>external link</th>
-<th>Red Hat employee link</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -61,7 +61,7 @@ table>
 <tr>
 <th>ebook title</th>
 <th>external link</th>
-<th>employee / partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
@@ -85,7 +85,7 @@ table>
 <tr>
 <th>ebook title</th>
 <th>external link</th>
-<th>employee / partner</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
