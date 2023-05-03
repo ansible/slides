@@ -44,7 +44,7 @@
 </tr>
 <tr>
 <td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
-<td>a target="_blank" href="https://docs.google.com/presentation/d/1G1yExRBdEUFAHPyN6wAJ8deK_obKU5ZKfhYgAqIf6tY/edit?usp=sharing"></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1G1yExRBdEUFAHPyN6wAJ8deK_obKU5ZKfhYgAqIf6tY/edit?usp=sharing"></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
