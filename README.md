@@ -1,6 +1,7 @@
 <h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 
 - [General](#general)
+- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
@@ -45,6 +46,40 @@
 <tr>
 <td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1G1yExRBdEUFAHPyN6wAJ8deK_obKU5ZKfhYgAqIf6tY/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
+
+# EDA - Event-Driven Ansible
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Event-Driven Ansible - 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Event-Driven Ansible - 201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/18FsymQlk8cCBENHsh7NXyqvXtatfGOr8Nl761r1rU4w/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Event-Driven Ansible - 301</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Architecture Guide</td>
+<td><a target="_blank" href="https://docs.google.com/document/d/1uX2Z6Do8vj4bBownhZD2bYUoMQUOyvS5WqF5Ng7DGGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
