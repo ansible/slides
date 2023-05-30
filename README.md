@@ -8,6 +8,7 @@
   - [On Cloud](#on-cloud)
   - [Cloud Native](#cloud-native)
   - [Private Cloud - VMware](#private-cloud---vmware)
+- [Lightspeed AI](#lightspeed-ai)
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
@@ -255,6 +256,28 @@ Unlock the Business Value of IT Automation</td>
 </tr>
 </tbody>
 </table>
+
+# Lightspeed AI
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Lightspeed with IBM Watson Code Assistant</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 # Network Automation
 
