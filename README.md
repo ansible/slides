@@ -259,7 +259,7 @@ Unlock the Business Value of IT Automation</td>
 </tbody>
 </table>
 
-<div>
+</div>
 
 # Lightspeed AI
 
