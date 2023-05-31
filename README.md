@@ -231,6 +231,8 @@ Unlock the Business Value of IT Automation</td>
 
 ## Private Cloud - VMware
 
+<div id="cloud-use-cases">
+
 <table>
 <thead>
 <tr>
