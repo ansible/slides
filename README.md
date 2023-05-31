@@ -140,6 +140,8 @@ Unlock the Business Value of IT Automation</td>
 </tbody>
 </table>
 
+<div id="cloud-use-cases">
+
 ## Public Cloud
 
 <table>
@@ -256,6 +258,8 @@ Unlock the Business Value of IT Automation</td>
 </tr>
 </tbody>
 </table>
+
+<div>
 
 # Lightspeed AI
 
