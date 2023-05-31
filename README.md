@@ -150,11 +150,6 @@ Unlock the Business Value of IT Automation</td>
 </thead>
 <tbody>
 <tr>
-<td>Ansible Public Cloud - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1R4vhHkSnoFL8o_ryiOooMUqRTcnniOkC1LzK43S6S_0/edit?usp=share_link">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=44d6f35b-1a80-40b9-b4bb-60f68295e854">Content Center</a></td>
-</tr>
-<tr>
 <td>Ansible Public Cloud  - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a">Content Center</a></td>
@@ -209,11 +204,6 @@ Unlock the Business Value of IT Automation</td>
 </thead>
 <tbody>
 <tr>
-<td>Ansible Cloud Native - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1QxjW7vG6r5xNlO6XLj-YOFRvGgLhsWjnJo1kFAsyvXY/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=eef969e1-05b5-44bf-9b0f-729f15fc1db0">Content Center</a></td>
-</tr>
-<tr>
 <td>Ansible Cloud Native - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1aSkhjwk4r8N5RJU1Np8-eUl9LK-eN5a1M-6hSAb0Dd0/edit?usp=share_link">Google Source</a></td>
   <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3b221f1b-fd10-4c94-9961-e0ab4123508d">Content Center</a></td>
@@ -237,11 +227,6 @@ Unlock the Business Value of IT Automation</td>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>Ansible Private Cloud - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1_V9-HwmykIliLQ8yzj3eCA3bHXtHkDS580yeJ_-26UQ/edit?usp=share_link">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3607c673-6b2f-414f-884a-2f253c141a60">Content Center</a></td>
-</tr>
 <tr>
 <td>Ansible Private Cloud - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Ff6ueze2BHq6PtrdJ5pcw9K4Z7BQQlcEUVIaq1VjUQo/edit?usp=share_link">Google Source</a></td>
