@@ -4,6 +4,10 @@
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
+  - [Public Cloud](#public-cloud)
+  - [On Cloud](#on-cloud)
+  - [Cloud Native](#cloud-native)
+  - [Private Cloud - VMware](#private-cloud---vmware)
 - [Lightspeed AI](#lightspeed-ai)
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
@@ -136,9 +140,10 @@ Unlock the Business Value of IT Automation</td>
 </tbody>
 </table>
 
-<div id="cloud-use-cases">
 
-<h2>Public Cloud</h2>
+## Public Cloud
+
+<div id="cloud-use-cases">
 
 <table>
 <thead>
@@ -162,7 +167,11 @@ Unlock the Business Value of IT Automation</td>
 </tbody>
 </table>
 
-<h2>On Cloud</h2>
+</div>
+
+## On Cloud
+
+<div id="cloud-use-cases">
 
 <table>
 <thead>
@@ -191,8 +200,11 @@ Unlock the Business Value of IT Automation</td>
 </tbody>
 </table>
 
+</div>
 
-<h2>Cloud Native</h2>
+## Cloud Native
+
+<div id="cloud-use-cases">
 
 <table>
 <thead>
@@ -215,8 +227,9 @@ Unlock the Business Value of IT Automation</td>
 </tr>
 </tbody>
 </table>
+</div>
 
-<h2> Private Cloud - VMware </h2>
+## Private Cloud - VMware
 
 <table>
 <thead>
