@@ -1,4 +1,4 @@
-<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
+<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1><p><a href="https://ansible.github.io/slides>View on website</a></p>
 
 - [General](#general)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
@@ -185,17 +185,17 @@ Unlock the Business Value of IT Automation</td>
 <tr>
 <td>AAP on AWS - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit?usp=sharing">Google Source</a></td>
-<td>Coming Soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5ddfc608-a7dc-4921-a4db-e61e64f91cd7">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP on Azure - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1vPM7v4UraxDxl2xysT92VGNf7mL1VWzsMv_MS-2vvpw/edit?usp=sharing">Google Source</a></td>
-<td>Coming Soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3471cca0-cf31-4d66-9daf-8459d52799df">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP on Google Cloud - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1a7K2lt5_p_mjnmjpkxc7xJcErdTO5YC4LdGfgaeqDKk/edit?usp=sharing">Google Source</a></td>
-<td>Coming Soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=bd99843a-4ecb-461e-9d25-a2b57ef03bec">Content Center</a></td>
 </tr>
 </tbody>
 </table>
