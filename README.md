@@ -1,4 +1,5 @@
-<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1><p><a href="https://ansible.github.io/slides>View on website</a></p>
+<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
+<p><a href="https://ansible.github.io/slides">View on website</a></p>
 
 - [General](#general)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
