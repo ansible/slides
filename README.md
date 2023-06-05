@@ -80,6 +80,40 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
+# Competitive
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Competitive Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1YhmKq5IO2B68TZcGqV3QWyJjVpQC36BQDq4Pq1nxg5U/edit?usp=share_link">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>AAP vs AWX: Business Value Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1i_PsX3BFMPilSgn0WbdVU9p4vGx3OHdBqIibm1sFMR8/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>AAP + AWX 301</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>AWX - AAP 2.x Comparison (Apples / Oranges)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1DTClTntd8yXJyej8JqK91jAIngi8TirC82pNuHaZ-Pk/edit?usp=share_link">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
+
 # EDA - Event-Driven Ansible
 
 <table>
