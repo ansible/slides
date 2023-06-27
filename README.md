@@ -80,6 +80,23 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
+# Release information
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AAP 2.4 Overview (Jun 27, 2023)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Ea3O-gopJPADi2HNFJYucn8lNwGk13tBpwE5OJUCS4o/edit?usp=sharing">Google Source</a></td>
+<td>Coming Soon!</td>
+</tr>
+
 # EDA - Event-Driven Ansible
 
 <table>
@@ -291,15 +308,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </thead>
 <tbody>
 <tr>
-<td>Ansible Lightspeed with IBM Watson Code Assistant</td>
+<td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1WZmjs2ta7cMSo3mOD8pwathduVL0sbiQbIGokEbMY6E/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
-
-
-
 
 # Network Automation
 
