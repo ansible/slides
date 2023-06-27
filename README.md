@@ -96,6 +96,8 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Ea3O-gopJPADi2HNFJYucn8lNwGk13tBpwE5OJUCS4o/edit?usp=sharing">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
+</tbody>
+</table>
 
 # EDA - Event-Driven Ansible
 
