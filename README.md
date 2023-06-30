@@ -2,6 +2,7 @@
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
 - [General](#general)
+- [Release information](#release-information)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
@@ -43,7 +44,7 @@
 <tr>
 <td>Ansible Automation Platform: The Value of the Subscription</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1KabcO3oSy_cSwqFy5E6VQN2kAWYiSxfS823uuA9eOi0/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f3197eb7-7d96-44ed-a19d-62380031b0ff">Content Center</a></td>
 </tr>
 <tr>
 <td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
