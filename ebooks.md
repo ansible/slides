@@ -3,7 +3,9 @@
 - [General](#general)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Network Automation](#network-automation)
-- [Security Automation](#security-automation)
+- [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
+- [Edge](#edge)
+- [Security](#security)
 
 
 # General
@@ -21,6 +23,21 @@
 <td>Automate infrastructure workflows</td>
 <td><a target="_blank" href="https://www.redhat.com/en/engage/infra-automation-ebook-s-202009020400">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ed02d47c-64e1-4954-bf97-367641cdcbc7">Content Center</a></td>
+</tr>
+<tr>
+<td>The automated enterprise: Unify people and processes</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automated-enterprise-e-book">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=86cf4c7b-ed93-4f26-b2d3-1ae8f76b199e">Content Center</a></td>
+</tr>
+<tr>
+<td>An IT executive's guide to automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automated-enterprise-e-book">on redhat.com</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2b0b20c5-9ec7-43be-a6ac-be07bf43be1c">Content Center</a></td>
+</tr>
+<tr>
+<td>Tales from the field: A system administrator's guide to IT automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automated-enterprise-e-book">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=97acc32c-9e2d-4a24-9ae3-2742d92e6cb4">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -78,20 +95,73 @@
 </tbody>
 </table>
 
-# Security Automation
+# Event-Driven Ansible (EDA)
 
 <table>
 <thead>
 <tr>
-<th>ebook title</th>
+<th>Datasheet title</th>
 <th>external link</th>
 <th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Enhance security with automation</td>
-<td><a target="_blank" href="https://www.redhat.com/en/engage/security-with-automation-20230412">on redhat.com</a></td>
+<td>Event-driven automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/event-driven-automation">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a09af499-4dd9-4a1c-8f04-31162246fde0">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Edge
+
+<table>
+<thead>
+<tr>
+<th>Datasheet title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automation at the edge: 7 industry use cases and examples</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-at-the-edge-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bf58785c-62ff-48c9-9bf1-0482d02afc34">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Security
+
+<table>
+<thead>
+<tr>
+<th>Datasheet title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The cost of human error and the advantages of automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/advantages-security-automation-e-book">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=64706003-96a5-40b1-8136-ca0845d16607">Content Center</a></td>
+</tr>
+<tr>
+<td>Simplify your security operations center</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/security-automation-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=33895571-53d6-4227-803c-743ab1a4aba1">Content Center</a></td>
+</tr>
+<tr>
+<td>Build a foundation of security with Zero Trust and automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ita-zero-trust-automation-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b4c317be-bcd9-4e99-9706-109aa1ba8848">Content Center</a></td>
+</tr>
+<tr>
+<td>Customer Success Series: Enhance your security with automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/enhance-security-with-automation">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e8deff-fe33-4a2e-8788-33d48169cbbf">Content Center</a></td>
 </tr>
 </tbody>
