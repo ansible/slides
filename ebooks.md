@@ -7,6 +7,7 @@
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Edge](#edge)
 - [Security](#security)
+- [Value of a subscription](#value-of-a-subscription)
 
 
 # General
@@ -203,6 +204,30 @@
 <td>Customer Success Series: Enhance your security with automation</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/enhance-security-with-automation">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e8deff-fe33-4a2e-8788-33d48169cbbf">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Value of a subscription
+
+<table>
+<thead>
+<tr>
+<th>Datasheet title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The IT automation imperative: What executives need to know</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/it-automation-for-executives-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=10fdcfe0-e14c-478d-83ed-484d2c64e3a2">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform: A beginner’s guide</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-beginner-guide-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c124c535-7608-4729-bba6-79c9b28f4181">Content Center</a></td>
 </tr>
 </tbody>
 </table>
