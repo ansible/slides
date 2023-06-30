@@ -28,13 +28,43 @@
 </tr>
 <tr>
 <td>An IT executive's guide to automation</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/automated-enterprise-e-book">on redhat.com</a></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/executive-guide-to-automation-ebook">on redhat.com</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2b0b20c5-9ec7-43be-a6ac-be07bf43be1c">Content Center</a></td>
 </tr>
 <tr>
 <td>Tales from the field: A system administrator's guide to IT automation</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/automated-enterprise-e-book">on redhat.com</a></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/system-administrator-guide-to-automation-ebook">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=97acc32c-9e2d-4a24-9ae3-2742d92e6cb4">Content Center</a></td>
+</tr>
+<tr>
+<td>5 steps to automate your business</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/5-steps-to-automate-your-business-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=88fa912e-8875-480f-a182-a92ebd8634b3">Content Center</a></td>
+</tr>
+<tr>
+<td>The automation architect's handbook</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-architect-handbook-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=818507ac-5646-48fb-9006-e5b4d58aca52">Content Center</a></td>
+</tr>
+<tr>
+<td>Customer Success Series: Innovate with Automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/innovate-with-automation">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c51c3a45-e4d9-48bc-b1b1-2332c0b3642e">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform 2</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-2-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b4a34569-7349-4441-9adc-c5163a6dab64">Content Center</a></td>
+</tr>
+<tr>
+<td>How to jumpstart your automation initiatives</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/jumpstart-automation-initiatives-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=80e9f767-7a20-42fb-9d2c-a4dd20536682">Content Center</a></td>
+</tr>
+<tr>
+<td>Automate IT operations to support the modern business</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/midmarket-automation-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ab5445cf-8fd4-4891-a974-1a5cc3b7485b">Content Center</a></td>
 </tr>
 </tbody>
 </table>
