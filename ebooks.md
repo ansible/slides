@@ -2,6 +2,7 @@
 
 - [General](#general)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
+- [Infrastructure](#infrastructure)
 - [Network Automation](#network-automation)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Edge](#edge)
@@ -19,11 +20,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>Automate infrastructure workflows</td>
-<td><a target="_blank" href="https://www.redhat.com/en/engage/infra-automation-ebook-s-202009020400">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ed02d47c-64e1-4954-bf97-367641cdcbc7">Content Center</a></td>
-</tr>
 <tr>
 <td>The automated enterprise: Unify people and processes</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automated-enterprise-e-book">on redhat.com</a></td>
@@ -71,6 +67,40 @@
 </tbody>
 </table>
 
+# Infrastructure
+
+<table>
+<thead>
+<tr>
+<th>ebook title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automate Red Hat Enterprise Linux</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-red-hat-enterprise-linux-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=27224ac9-5970-496b-901e-cb4946ec1376">Content Center</a></td>
+</tr>
+<tr>
+<td>Automate infrastructure workflows</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/infra-automation-ebook-s-202009020400">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ed02d47c-64e1-4954-bf97-367641cdcbc7">Content Center</a></td>
+</tr>
+<tr>
+<td>SAP S/4HANA modernization begins with automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/simplify-it-infrastructure">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c8ad839a-c1ca-4926-8000-d31605b089b5">Content Center</a></td>
+</tr>
+<tr>
+<td>Customer Success Series: Simplify IT infrastructure with automation</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/sap-s4hana-automation-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=23887ed1-d0e9-4095-8bbd-83cfa9cec2c9">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
 # Network Automation
 
 <table>
@@ -91,6 +121,16 @@
 <td>Network automation guide: Expand automation across multivendor networks</td>
 <td><a target="_blank" href="https://www.redhat.com/en/engage/network-automation-guide-20221202">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5c47feab-360d-42c4-8335-d7199cee4985">Content Center</a></td>
+</tr>
+<tr>
+<td>Connect and communicate with reliable, security-focused network</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/connect-and-communicate-network-ecosystem-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e0506582-97d4-4b47-bb13-c63df3c694cf">Content Center</a></td>
+</tr>
+<tr>
+<td>Automate your network with Red Hat</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/network-automation-technical-e-book">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=363c136c-0c30-4d74-a3d0-59f3d1eea97a">Content Center</a></td>
 </tr>
 </tbody>
 </table>
