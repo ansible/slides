@@ -94,7 +94,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Ansible on Windows for financial servicest</td>
+<td>Ansible on Windows for financial services</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-on-windows-financial-services-datasheet">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=729bb83a-0960-4285-9191-4a601f8a0707">Content Center</a></td>
 </tr>
