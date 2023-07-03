@@ -41,7 +41,7 @@
 <tr>
 <th>Case Study</th>
 <th>Customer</th>
-<th>Region</ht>
+<th>Region</th>
 <th>external link</th>
 <th>RHCC Link (employees and partners)</th>
 </tr>
@@ -76,6 +76,34 @@
 <td>APAC</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/asian-development-bank-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=861c673d-332f-49ea-9855-21ab511d5c0f">Content Center</a></td>
+</tr>
+<tr>
+<td>TTTech automates virtualized environment with Red Hat</td>
+<td>TTTech</td>
+<td>EMEA</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/TTTech-success-snapshot">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8842123-32e6-4477-b120-77c5c8ca4f2e">Content Center</a></td>
+</tr>
+<tr>
+<td>Axcelinno accelerates customer success with Red Hat partnership</td>
+<td>Axcelinno</td>
+<td>NA</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/axcelinno-accelerates-customer-success-partner-snapshot">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=29440833-75f1-4a75-bfca-56d54683fe91">Content Center</a></td>
+</tr>
+<tr>
+<td>Axcelinno Rapid Start for Red Hat Ansible Automation Platform</td>
+<td>Axcelinno</td>
+<td>NA</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/axcellino-rapid-start-case-study">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2b250f6f-817f-42f7-83d0-030c93ce2eb7">Content Center</a></td>
+</tr>
+<tr>
+<td>Swiss service provider meets SAP support deadline, improves delivery</td>
+<td>WWZ Energie</td>
+<td>EMEA</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/wwz-energie-case-study">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7a00b224-1f3a-49b7-bdf5-0b8818fe717b">Content Center</a></td>
 </tr>
 </tbody>
 </table>
