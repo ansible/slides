@@ -1,5 +1,43 @@
 <h1> Data Sheet finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
 
+- [General](#general)
+- [Hybrid Cloud Automation](#hybrid-cloud-automation)
+- [Infrastructure Automation](#infrastructure-automation)
+
+# General
+
+<table>
+<thead>
+<tr>
+<th>Datasheet title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Red Hat Ansible Automation Platform</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-datasheet">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=707f8008-0123-411f-89a0-f50b816670a6">Content Center</a></td>
+</tr>
+<tr>
+<td>Bringing automation to the enterprise</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/bringing-automation-to-the-enterprise-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=46e507e3-d307-417e-b27b-127f42ad8933">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Services Solution</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-patching-compliance-management-security-datasheet">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e63b152-5064-4f47-bed0-84aace553d3b">Content Center</a></td>
+</tr>
+<tr>
+<td>Activate Red Hat Insights for Red Hat Ansible Automation Platform</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/activate-insights-ansible-automation-platform-datasheet">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5740fcac-91e3-421f-8f2e-be5e356bd00b">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
 # Hybrid Cloud Automation
 
 <table>
@@ -44,5 +82,22 @@
 </tbody>
 </table>
 
+# Infrastructure Automation
 
+<table>
+<thead>
+<tr>
+<th>Datasheet title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AWS Data Sheet</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-on-windows-financial-services-datasheet">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=729bb83a-0960-4285-9191-4a601f8a0707">Content Center</a></td>
+</tr>
+</tbody>
+</table>
 
