@@ -2,13 +2,13 @@
 
 <p> In addition to the slide decks provided below, you can access customer references for Red Hat Ansible Automation Platform publicly via this <a target="_blank" href="https://www.redhat.com/en/success-stories?f[0]=taxonomy_product_tid:25911">link</a>. </p>
 
-- [Main Lists](#main-lists)
+- [Decks](#decks)
 - [General](#general)
 - [Hybrid Cloud](#hybrid-cloud)
 - [Infrastructure](#infrastructure)
 
 
-# Main Lists
+# Decks
 
 <table>
 <thead>
@@ -137,7 +137,7 @@
 <tr>
 <th>Case Study</th>
 <th>Customer</th>
-<th>Region</ht>
+<th>Region</th>
 <th>external link</th>
 <th>RHCC Link (employees and partners)</th>
 </tr>
