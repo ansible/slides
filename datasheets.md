@@ -2,7 +2,7 @@
 <p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs and checklists</p>
 
 - [General](#general)
-  - [General Checklist](#general-checklist)
+  - [General Checklists](#general-checklists)
 - [Edge](#edge)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
@@ -68,7 +68,7 @@
 </tbody>
 </table>
 
-## General Checklist
+## General Checklists
 
 <table>
 <thead>
