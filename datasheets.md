@@ -127,6 +127,18 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/get-started-hybrid-cloud-compliance-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f5935a93-e941-4ca7-ae73-025a73692e91">Content Center</a></td>
 </tr>
+<tr>
+<td>Bring instant automation to Microsoft Azure</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/instant-automation-microsoft-azure-ansible-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e5a50a2e-f631-41a6-9b96-9b2b210f2c1c">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate your cloud</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-aws-marketplace-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=baf647d3-c1df-4b30-b5df-e68bfdb26caf">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
