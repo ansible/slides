@@ -1,5 +1,5 @@
 <h1> Collateral finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
-<p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs, checklists and infographics</p>
+<p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs, checklists, infographics and overviews</p>
 
 - [General](#general)
   - [General Checklists](#general-checklists)
@@ -302,6 +302,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-for-windows-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1e38aff6-6fc3-4194-9fb6-947bd7a34ff6">Content Center</a></td>
 </tr>
+<tr>
+<td>Manage and automate storage - NetApp</td>
+<td>Overview</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/manage-and-automate-storage-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1c9fc367-aa23-42b9-9663-d0941e1c9e6a">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -334,6 +340,18 @@
 <td>Infographic</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/cybersecurity-cost-of-human-error-infographic">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=01b9ce6d-b166-457a-ac4b-7f3eae50a403">Content Center</a></td>
+</tr>
+<tr>
+<td>Automation for security and compliance</td>
+<td>Overview</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-for-security-and-compliance-defense-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=13dc70fe-5089-4f57-baa2-14f7145c3a37">Content Center</a></td>
+</tr>
+<tr>
+<td>Improve and automate compliance with Red Hat and OpenSCAP</td>
+<td>Overview</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/healthcare-automated-security-compliance-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f33539f1-7441-4751-a76b-e408be9688cb">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -373,6 +391,12 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/migrate-ansible-automation-platform-2-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=2fd58a13-82de-4a6c-b5f6-57f4f54c54f9">Content Center</a></td>
+</tr>
+<tr>
+<td>Evolving automation in your enterprise with Red Hat Services</td>
+<td>Overview</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/evolving-automation-in-your-enterprise-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f51542d2-93fc-4bd9-bdd3-3f89574fa2d0">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -445,6 +469,13 @@
 <td>Government</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/5-benefits-automation-public-sector-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d671c24-574d-4685-98e0-335a71ad727e">Content Center</a></td>
+</tr>
+<tr>
+<td>Monitor and modernize applications - Splunk</td>
+<td>Overview</td>
+<td>Government</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/splunk-monitor-modernize-apps-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1ce9d946-3e28-426b-bbb4-aa669eade301">Content Center</a></td>
 </tr>
 <tr>
 <td>Automation for a new future in oil and gas</td>
