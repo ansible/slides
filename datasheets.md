@@ -1,4 +1,5 @@
-<h1> Data Sheet finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
+<h1> Collateral finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
+<p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs and checklists</p>
 
 - [General](#general)
 - [Edge](#edge)
