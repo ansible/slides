@@ -245,7 +245,7 @@
 </tr>
 <tr>
 <td>Choose the right automation platform for Microsoft Azure</td>
-<td>Brief</td>
+<td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-microsoft-azure-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74c71fac-97c0-42af-acf1-41c7c8831354">Content Center</a></td>
 </tr>
