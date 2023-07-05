@@ -48,12 +48,6 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cb167dca-411c-42ca-8d92-424847160a40">Content Center</a></td>
 </tr>
 <tr>
-<td>IT automation for the evolving automotive marketplace</td>
-<td>Brief</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/it-automation-evolving-automotive-marketplace-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7dea76a4-4b99-4e64-a4ef-da455c388851">Content Center</a></td>
-</tr>
-<tr>
 <td>Red Hat Ansible Automation Platform skills path</td>
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief">on redhat.com</a></td>
@@ -483,6 +477,13 @@
 <td>Oil and Gas</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automation-future-oil-gas-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=94c449be-1a65-47d7-888b-045484559aa3">Content Center</a></td>
+</tr>
+<tr>
+<td>IT automation for the evolving automotive marketplace</td>
+<td>Brief</td>
+<td>Automotive</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/it-automation-evolving-automotive-marketplace-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7dea76a4-4b99-4e64-a4ef-da455c388851">Content Center</a></td>
 </tr>
 </tbody>
 </table>
