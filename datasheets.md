@@ -1,6 +1,7 @@
 <h1> Data Sheet finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
 
 - [General](#general)
+- [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Verticals](#verticals)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Infrastructure Automation](#infrastructure-automation)
@@ -54,6 +55,33 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=66c6237c-3e1d-420b-99be-107bf19c2631">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Event-Driven Ansible (EDA)
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5 reasons to include event-driven automation in your IT strategy</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/5-reasons-for-event-driven-automation-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c2d7b193-a769-4bdc-bc8d-0417dcbe4292">Content Center</a></td>
+</tr>
+<tr>
+<td>5 ways event-driven automation can help you achieve more</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/5-ways-event-driven-automation-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ede2f695-1c27-419e-84b9-5126100f3627">Content Center</a></td>
 </tr>
 </tbody>
 </table>
