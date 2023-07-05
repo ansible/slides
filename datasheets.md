@@ -79,6 +79,7 @@
 <th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
+<tbody>
 <tr>
 <td>4 ways to prepare teams to be an automation-first organization</td>
 <td>Checklist</td>
