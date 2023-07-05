@@ -2,11 +2,11 @@
 
 - [General](#general)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
-- [Verticals](#verticals)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security](#security)
 - [Services](#services)
+- [Verticals](#verticals)
 
 # General
 
@@ -56,6 +56,24 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=66c6237c-3e1d-420b-99be-107bf19c2631">Content Center</a></td>
 </tr>
+<tr>
+<td>4 ways to prepare teams to be an automation-first organization</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-team-preparation">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bfe53232-b4f8-4c27-9776-37f50f311d54">Content Center</a></td>
+</tr>
+<tr>
+<td>Enterprise automation with a DevOps methodology</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/enterprise-automation-in-DevOps-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=68596cbc-ed2c-498d-8fa4-0e5ddc6d5808">Content Center</a></td>
+</tr>
+<tr>
+<td>7 considerations for adopting end-to-end IT automation</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/7-considerations-adopting-automation-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bcee5a85-d9cd-41d1-9df9-4b4e814da2b9">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -82,71 +100,6 @@
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/5-ways-event-driven-automation-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ede2f695-1c27-419e-84b9-5126100f3627">Content Center</a></td>
-</tr>
-</tbody>
-</table>
-
-# Verticals
-
-<table>
-<thead>
-<tr>
-<th>Title</th>
-<th>Type</th>
-<th>Industry</th>
-<th>external link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Automation strategy for financial services</td>
-<td>Brief</td>
-<td>Financial</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-strategy-financial-services-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1e976bdc-447c-4c8f-801f-bdb4e30b67fe">Content Center</a></td>
-</tr>
-<tr>
-<td>Five benefits of IT automation for financial services</td>
-<td>Brief</td>
-<td>Financial</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/five-benefits-automation-financial-services-solution-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=34347d5f-205e-4d2c-bd9e-9db5e7d354d1">Content Center</a></td>
-</tr>
-<tr>
-<td>3 ways Red Hat Ansible Automation Platform accelerates financial services innovation</td>
-<td>Brief</td>
-<td>Financial</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/3-ways-ansible-automation-platform-accelerates-innovation-fsi-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3413d7bc-45c8-48b8-8ef9-45d77aebfe64">Content Center</a></td>
-</tr>
-<tr>
-<td>Deliver enterprise IT automation with Red Hat and Intel</td>
-<td>Brief</td>
-<td>Financial</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/deliver-enterprise-it-innovation">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fc257903-80f4-4a9a-976d-cda3fba4fed3">Content Center</a></td>
-</tr>
-<tr>
-<td>Accelerate digital transformation with Red Hat Ansible Automation Platform</td>
-<td>Brief</td>
-<td>Financial</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/financial-services-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0b8e4fbb-aed6-4d43-8b93-2bf8bbbb2f45">Content Center</a></td>
-</tr>
-<tr>
-<td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
-<td>Brief</td>
-<td>Government</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/accelerate-public-sector-digital-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4944421f-2754-4453-9022-22dc4510480d">Content Center</a></td>
-</tr>
-<tr>
-<td>Automation for a new future in oil and gas</td>
-<td>Brief</td>
-<td>Oil and Gas</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-future-oil-gas-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=94c449be-1a65-47d7-888b-045484559aa3">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -297,6 +250,78 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/migrate-ansible-automation-platform-2-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=2fd58a13-82de-4a6c-b5f6-57f4f54c54f9">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Verticals
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>Industry</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automation strategy for financial services</td>
+<td>Brief</td>
+<td>Financial</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-strategy-financial-services-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1e976bdc-447c-4c8f-801f-bdb4e30b67fe">Content Center</a></td>
+</tr>
+<tr>
+<td>Five benefits of IT automation for financial services</td>
+<td>Brief</td>
+<td>Financial</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/five-benefits-automation-financial-services-solution-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=34347d5f-205e-4d2c-bd9e-9db5e7d354d1">Content Center</a></td>
+</tr>
+<tr>
+<td>3 ways Red Hat Ansible Automation Platform accelerates financial services innovation</td>
+<td>Brief</td>
+<td>Financial</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/3-ways-ansible-automation-platform-accelerates-innovation-fsi-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3413d7bc-45c8-48b8-8ef9-45d77aebfe64">Content Center</a></td>
+</tr>
+<tr>
+<td>Deliver enterprise IT automation with Red Hat and Intel</td>
+<td>Brief</td>
+<td>Financial</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/deliver-enterprise-it-innovation">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fc257903-80f4-4a9a-976d-cda3fba4fed3">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate digital transformation with Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td>Financial</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/financial-services-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0b8e4fbb-aed6-4d43-8b93-2bf8bbbb2f45">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td>Government</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/accelerate-public-sector-digital-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4944421f-2754-4453-9022-22dc4510480d">Content Center</a></td>
+</tr>
+<tr>
+<td>5 benefits of IT automation for the public sector</td>
+<td>Brief</td>
+<td>Government</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/5-benefits-automation-public-sector-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d671c24-574d-4685-98e0-335a71ad727e">Content Center</a></td>
+</tr>
+<tr>
+<td>Automation for a new future in oil and gas</td>
+<td>Brief</td>
+<td>Oil and Gas</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-future-oil-gas-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=94c449be-1a65-47d7-888b-045484559aa3">Content Center</a></td>
 </tr>
 </tbody>
 </table>
