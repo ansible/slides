@@ -1,5 +1,5 @@
 <h1> Collateral finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
-<p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs and checklists</p>
+<p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs, checklists and infogrpahics</p>
 
 - [General](#general)
   - [General Checklists](#general-checklists)
@@ -64,6 +64,12 @@
 <td>Whitepaper</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-continuous-integration-delivery-whitepaper">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e967f3-488b-4039-a91b-ab2795e5321d">Content Center</a></td>
+</tr>
+<tr>
+<td>The impact of Red Hat Ansible Automation Platform training</td>
+<td>Infographic</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/impact-of-ansible-automation-platform-training-infographic">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a70ec6a8-d70d-4f53-8aa1-36c983aae81d">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -257,6 +263,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-microsoft-azure-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74c71fac-97c0-42af-acf1-41c7c8831354">Content Center</a></td>
 </tr>
+<tr>
+<td>End-to-end automation: A strategic advantage</td>
+<td>Infographic</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-aws-marketplace-infographic">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=96e2050b-babb-42fe-945a-c92261075616">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -316,6 +328,12 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/cyber-compliance-infrastructure-automation-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=581e1432-83f5-4fe0-8443-8890ea21d99a">Content Center</a></td>
+</tr>
+<tr>
+<td>Cybersecurity: The cost of human error</td>
+<td>Infographic</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/cybersecurity-cost-of-human-error-infographic">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=01b9ce6d-b166-457a-ac4b-7f3eae50a403">Content Center</a></td>
 </tr>
 </tbody>
 </table>
