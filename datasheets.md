@@ -45,8 +45,18 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/five-benefits-automation-financial-services-solution-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=34347d5f-205e-4d2c-bd9e-9db5e7d354d1">Content Center</a></td>
 </tr>
-
-
+<tr>
+<td>Automation for a new future in oil and gas</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-future-oil-gas-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=94c449be-1a65-47d7-888b-045484559aa3">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cb167dca-411c-42ca-8d92-424847160a40">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
