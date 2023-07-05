@@ -1,6 +1,7 @@
 <h1> Data Sheet finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
 
 - [General](#general)
+- [Partners](#partners)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security](#security)
@@ -72,12 +73,6 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8dc973ba-cc10-4d70-a1e4-8486b7a9bf57">Content Center</a></td>
 </tr>
 <tr>
-<td>Red Hat Services Sprint Workshop: Ansible for F5 solutions</td>
-<td>Brief</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-workshop-sprint-f5-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1dfea147-2105-4a01-8c23-0c1e0fb8a292">Content Center</a></td>
-</tr>
-<tr>
 <td>Automation strategy for financial services</td>
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automation-strategy-financial-services-brief">on redhat.com</a></td>
@@ -88,12 +83,6 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/financial-services-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0b8e4fbb-aed6-4d43-8b93-2bf8bbbb2f45">Content Center</a></td>
-</tr>
-<tr>
-<td>Deliver enterprise IT automation with Red Hat and Intel</td>
-<td>Brief</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/deliver-enterprise-it-innovation">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fc257903-80f4-4a9a-976d-cda3fba4fed3">Content Center</a></td>
 </tr>
 <tr>
 <td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
@@ -112,6 +101,33 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=66c6237c-3e1d-420b-99be-107bf19c2631">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Partners
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Red Hat Services Sprint Workshop: Ansible for F5 solutions</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-workshop-sprint-f5-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1dfea147-2105-4a01-8c23-0c1e0fb8a292">Content Center</a></td>
+</tr>
+<tr>
+<td>Deliver enterprise IT automation with Red Hat and Intel</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/deliver-enterprise-it-innovation">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fc257903-80f4-4a9a-976d-cda3fba4fed3">Content Center</a></td>
 </tr>
 </tbody>
 </table>
