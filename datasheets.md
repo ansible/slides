@@ -73,6 +73,13 @@
 <table>
 <thead>
 <tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tr>
 <td>4 ways to prepare teams to be an automation-first organization</td>
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automation-team-preparation">on redhat.com</a></td>
