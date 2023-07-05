@@ -3,6 +3,7 @@
 - [General](#general)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Infrastructure Automation](#infrastructure-automation)
+- [Security](#security)
 
 # General
 
@@ -76,6 +77,42 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-workshop-sprint-f5-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1dfea147-2105-4a01-8c23-0c1e0fb8a292">Content Center</a></td>
 </tr>
+<tr>
+<td>Automation strategy for financial services</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-strategy-financial-services-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1e976bdc-447c-4c8f-801f-bdb4e30b67fe">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate digital transformation with Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/financial-services-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0b8e4fbb-aed6-4d43-8b93-2bf8bbbb2f45">Content Center</a></td>
+</tr>
+<tr>
+<td>Deliver enterprise IT automation with Red Hat and Intel</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/deliver-enterprise-it-innovation">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fc257903-80f4-4a9a-976d-cda3fba4fed3">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/accelerate-public-sector-digital-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4944421f-2754-4453-9022-22dc4510480d">Content Center</a></td>
+</tr>
+<tr>
+<td>3 ways Red Hat Ansible Automation Platform accelerates financial services innovation</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/3-ways-ansible-automation-platform-accelerates-innovation-fsi-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3413d7bc-45c8-48b8-8ef9-45d77aebfe64">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform skills path</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=66c6237c-3e1d-420b-99be-107bf19c2631">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -139,6 +176,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-aws-marketplace-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=baf647d3-c1df-4b30-b5df-e68bfdb26caf">Content Center</a></td>
 </tr>
+<tr>
+<td>Migrate to Red Hat Ansible Automation Platform 2 with Red Hat Services</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/migrate-ansible-automation-platform-2-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=2fd58a13-82de-4a6c-b5f6-57f4f54c54f9">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -163,3 +206,29 @@
 </tbody>
 </table>
 
+# Security
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Achieving mission success: Continuous diagnostics and mitigation</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/continuous-diagnostics-mitigation-data-security-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=44a25ebd-e44d-4308-8038-97b04bede495">Content Center</a></td>
+</tr>
+<tr>
+<td>Improving cyber compliance with infrastructure automation</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/cyber-compliance-infrastructure-automation-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=581e1432-83f5-4fe0-8443-8890ea21d99a">Content Center</a></td>
+</tr>
+</tbody>
+</table>
