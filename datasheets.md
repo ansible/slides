@@ -1,6 +1,7 @@
 <h1> Data Sheet finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
 
 - [General](#general)
+- [Edge](#edge)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Infrastructure Automation](#infrastructure-automation)
@@ -73,6 +74,57 @@
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/7-considerations-adopting-automation-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bcee5a85-d9cd-41d1-9df9-4b4e814da2b9">Content Center</a></td>
+</tr>
+<tr>
+<td>3 ways IT leaders can measure their organization’s automation efforts</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/3-ways-to-measure-automation-success-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d89d787d-f1d7-4363-b0a0-51c67e8c78ea">Content Center</a></td>
+</tr>
+<tr>
+<td>5 ways IT professionals can measure their automation success</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/5-ways-to-measure-automation-success-for-it-pros-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c45287fa-b209-443d-ba77-67d6058b33ba">Content Center</a></td>
+</tr>
+<tr>
+<td>3 ways Ansible Automation Platform accelerates innovation</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/3-ways-ansible-automation-platform-accelerates-innovation-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a5517972-51f9-47f8-b054-5c212b0cb99a">Content Center</a></td>
+</tr>
+<tr>
+<td>6 ways to promote IT automation adoption across your organization</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/6-ways-to-IT-automation-adoption-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2c0aa596-8e90-4d77-9fd2-fce1aa3944c1">Content Center</a></td>
+</tr>
+<tr>
+<td>Deliver more value from IT service management with ServiceNow</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-servicenow-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=40d15fc0-3e47-46a7-8d14-5f6db0dfa2c9">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Edge
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3 reasons to introduce automation at the edge of the network</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/3-reasons-automation-at-edge-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ef879db9-b630-4eed-b77f-5807a964808c">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -164,6 +216,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-aws-marketplace-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=baf647d3-c1df-4b30-b5df-e68bfdb26caf">Content Center</a></td>
 </tr>
+<tr>
+<td>Choose the right automation platform for Microsoft Azure</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-microsoft-azure-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74c71fac-97c0-42af-acf1-41c7c8831354">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -184,6 +242,18 @@
 <td>Datasheet</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-on-windows-financial-services-datasheet">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=729bb83a-0960-4285-9191-4a601f8a0707">Content Center</a></td>
+</tr>
+<tr>
+<td>4 benefits of automating SQL Server on Red Hat Enterprise Linux</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/four-benefits-of-automating-sql-server-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c17d26c9-d80e-4008-9a1c-94835394801c">Content Center</a></td>
+</tr>
+<tr>
+<td>10 ways to automate Microsoft Windows with Red Hat Ansible</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-for-windows-checklist">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1e38aff6-6fc3-4194-9fb6-947bd7a34ff6">Content Center</a></td>
 </tr>
 </tbody>
 </table>

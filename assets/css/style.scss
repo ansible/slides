@@ -312,3 +312,7 @@ h2 {
   margin-right: 40px;
   width: calc(100% - 60px);
 }
+
+tr:nth-child(odd) td {
+  background-color: #ffffff;
+}
