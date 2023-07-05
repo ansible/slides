@@ -55,7 +55,8 @@
 <table>
 <thead>
 <tr>
-<th>Datasheet title</th>
+<th>Title</th>
+<th>Type</th>
 <th>external link</th>
 <th>RHCC Link (employees and partners)</th>
 </tr>
@@ -105,8 +106,8 @@
 <table>
 <thead>
 <tr>
-<th>Datasheet title</th>
-<td>Datasheet</td>
+<th>Title</th>
+<th>Type</th>
 <th>external link</th>
 <th>RHCC Link (employees and partners)</th>
 </tr>
