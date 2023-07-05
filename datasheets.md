@@ -105,6 +105,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-servicenow-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=40d15fc0-3e47-46a7-8d14-5f6db0dfa2c9">Content Center</a></td>
 </tr>
+<tr>
+<td>Streamline CI/CD pipelines with Red Hat Ansible Automation Platform</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-continuous-integration-delivery-whitepaper">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e967f3-488b-4039-a91b-ab2795e5321d">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -152,6 +158,18 @@
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/5-ways-event-driven-automation-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ede2f695-1c27-419e-84b9-5126100f3627">Content Center</a></td>
+</tr>
+<tr>
+<td>Highly responsive IT with event-driven automation</td>
+<td>Whitepaper</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/responsive-event-automation-whitepaper">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8e4de66-e4a5-42c9-87d6-a8f7715a4132">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate your path to self-healing infrastructure</td>
+<td>Whitepaper</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/accelerate-self-healing-whitepaper">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b7f2bcfa-caba-463b-9059-c1c64a222c54">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -371,6 +389,13 @@
 <td>Financial</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/financial-services-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0b8e4fbb-aed6-4d43-8b93-2bf8bbbb2f45">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat automated security and compliance for financial services</td>
+<td>Whitepaper</td>
+<td>Financial</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-security-compliance-overview-financial-services">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3ffd08b8-3af7-4a97-918f-cfb2531657ca">Content Center</a></td>
 </tr>
 <tr>
 <td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
