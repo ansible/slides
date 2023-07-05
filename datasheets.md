@@ -18,6 +18,7 @@
 <tbody>
 <tr>
 <td>Red Hat Ansible Automation Platform</td>
+<td>Datasheet</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-datasheet">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=707f8008-0123-411f-89a0-f50b816670a6">Content Center</a></td>
 </tr>
@@ -56,6 +57,24 @@
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cb167dca-411c-42ca-8d92-424847160a40">Content Center</a></td>
+</tr>
+<tr>
+<td>IT automation for the evolving automotive marketplace</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/it-automation-evolving-automotive-marketplace-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7dea76a4-4b99-4e64-a4ef-da455c388851">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Services Journey: Automation Adoption</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/services-journey-automation-adoption-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8dc973ba-cc10-4d70-a1e4-8486b7a9bf57">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Services Sprint Workshop: Ansible for F5 solutions</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-workshop-sprint-f5-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1dfea147-2105-4a01-8c23-0c1e0fb8a292">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -125,6 +144,7 @@
 <tbody>
 <tr>
 <td>Ansible on Windows for financial services</td>
+<td>Datasheet</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-on-windows-financial-services-datasheet">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=729bb83a-0960-4285-9191-4a601f8a0707">Content Center</a></td>
 </tr>
