@@ -2,6 +2,7 @@
 <p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs and checklists</p>
 
 - [General](#general)
+  - [General Checklist](#general-checklist)
 - [Edge](#edge)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
@@ -59,6 +60,19 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=66c6237c-3e1d-420b-99be-107bf19c2631">Content Center</a></td>
 </tr>
 <tr>
+<td>Streamline CI/CD pipelines with Red Hat Ansible Automation Platform</td>
+<td>Whitepaper</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-continuous-integration-delivery-whitepaper">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e967f3-488b-4039-a91b-ab2795e5321d">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+## General Checklist
+
+<table>
+<thead>
+<tr>
 <td>4 ways to prepare teams to be an automation-first organization</td>
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automation-team-preparation">on redhat.com</a></td>
@@ -105,12 +119,6 @@
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-servicenow-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=40d15fc0-3e47-46a7-8d14-5f6db0dfa2c9">Content Center</a></td>
-</tr>
-<tr>
-<td>Streamline CI/CD pipelines with Red Hat Ansible Automation Platform</td>
-<td>Whitepaper</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-continuous-integration-delivery-whitepaper">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e967f3-488b-4039-a91b-ab2795e5321d">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -406,8 +414,8 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4944421f-2754-4453-9022-22dc4510480d">Content Center</a></td>
 </tr>
 <tr>
-<td>5 benefits of IT automation for the public sector</td>
-<td>Brief</td>
+<td>5 benefits of IT automation for the public sector</td>
+<td>Checklist</td>
 <td>Government</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/5-benefits-automation-public-sector-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d671c24-574d-4685-98e0-335a71ad727e">Content Center</a></td>
