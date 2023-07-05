@@ -108,7 +108,7 @@
 </tr>
 <tr>
 <td>Streamline CI/CD pipelines with Red Hat Ansible Automation Platform</td>
-<td>Checklist</td>
+<td>Whitepaper</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-continuous-integration-delivery-whitepaper">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=95e967f3-488b-4039-a91b-ab2795e5321d">Content Center</a></td>
 </tr>
