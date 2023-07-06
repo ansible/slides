@@ -42,12 +42,6 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5740fcac-91e3-421f-8f2e-be5e356bd00b">Content Center</a></td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform</td>
-<td>Brief</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-brief">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cb167dca-411c-42ca-8d92-424847160a40">Content Center</a></td>
-</tr>
-<tr>
 <td>Red Hat Ansible Automation Platform skills path</td>
 <td>Brief</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-skills-path-brief">on redhat.com</a></td>
