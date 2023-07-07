@@ -51,35 +51,35 @@
 <tr>
 <td>Energy Market Company improves critical application performance with Red Hat Process Automation Manager</td>
 <td>Energy Market Company</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/energy-management-company-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b66b363c-2161-40a2-b84d-462fe552d16a">Content Center</a></td>
 </tr>
 <tr>
 <td>KRA wins race to achieve server automation</td>
 <td>Korea Racing Authority (KRA)</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/achieve-server-automation-snapshot">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=65764247-18fb-488d-9f85-472ec5b4021d">Content Center</a></td>
 </tr>
 <tr>
 <td>Insurance provider saves 70,000 work hours with in-house, automated IT</td>
 <td>Blue Cross and Blue Shield of North Carolina</td>
-<td>NA</td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/bcbsnc-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c66585a7-8531-44e4-bebb-8b6c5702fdc1">Content Center</a></td>
 </tr>
 <tr>
 <td>Indonesia’s treasury unites IT systems to meet rapidly growing demand with Red Hat</td>
 <td>Indonesia’s Directorate General of Treasury</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/indonesia-dg-treasury-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2946609e-9234-4b08-98cd-332779a21a9a">Content Center</a></td>
 </tr>
 <tr>
 <td>Mizuho Securities delivers virtual servers faster with automated processes</td>
 <td>Mizuho</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/mizuho-securities-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=52ce2564-a14a-47d1-8ed0-c8ba6bd3ead3">Content Center</a></td>
 </tr>
@@ -93,7 +93,7 @@
 <tr>
 <td>Healthcare technology provider automates complex billing processes</td>
 <td>Experity Health</td>
-<td>NA</td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/experity-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5df2b38f-92d4-4fd2-a3fe-4a81df637474">Content Center</a></td>
 </tr>
@@ -116,14 +116,14 @@
 <tr>
 <td>Japanese IT company cuts server provisioning time by 78% with automation</td>
 <td>Mizuho</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/mizuho-mhir-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a5594364-2931-4064-b5b5-aec2492d1135">Content Center</a></td>
 </tr>
 <tr>
 <td>Datacom increases efficiency with Red Hat Ansible Automation</td>
 <td>Datacom</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/datacom-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=9d1b2851-8674-417b-b3a8-079605656766">Content Center</a></td>
 </tr>
@@ -146,7 +146,7 @@
 <tr>
 <td>Asian Development Bank saves hundreds of hours by automating infrastructure management with Red Hat</td>
 <td>ADB</td>
-<td>APAC</td>
+<td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/asian-development-bank-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=861c673d-332f-49ea-9855-21ab511d5c0f">Content Center</a></td>
 </tr>
@@ -160,14 +160,14 @@
 <tr>
 <td>Axcelinno accelerates customer success with Red Hat partnership</td>
 <td>Axcelinno</td>
-<td>NA</td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/axcelinno-accelerates-customer-success-partner-snapshot">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=29440833-75f1-4a75-bfca-56d54683fe91">Content Center</a></td>
 </tr>
 <tr>
 <td>Axcelinno Rapid Start for Red Hat Ansible Automation Platform</td>
 <td>Axcelinno</td>
-<td>NA</td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/axcellino-rapid-start-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2b250f6f-817f-42f7-83d0-030c93ce2eb7">Content Center</a></td>
 </tr>
