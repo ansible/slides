@@ -158,6 +158,30 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-servicenow-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=40d15fc0-3e47-46a7-8d14-5f6db0dfa2c9">Content Center</a></td>
 </tr>
+<tr>
+<td>5 reasons to migrate to Red Hat Ansible Automation Platform 2</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/why-migrate-ansible-automation-platform-2-checklist">on redhat.com</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>5 ways to prepare for migration to Red Hat Ansible Automation Platform 2</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/prepare-for-migration-ansible-automation-2-checklist">on redhat.com</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>What's new in Red Hat Ansible Automation Platform 2.2</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/whats-new-ansible-automation-platform-2-2-checklist">on redhat.com</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform 2.3: What to expect</td>
+<td>Checklist</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-2.3-checklist">on redhat.com</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
