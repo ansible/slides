@@ -494,7 +494,7 @@
 <tr>
 <th>Title</th>
 <th>Type</th>
-<th>Industry</th>
+<th id="industry">Industry</th>
 <th>external link</th>
 <th>RHCC Link (employees and partners)</th>
 </tr>
