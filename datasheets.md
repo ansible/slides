@@ -392,7 +392,7 @@
 <td>Gauge Your Infrastructure Automation Maturity</td>
 <td>Overview</td>
 <td><a target="_blank" href="https://www.redhat.com/en/engage/solp-Forrester-Automation-s-202010090803">on redhat.com</a></td>
-<td>Coming soon!/td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
