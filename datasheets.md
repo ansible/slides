@@ -60,37 +60,37 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a70ec6a8-d70d-4f53-8aa1-36c983aae81d">Content Center</a></td>
 </tr>
 <tr>
-<td>IDC: The Business Value of Red Hat Ansible Automation Platform - executive summary</td>
+<td><b>IDC</b>: The Business Value of Red Hat Ansible Automation Platform - executive summary</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/idc-business-value-red-hat-ansible-tower-summary">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=89470a3b-dca3-4b5d-8e8a-75f7342fa61d">Content Center</a></td>
 </tr>
 <tr>
-<td>IDC: Business value of Red Hat Ansible Automation</td>
+<td><b>IDC</b>: Business value of Red Hat Ansible Automation</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/business-value-red-hat-ansible-automation-analyst-paper">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2c001f57-d8ae-49d9-8924-b5b7519e7d56">Content Center</a></td>
 </tr>
 <tr>
-<td>Enterprise open source automation drives innovation</td>
+<td><b>Forrester</b>: Enterprise open source automation drives innovation</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/enterprise-open-source-automation-drives-innovation-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e26a509d-b7c5-45b5-941a-31ef64900aa9">Content Center</a></td>
 </tr>
 <tr>
-<td>The Forrester Wave™: Infrastructure automation Q1 2023</td>
+<td><b>The Forrester Wave™</b>: Infrastructure automation Q1 2023</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/forrester-wave-infrastructure-automation-analyst-asset">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=70655841-e217-4d2f-b794-9bb4add1a256">Content Center</a></td>
 </tr>
 <tr>
-<td>Harvard Business Review: Taking the lead on IT automation</td>
+<td><b>Harvard Business Review</b>: Taking the lead on IT automation</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/taking-lead-on-it-automation-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ad8a20be-1a15-4c41-bcf7-0f0536504518">Content Center</a></td>
 </tr>
 <tr>
-<td>Harvard Business Review:  Taking the lead on IT automation Infographic</td>
+<td><b>Harvard Business Review</b>:  Taking the lead on IT automation Infographic</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/IT-automation-strategies-hbr-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=77c5b564-480a-48bf-b84c-3d304a1a4521">Content Center</a></td>
@@ -180,37 +180,37 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ef879db9-b630-4eed-b77f-5807a964808c">Content Center</a></td>
 </tr>
 <tr>
-<td>EMA: The Future of Data Center Network Automation</td>
+<td><b>EMA</b>: The Future of Data Center Network Automation</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/future-datacenter-network-automation-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d645d104-4a06-4f5c-9de0-97e2295d5b0b">Content Center</a></td>
 </tr>
 <tr>
-<td>Scaling the edge in Europe: Automating data and infrastructure at the edge to drive innovation and growth</td>
+<td><b>IDC</b>: Scaling the edge in Europe: Automating data and infrastructure at the edge to drive innovation and growth</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/idc-scaling-the-edge-in-europe-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4d42f369-e720-469b-8395-99b2f987e436">Content Center</a></td>
 </tr>
 <tr>
-<td>Futurum: A Deep Dive on Edge and Automation</td>
+<td><b>Futurum</b>: A Deep Dive on Edge and Automation</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/futurum-on-edge-automation-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f73d5b91-7116-42ff-8b5c-a76edc16565d">Content Center</a></td>
 </tr>
 <tr>
-<td>Improving compliance with network automation technology</td>
+<td><b>EMA</b>: Improving compliance with network automation technology</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/improve-compliance-network-automation-ema-analyst-paper">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=abea07a4-6bc1-430e-bad1-e1b9f115080b">Content Center</a></td>
 </tr>
 <tr>
-<td>The impact of event-driven automation on IT operations</td>
+<td><b>451 Research</b>: The impact of event-driven automation on IT operations</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/event-driven-impact-on-it-operations-analyst-material?extIdCarryOver=true&sc_cid=701f2000001OH6uAAG">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=36aa59a9-96c8-4b23-8ca3-a62dc252e545">Content Center</a></td>
 </tr>
 <tr>
-<td>IDC paper: Edge growth drives need for automating the last mile</td>
+<td><b>IDC</b>: Edge growth drives need for automating the last mile</td>
 <td>Analyst material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automating-the-last-mile-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=6baa8ef1-e2ac-49c6-9412-506c61deabec">Content Center</a></td>
@@ -332,16 +332,16 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=96e2050b-babb-42fe-945a-c92261075616">Content Center</a></td>
 </tr>
 <tr>
-<td>Cloud automation delivers business value</td>
+<td><b>IDC</b>: Cloud automation delivers business value</td>
 <td>Analyst Material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/cloud-automation-delivers-business-value-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=588f264e-6c53-443a-86ed-1baf940abd4f">Content Center</a></td>
 </tr>
 <tr>
-<td>Automation helps AIA get a head start in being cloud-first</td>
+<td><b>IDC</b>: Automation helps AIA get a head start in being cloud-first</td>
 <td>Analyst Material</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/idc-automation-cloud-first-program-analyst-material">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3dcdd8f8-5c47-4365-8378-3dd403c21a1a">Content Center</a></td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
@@ -543,14 +543,14 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3ffd08b8-3af7-4a97-918f-cfb2531657ca">Content Center</a></td>
 </tr>
 <tr>
-<td>Open source automation drives innovation for financial services</td>
+<td><b>Forrester</b>: Open source automation drives innovation for financial services</td>
 <td>Analyst material</td>
 <td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/open-source-automation-drives-innovation-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e1419fa4-5fa7-4d0a-9955-c6235ba6f263">Content Center</a></td>
 </tr>
 <tr>
-<td>IDG: Security and compliance automation for financial services</td>
+<td><b>IDG</b>: Security and compliance automation for financial services</td>
 <td>Analyst material</td>
 <td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/idg-automate-security-compliance-analyst-paper">on redhat.com</a></td>
