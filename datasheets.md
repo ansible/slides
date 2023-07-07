@@ -503,91 +503,91 @@
 <tr>
 <td>Automation strategy for financial services</td>
 <td>Brief</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automation-strategy-financial-services-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1e976bdc-447c-4c8f-801f-bdb4e30b67fe">Content Center</a></td>
 </tr>
 <tr>
 <td>Five benefits of IT automation for financial services</td>
 <td>Brief</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/five-benefits-automation-financial-services-solution-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=34347d5f-205e-4d2c-bd9e-9db5e7d354d1">Content Center</a></td>
 </tr>
 <tr>
 <td>3 ways Red Hat Ansible Automation Platform accelerates financial services innovation</td>
 <td>Brief</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/3-ways-ansible-automation-platform-accelerates-innovation-fsi-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3413d7bc-45c8-48b8-8ef9-45d77aebfe64">Content Center</a></td>
 </tr>
 <tr>
 <td>Deliver enterprise IT automation with Red Hat and Intel</td>
 <td>Brief</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/deliver-enterprise-it-innovation">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fc257903-80f4-4a9a-976d-cda3fba4fed3">Content Center</a></td>
 </tr>
 <tr>
 <td>Accelerate digital transformation with Red Hat Ansible Automation Platform</td>
 <td>Brief</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/financial-services-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0b8e4fbb-aed6-4d43-8b93-2bf8bbbb2f45">Content Center</a></td>
 </tr>
 <tr>
 <td>Red Hat automated security and compliance for financial services</td>
 <td>Whitepaper</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automate-security-compliance-overview-financial-services">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3ffd08b8-3af7-4a97-918f-cfb2531657ca">Content Center</a></td>
 </tr>
 <tr>
 <td>Open source automation drives innovation for financial services</td>
 <td>Analyst material</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/open-source-automation-drives-innovation-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e1419fa4-5fa7-4d0a-9955-c6235ba6f263">Content Center</a></td>
 </tr>
 <tr>
 <td>IDG: Security and compliance automation for financial services</td>
 <td>Analyst material</td>
-<td>Financial</td>
+<td><class id="financial">Financial</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/idg-automate-security-compliance-analyst-paper">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5e54538b-ca9a-4568-9bf2-17c16f625ef0">Content Center</a></td>
 </tr>
 <tr>
 <td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
 <td>Brief</td>
-<td>Government</td>
+<td><class id="gov">Government</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/accelerate-public-sector-digital-transformation-red-hat-ansible-automation-platform">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4944421f-2754-4453-9022-22dc4510480d">Content Center</a></td>
 </tr>
 <tr>
 <td>5 benefits of IT automation for the public sector</td>
 <td>Checklist</td>
-<td>Government</td>
+<td><class id="gov">Government</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/5-benefits-automation-public-sector-checklist">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d671c24-574d-4685-98e0-335a71ad727e">Content Center</a></td>
 </tr>
 <tr>
 <td>Monitor and modernize applications - Splunk</td>
 <td>Overview</td>
-<td>Government</td>
+<td><class id="gov">Government</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/splunk-monitor-modernize-apps-overview">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1ce9d946-3e28-426b-bbb4-aa669eade301">Content Center</a></td>
 </tr>
 <tr>
 <td>Automation for a new future in oil and gas</td>
 <td>Brief</td>
-<td>Oil and Gas</td>
+<td><class id="oil">Oil and Gas</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/automation-future-oil-gas-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=94c449be-1a65-47d7-888b-045484559aa3">Content Center</a></td>
 </tr>
 <tr>
 <td>IT automation for the evolving automotive marketplace</td>
 <td>Brief</td>
-<td>Automotive</td>
+<td><class id="automative">Automotive</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/it-automation-evolving-automotive-marketplace-brief">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7dea76a4-4b99-4e64-a4ef-da455c388851">Content Center</a></td>
 </tr>

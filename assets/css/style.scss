@@ -316,3 +316,31 @@ h2 {
 tr:nth-child(odd) td {
   background-color: #ffffff;
 }
+
+class#financial {
+  background-color: #005bb6;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#gov {
+  background-color: #b60006;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#oil {
+  background-color: #fffb00;
+  color: #000000;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#automative {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
