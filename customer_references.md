@@ -86,7 +86,7 @@
 <tr>
 <td>Slovakia’s largest retail bank speeds delivery with containers and DevOps</td>
 <td>Slovenská sporiteľňa (SLSP)</td>
-<td>EMEA</td>
+<td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/slsp-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=29de5a7b-55f1-486d-a916-e141cfd68c79">Content Center</a></td>
 </tr>
@@ -153,7 +153,7 @@
 <tr>
 <td>TTTech automates virtualized environment with Red Hat</td>
 <td>TTTech</td>
-<td>EMEA</td>
+<td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/TTTech-success-snapshot">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8842123-32e6-4477-b120-77c5c8ca4f2e">Content Center</a></td>
 </tr>
@@ -174,7 +174,7 @@
 <tr>
 <td>Swiss service provider meets SAP support deadline, improves delivery</td>
 <td>WWZ Energie</td>
-<td>EMEA</td>
+<td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/wwz-energie-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=7a00b224-1f3a-49b7-bdf5-0b8818fe717b">Content Center</a></td>
 </tr>
