@@ -27,19 +27,19 @@
 </thead>
 <tbody>
 <tr>
-<td>Technical Roadmap</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1hwzPck-T8tldzNH1nDHanmRU3SV6Qm3a0yy_mXTbNlE/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
+<td>Ansible Automation Platform Pitch Deck for AEs (2023 version)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
-<td>Technical Deck</td>
+<td>Ansible Automation Platform Technical Deck for SSPs and SAs</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>AE Level 1 Pitch Deck</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-yTlKfJyfqCNrD1P5l17GeFeXaMkrI6gIS6Qr7m4fo4/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=6096daa0-76fc-4690-801c-245e8f1f7ecd">Content Center</a></td>
+<td>Technical Roadmap</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1hwzPck-T8tldzNH1nDHanmRU3SV6Qm3a0yy_mXTbNlE/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Automation Platform: The Value of the Subscription</td>
