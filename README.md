@@ -376,12 +376,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Infrastructure Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit">Google Source</a></td>
-<td>Coming Soon!</td>
+<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=359b2146-2857-4dfc-90b4-2751a97e939c">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Infrastructure Automation - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1GaYUtsjCCpjBiCqLMkxBNuDh4LdJRmfhdeDQRZaGcZw/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d9c3f4d-d1ed-40ee-8b4c-75d9367071c9">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Infrastructure Automation - 301</td>
