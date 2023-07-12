@@ -27,7 +27,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Ansible Automation Platform Pitch deck for AEs (2023 version)</td>
+<td>Ansible Automation Platform Pitch Deck for AEs (2023 version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="Coming Soon!">Content Center</a></td>
 </tr>
