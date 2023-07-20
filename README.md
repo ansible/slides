@@ -47,6 +47,12 @@
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f3197eb7-7d96-44ed-a19d-62380031b0ff">Content Center</a></td>
 </tr>
 <tr>
+<td>Ansible Validated Content</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1dnl7tKPyFTWct6pX86pAsna--SmMWjzNm6V4e-Qvd44/edit#slide=id.g2450694eb32_0_928
+">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
 <td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1G1yExRBdEUFAHPyN6wAJ8deK_obKU5ZKfhYgAqIf6tY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
