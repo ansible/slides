@@ -95,6 +95,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/IT-automation-strategies-hbr-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=77c5b564-480a-48bf-b84c-3d304a1a4521">Content Center</a></td>
 </tr>
+<tr>
+<td><b>Enterprise Strategy Group</b>:  The Economic Benefits of theRed Hat Ansible AutomationPlatform versus DIY Automation</td>
+<td>Analyst material</td>
+<td>Coming Soon!</td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e17c5344-050e-4a96-b526-44e2751e2fc8">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
