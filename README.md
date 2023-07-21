@@ -142,11 +142,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
 <td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=67c2b3a1-d5c7-4947-814e-bc5a9409b184">Content Center</a></td>
 </tr>
-<tr>
-<td>Architecture Guide</td>
-<td><a target="_blank" href="https://docs.google.com/document/d/1uX2Z6Do8vj4bBownhZD2bYUoMQUOyvS5WqF5Ng7DGGY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
 </tbody>
 </table>
 
