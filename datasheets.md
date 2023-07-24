@@ -2,6 +2,7 @@
 <p>This webpage includes links to all non-slide collateral including datasheets, whitepapers, briefs, checklists, infographics and overviews</p>
 
 - [General](#general)
+  - [General Analyst Materials](#general-analyst-materials)
   - [General Checklists](#general-checklists)
 - [Edge and Network](#edge-and-network)
 - [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
@@ -59,6 +60,21 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/impact-of-ansible-automation-platform-training-infographic">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a70ec6a8-d70d-4f53-8aa1-36c983aae81d">Content Center</a></td>
 </tr>
+</tbody>
+</table>
+
+## General Analyst Materials
+
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Type</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td><b>IDC</b>: The Business Value of Red Hat Ansible Automation Platform - executive summary</td>
 <td>Analyst material</td>
@@ -98,7 +114,7 @@
 <tr>
 <td><b>Enterprise Strategy Group (ESG)</b>:  The Economic Benefits of the Red Hat Ansible Automation Platform versus DIY Automation</td>
 <td>Analyst material</td>
-<td>Coming Soon!</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/enterprise-strategy-group-aap-analyst-material">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e17c5344-050e-4a96-b526-44e2751e2fc8">Content Center</a></td>
 </tr>
 </tbody>
