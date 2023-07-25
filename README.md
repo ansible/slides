@@ -1,3 +1,6 @@
+**Read this in other languages**:
+<br>![uk](images/uk.png) [English](README.md),  ![japan](images/japan.png)[日本語](README_jp.md).
+
 <h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
