@@ -32,6 +32,7 @@
 <tr>
 <td>Ansible Automation Platform ピッチデッキfor AE (2023 Version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8">Google Source</a></td>
+<ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
