@@ -145,11 +145,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
-<tr>
-<td>アーキテクチャーガイド</td>
-<td><a target="_blank" href="https://docs.google.com/document/d/1uX2Z6Do8vj4bBownhZD2bYUoMQUOyvS5WqF5Ng7DGGY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
 </tbody>
 </table>
 
