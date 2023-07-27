@@ -382,7 +382,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tbody>
 <tr>
 <td>Ansible インフラ自動化 - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1jepKr7iK8_gd8kMZlgjGponFPkiAT_D7ooGh9CLdPZY/">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1yb-Z6nGDDHXWWLPEkk_67jXhdIx5ZF23hkMhtYa9p4Y/">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
