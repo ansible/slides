@@ -326,7 +326,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tbody>
 <tr>
 <td>Ansible Lightspeed with IBM Watson Code Assistant</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/12oaOPa7AM1v1GhfH2FGPUe6CHK3j0OoFI14FTbodkuM/">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1FqwTRojT_7hqZmB-YOQfblsZoXcrne0B01JedLLog8w/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
