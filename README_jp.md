@@ -38,7 +38,7 @@
 <tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
