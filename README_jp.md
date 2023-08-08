@@ -354,7 +354,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible ネットワーク自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=aeecd93f-be31-4a10-8ad8-5e53f51ef7be">Content Center</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Ansible ネットワーク自動化 - 201</td>
