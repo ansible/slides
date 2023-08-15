@@ -220,6 +220,12 @@
 </thead>
 <tbody>
 <tr>
+<td>Automate Cisco networks with Red Hat Ansible Automation Platform</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-cisco-networks-with-ansible-overview">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f3ee820e-27ed-4cf3-b773-706c95721ab0">Content Center</a></td>
+</tr>
+<tr>
 <td>3 reasons to introduce automation at the edge of the network</td>
 <td>Checklist</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/3-reasons-automation-at-edge-checklist">on redhat.com</a></td>
