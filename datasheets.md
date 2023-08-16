@@ -411,6 +411,12 @@
 </thead>
 <tbody>
 <tr>
+<td>Automate Red Hat Enterprise Linux deployments in the cloud brief</td>
+<td>Brief</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automate-rhel-deployments-with-ansible-brief">on redhat.com</a></td>
+<td><a  target="_blank" href="https://www.redhat.com/en/engage/enterprise-linux-deployments-20230801">Content Center</a></td>
+</tr>
+<tr>
 <td>Ansible on Windows for financial services</td>
 <td>Datasheet</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-on-windows-financial-services-datasheet">on redhat.com</a></td>
