@@ -413,7 +413,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tr>
 <tr>
 <td>Ansible Security Automation - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1VJf2IPVUTTVfRdXF0OGYDq0Gr0ICq06-5VDHDfpQKWQ/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/19qZyXhZO6rfhzPElAMypIbfEnL9nPW83ce4i5MWJD2s/edit?usp=sharing">Google Source</a></td>
 </tr>
 </tbody>
 </table>
