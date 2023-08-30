@@ -2,6 +2,7 @@
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
 - [General](#general)
+- [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
@@ -14,7 +15,6 @@
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
-
 # General
 
 <table>
@@ -64,6 +64,20 @@ Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+</tbody>
+</table>
+
+# ROI (Return on Investment)
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>IDC Built ROI Calculator: 
 Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
