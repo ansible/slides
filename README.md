@@ -184,7 +184,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Edge Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1sXosxja65iS8r4LGItpXPWO1W085zGtPO7MU4mAbRVw/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=de60bea0-2fdc-4a76-9a57-1e1262a20219">Content Center</a></td>
 </tr>
 </tbody>
 </table>
