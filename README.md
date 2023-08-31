@@ -183,7 +183,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tr>
 <tr>
 <td>Ansible Edge Automation - 301</td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1sXosxja65iS8r4LGItpXPWO1W085zGtPO7MU4mAbRVw/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
