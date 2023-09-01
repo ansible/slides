@@ -174,12 +174,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Edge Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/16GqzO19UR6AxsUS2x8mW3WRZbkDu6rEYEUT6cI7G19I/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=4412db2c-3484-47cb-9c01-d817d953e2d9">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Edge Automation - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Zk-25k14yq9uXvh-Z-VOieuR5Ew8tehyH8eFksoKyjs/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=97965f14-c34e-409a-8694-91a6c2e15333">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Edge Automation - 301</td>
