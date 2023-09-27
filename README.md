@@ -24,26 +24,12 @@
 <table>
 <thead>
 <tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>Ansible News!</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>AAP 2.4 Overview (Jun 27, 2023)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Ea3O-gopJPADi2HNFJYucn8lNwGk13tBpwE5OJUCS4o/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=aca05fa8-c2ea-4c50-a881-5682d3f44298">Content Center</a></td>
-</tr>
-<tr>
-<td>AAP 2.3 Overview (Nov 29, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1_YBMjRGvqNx5PE_Wtq9dO-_YC2xQX5cleW-0Cy-HKrk/edit?usp=sharing">Google Source</a></td>
-<td>Coming Soon!</td>
-</tr>
-<tr>
-<td>AAP 2.2 Overview (May 22, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/16zfS_r6-fIaBUxkmAMAinhcO7gRKC6DXesIhFCKWDxU/edit?usp=sharing">Google Source</a></td>
-<td>Coming Soon!</td>
+<td><p>Happy birthday ANSHUL BEHL</p><br><img src="https://media.licdn.com/dms/image/D5612AQEwhk1_VYjjtw/article-cover_image-shrink_423_752/0/1665489584487?e=1701302400&v=beta&t=KX7zjIVH-tzeWONqTFFrAVtndNlrxZpEp5s8PhA5wtA"></td>
 </tr>
 </tbody>
 </table>
