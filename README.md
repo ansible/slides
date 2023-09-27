@@ -1,6 +1,9 @@
 <h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
+<div class='parentsean'>
+<div class='tableofcontents'>
+
 - [General](#general)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
@@ -15,6 +18,39 @@
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
+
+</div>
+<div class='highlighttable'>
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AAP 2.4 Overview (Jun 27, 2023)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Ea3O-gopJPADi2HNFJYucn8lNwGk13tBpwE5OJUCS4o/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=aca05fa8-c2ea-4c50-a881-5682d3f44298">Content Center</a></td>
+</tr>
+<tr>
+<td>AAP 2.3 Overview (Nov 29, 2022)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_YBMjRGvqNx5PE_Wtq9dO-_YC2xQX5cleW-0Cy-HKrk/edit?usp=sharing">Google Source</a></td>
+<td>Coming Soon!</td>
+</tr>
+<tr>
+<td>AAP 2.2 Overview (May 22, 2022)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/16zfS_r6-fIaBUxkmAMAinhcO7gRKC6DXesIhFCKWDxU/edit?usp=sharing">Google Source</a></td>
+<td>Coming Soon!</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+
 # General
 
 <table>
