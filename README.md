@@ -2,7 +2,7 @@
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
 <div class='parentsean'>
-<div class='tableofcontents'>
+<div class='tableofcontents' markdown="1">
 
 - [General](#general)
 - [ROI (Return on Investment)](#roi-return-on-investment)
