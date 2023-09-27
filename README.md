@@ -43,9 +43,9 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>Ansible Automation Platform: The Value of the Subscription</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1KabcO3oSy_cSwqFy5E6VQN2kAWYiSxfS823uuA9eOi0/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f3197eb7-7d96-44ed-a19d-62380031b0ff">Content Center</a></td>
+<td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Validated Content</td>
