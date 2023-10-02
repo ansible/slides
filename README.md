@@ -29,7 +29,10 @@
 </thead>
 <tbody>
 <tr>
-<td>Sep 28, 2023 - <a href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+<td>Sep 28, 2023 - <a target="_new" href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+</tr>
+<tr>
+<td>October 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a>
 </tr>
 </tbody>
 </table>
