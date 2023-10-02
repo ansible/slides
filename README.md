@@ -29,7 +29,7 @@
 </thead>
 <tbody>
 <tr>
-<td><p>Happy birthday ANSHUL BEHL</p><br><img src="https://media.licdn.com/dms/image/D5612AQEwhk1_VYjjtw/article-cover_image-shrink_423_752/0/1665489584487?e=1701302400&v=beta&t=KX7zjIVH-tzeWONqTFFrAVtndNlrxZpEp5s8PhA5wtA"></td>
+<td>Sep 28, 2023 - <a href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +167,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Event-Driven Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=384d1da3-2a80-413c-805e-4628c62479e2">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=068ce666-c386-4ba7-8dee-a7e76ba5607c">Content Center</a></td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 201</td>
