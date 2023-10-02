@@ -1,6 +1,9 @@
 <h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
+<div class='parentsean'>
+<div class='tableofcontents' markdown="1">
+
 - [General](#general)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
@@ -15,6 +18,28 @@
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
+
+</div>
+<div class='highlighttable'>
+<table>
+<thead>
+<tr>
+<th>Ansible News!</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sep 28, 2023 - <a target="_new" href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+</tr>
+<tr>
+<td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+
 # General
 
 <table>
@@ -145,7 +170,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Event-Driven Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=384d1da3-2a80-413c-805e-4628c62479e2">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=068ce666-c386-4ba7-8dee-a7e76ba5607c">Content Center</a></td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 201</td>
@@ -155,7 +180,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Event-Driven Ansible - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=67c2b3a1-d5c7-4947-814e-bc5a9409b184">Content Center</a></td>
+<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2ac510d6-1458-4689-a7dd-b488ee0788a1">Content Center</a></td>
 </tr>
 </tbody>
 </table>
