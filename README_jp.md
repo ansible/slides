@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-QU4vsbJPTw3iobJy84TdpWoLv9KbTZQ_joUuCWfJgs/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
