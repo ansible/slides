@@ -1,10 +1,14 @@
 **Read this in other languages**:
-<br>![uk](images/uk.png) [English](README.md),  ![japan](images/japan.png)[日本語](README_jp.md).
+<br>![uk](https://raw.githubusercontent.com/ansible/slides/main/images/uk.png) [English](README.md),  ![japan](https://raw.githubusercontent.com/ansible/slides/main/images/japan.png)[日本語](README_jp.md).
 
 <h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
+<div class='parentsean'>
+<div class='tableofcontents' markdown="1">
+
 - [General](#general)
+- [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
@@ -17,6 +21,27 @@
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
+
+</div>
+<div class='highlighttable'>
+<table>
+<thead>
+<tr>
+<th>Ansible News!</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sep 28, 2023 - <a target="_new" href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+</tr>
+<tr>
+<td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
 
 # General
 
@@ -33,7 +58,7 @@
 <td>Ansible Automation Platform Pitch Deck for AEs (2023 version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Google Source</a><br>
 <ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
-<td>Coming soon!</td>
+<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Automation Platform Technical Deck for SSPs and SAs</td>
@@ -46,9 +71,9 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>Ansible Automation Platform: The Value of the Subscription</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1KabcO3oSy_cSwqFy5E6VQN2kAWYiSxfS823uuA9eOi0/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f3197eb7-7d96-44ed-a19d-62380031b0ff">Content Center</a></td>
+<td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Validated Content</td>
@@ -67,6 +92,20 @@ Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+</tbody>
+</table>
+
+# ROI (Return on Investment)
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>IDC Built ROI Calculator: 
 Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
@@ -134,7 +173,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Event-Driven Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=384d1da3-2a80-413c-805e-4628c62479e2">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=068ce666-c386-4ba7-8dee-a7e76ba5607c">Content Center</a></td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 201</td>
@@ -144,7 +183,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Event-Driven Ansible - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=67c2b3a1-d5c7-4947-814e-bc5a9409b184">Content Center</a></td>
+<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2ac510d6-1458-4689-a7dd-b488ee0788a1">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -163,17 +202,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Edge Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/16GqzO19UR6AxsUS2x8mW3WRZbkDu6rEYEUT6cI7G19I/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=4412db2c-3484-47cb-9c01-d817d953e2d9">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Edge Automation - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Zk-25k14yq9uXvh-Z-VOieuR5Ew8tehyH8eFksoKyjs/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=97965f14-c34e-409a-8694-91a6c2e15333">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Edge Automation - 301</td>
-<td>Coming soon!</td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1sXosxja65iS8r4LGItpXPWO1W085zGtPO7MU4mAbRVw/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=de60bea0-2fdc-4a76-9a57-1e1262a20219">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -333,7 +372,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1WZmjs2ta7cMSo3mOD8pwathduVL0sbiQbIGokEbMY6E/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74a76dfc-7a95-43be-bb33-42e4b2a11e04">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -352,7 +391,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Network Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1s336icuospEPuCkbO6KAtGU0szVXHodGJrhNlCvi2PU/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=aeecd93f-be31-4a10-8ad8-5e53f51ef7be">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Network Automation - 201</td>
@@ -416,7 +455,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tr>
 <tr>
 <td>Ansible Security Automation - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1VJf2IPVUTTVfRdXF0OGYDq0Gr0ICq06-5VDHDfpQKWQ/edit?usp=share_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/19qZyXhZO6rfhzPElAMypIbfEnL9nPW83ce4i5MWJD2s/edit?usp=sharing">Google Source</a></td>
 </tr>
 </tbody>
 </table>

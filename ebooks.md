@@ -66,6 +66,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/midmarket-automation-ebook">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ab5445cf-8fd4-4891-a974-1a5cc3b7485b">Content Center</a></td>
 </tr>
+<tr>
+<td>From patchwork to platform: Is your organization ready to graduate to Red Hat Ansible Automation Platform?
+</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/graduate-to-ansible-automation-platform-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e735dd08-e9af-425b-a5f3-5de95ae42203">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
