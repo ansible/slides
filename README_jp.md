@@ -6,6 +6,8 @@
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
+- [ROI (Return on Investment)](#roi-return-on-investment)
+- [Release information](#release-information)
 - [EDA - Event-Driven Ansible](#eda---Event-Driven-ansible)
 - [エッジの自動化](#エッジの自動化)
 - [ハイブリットクラウドの自動化](#ハイブリッドクラウドの自動化)
