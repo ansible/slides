@@ -70,9 +70,9 @@
 <td>Coming Soon!</td>
 </tr>
 <tr>
-<td>Ansible Automation Platform: サブスクリプションの価値</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1wFt85sIqBAUE_T1AoY8pLcC5hl_9FDWafUm_d2MX920/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bea1a918-2b34-4867-b574-a925c5c6625f">Content Center</a></td>
+<td>Ansible Automation Platform: Community Ansible と Red Hat Ansible Automation Platform の比較</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/">Google Source</a></td>
+<td><a target="_blank" href="Coming soon!">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Validated Content</td>
