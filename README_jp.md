@@ -70,7 +70,7 @@
 <td>Coming Soon!</td>
 </tr>
 <tr>
-<td>Ansible Automation Platform: Community Ansible と Red Hat Ansible Automation Platform の比較</td>
+<td>コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/">Google Source</a></td>
 <td><a target="_blank" href="Coming soon!">Content Center</a></td>
 </tr>
