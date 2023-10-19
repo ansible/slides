@@ -38,7 +38,7 @@
 <td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
 </tr>
 <tr>
-<td>Oct 19, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1TP5J3ofJhwcI_p6xvWjhtoTnHpz7_uP7aYy-JtJt8_E/edit?usp=sharing>Ansible Self-paced Labs Guide</a></td>
+<td>Oct 19, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1TP5J3ofJhwcI_p6xvWjhtoTnHpz7_uP7aYy-JtJt8_E/edit?usp=sharing">Ansible Self-paced Labs Guide</a></td>
 </tr>
 </tbody>
 </table>
