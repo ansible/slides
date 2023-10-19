@@ -90,6 +90,20 @@ Unlock the Business Value of IT Automation (英語版)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+</tbody>
+</table>
+
+# ROI (Return on Investment)
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>ROI 計算ツール (IDC 製作) : 
 AAP によるITオートメーションのビジネス価値とインパクトの特定と算出</td>
@@ -109,41 +123,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 スプレッドシートを使用したハイレベルな時間およびコスト削減</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4">Deck Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-</tbody>
-</table>
-
-# ROI (Return on Investment)
-
-<table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>IDC Built ROI Calculator: 
-Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
-<td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
-<td>Simple Ansible Time/Cost Saving Tool: 
-Use the Red Hat portal tooling to determine high level time and cost savings</td>
-<td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
-<td>Sophisticated Savings Spreadsheet: 
-Use a spreadsheet to determine high level time and cost savings</td>
-<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
