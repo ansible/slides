@@ -75,7 +75,7 @@
 </tr>
 <tr>
 <td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
