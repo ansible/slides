@@ -32,14 +32,15 @@
 </thead>
 <tbody>
 <tr>
-<td>Sep 28, 2023 - <a target="_new" href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+<td>Nov 1st, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1BQlgA46ydIqZkGZW8KSmbWd-TUba679DMdWAeNVMjp8/edit?usp=sharing">Deck: Ansible Lightspeed Content Kit
+</a></td>
 </tr>
 <tr>
-<td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
+<td>Nov 1st, 2023 - <a target="_new" href="https://youtu.be/Ty2d-nlnZPQ?si=eLMSndJte3lQNNPg">Video: Getting started: Red Hat Ansible Lightspeed with IBM watsonx Code Assistant
+</a></td>
 </tr>
-<tr>
-<td>Oct 19, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1TP5J3ofJhwcI_p6xvWjhtoTnHpz7_uP7aYy-JtJt8_E/edit?usp=sharing">Ansible Self-paced Labs Guide</a></td>
-</tr>
+
+
 </tbody>
 </table>
 
