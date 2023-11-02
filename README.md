@@ -37,6 +37,9 @@
 <tr>
 <td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
 </tr>
+<tr>
+<td>Oct 19, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1TP5J3ofJhwcI_p6xvWjhtoTnHpz7_uP7aYy-JtJt8_E/edit?usp=sharing">Ansible Self-paced Labs Guide</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -69,6 +72,11 @@
 <td>Technical Roadmap</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hwzPck-T8tldzNH1nDHanmRU3SV6Qm3a0yy_mXTbNlE/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
