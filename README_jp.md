@@ -204,12 +204,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tr>
 <tr>
 <td>Ansible エッジ自動化 - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1sqcbzcXs23MyUxbp1ydIP52EtcH-uYnHbRt5sd0DDSk/">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/17wWU9J3SIWbK6lqIj-ntlRNj4PH08DN22iR3OWILsrk/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
 <td>Ansible エッジ自動化 - 301</td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Buhzk4XGPBbaGFQTq6Ohl2iUzUCi_7BsLE6nAAKVg0k/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
