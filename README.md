@@ -290,14 +290,29 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </thead>
 <tbody>
 <tr>
+<td>AAP on AWS - Business deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1QfyRhXJarqwSQEBriZmx93oL3TMxqqRcEx-HF_L3iKc/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5af6da0d-0f47-4a3a-b521-016341d95c65">Content Center</a></td>
+</tr>
+<tr>
 <td>AAP on AWS - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5ddfc608-a7dc-4921-a4db-e61e64f91cd7">Content Center</a></td>
 </tr>
 <tr>
+<td>AAP on Azure - Business deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1QD5QtQXKZZ2hwT71cRbZTl2LoBlN3p0mhsqoXq0RMmU/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1bb2ce2e-7227-4481-9ad4-e7435fb4492f">Content Center</a></td>
+</tr>
+<tr>
 <td>AAP on Azure - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1vPM7v4UraxDxl2xysT92VGNf7mL1VWzsMv_MS-2vvpw/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3471cca0-cf31-4d66-9daf-8459d52799df">Content Center</a></td>
+</tr>
+<tr>
+<td>AAP on Google Cloud - Business deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1skrObhqOvX8Z8hwMGgBsplZcIK0ujcbQrTQy_3f6V2M/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3b5e58ed-1353-4870-b6c5-30c0c718498e">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP on Google Cloud - Tech deck</td>
