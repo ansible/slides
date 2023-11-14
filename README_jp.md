@@ -363,8 +363,8 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </thead>
 <tbody>
 <tr>
-<td>Ansible Lightspeed with IBM Watson Code Assistant</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1FqwTRojT_7hqZmB-YOQfblsZoXcrne0B01JedLLog8w/">Google Source</a></td>
+<td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/15S-ls1E-HFeDPUXDWCojmYzzN2dcrSNxV2vW46NxdTk/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
