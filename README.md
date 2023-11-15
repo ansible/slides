@@ -32,14 +32,15 @@
 </thead>
 <tbody>
 <tr>
-<td>Sep 28, 2023 - <a target="_new" href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+<td>Nov 1st, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1BQlgA46ydIqZkGZW8KSmbWd-TUba679DMdWAeNVMjp8/edit?usp=sharing">Deck: Ansible Lightspeed Content Kit
+</a></td>
 </tr>
 <tr>
-<td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
+<td>Nov 1st, 2023 - <a target="_new" href="https://youtu.be/Ty2d-nlnZPQ?si=eLMSndJte3lQNNPg">Video: Getting started: Red Hat Ansible Lightspeed with IBM watsonx Code Assistant
+</a></td>
 </tr>
-<tr>
-<td>Oct 19, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1TP5J3ofJhwcI_p6xvWjhtoTnHpz7_uP7aYy-JtJt8_E/edit?usp=sharing">Ansible Self-paced Labs Guide</a></td>
-</tr>
+
+
 </tbody>
 </table>
 
@@ -74,8 +75,10 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
+<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)<br>
+Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a><br>
+<a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
@@ -287,14 +290,29 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </thead>
 <tbody>
 <tr>
+<td>AAP on AWS - Business deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1QfyRhXJarqwSQEBriZmx93oL3TMxqqRcEx-HF_L3iKc/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5af6da0d-0f47-4a3a-b521-016341d95c65">Content Center</a></td>
+</tr>
+<tr>
 <td>AAP on AWS - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/17JHGlFwtdcV1mVaPmAPs1fKoxqHhDwNwL35sxrRyVE0/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5ddfc608-a7dc-4921-a4db-e61e64f91cd7">Content Center</a></td>
 </tr>
 <tr>
+<td>AAP on Azure - Business deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1QD5QtQXKZZ2hwT71cRbZTl2LoBlN3p0mhsqoXq0RMmU/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1bb2ce2e-7227-4481-9ad4-e7435fb4492f">Content Center</a></td>
+</tr>
+<tr>
 <td>AAP on Azure - Tech deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1vPM7v4UraxDxl2xysT92VGNf7mL1VWzsMv_MS-2vvpw/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3471cca0-cf31-4d66-9daf-8459d52799df">Content Center</a></td>
+</tr>
+<tr>
+<td>AAP on Google Cloud - Business deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1skrObhqOvX8Z8hwMGgBsplZcIK0ujcbQrTQy_3f6V2M/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3b5e58ed-1353-4870-b6c5-30c0c718498e">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP on Google Cloud - Tech deck</td>
