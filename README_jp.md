@@ -456,7 +456,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tr>
 <tr>
 <td>Ansible セキュリティ自動化 - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1u-xogfBVRJ0GPUetbJSWHKJKPgf94jLeGH1Y47wAZG8/">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1XxqBZAAno7IidQRacxSMXVrvhYegKNtwuK6YMXMQRtw/">Google Source</a></td>
 </tr>
 </tbody>
 </table>
