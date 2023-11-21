@@ -70,6 +70,13 @@
 <td>Coming Soon!</td>
 </tr>
 <tr>
+<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)<br>
+Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a><br>
+<a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
 <td>コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/">Google Source</a></td>
 <td>Coming soon!</td>
