@@ -183,7 +183,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Event-Driven Ansible - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/128f9ropoc2IgD4AFPelQRR3axv6T8Wn6FezxjYUEzeE/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=699ef55b-e0a9-4351-8e1d-b0614e5e93ec">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=699ef55b-e0a9-4351-8e1d-b0614e5e93ec">Content Center</a></td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 301</td>
