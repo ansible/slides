@@ -77,9 +77,9 @@ Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較</td>
+<td>コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較 （RHCCは英語版）</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/">Google Source</a></td>
-<td>Coming soon!</td>
+<a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">Google Source</a></td>
 </tr>
 <tr>
 <td>Ansible Validated Content</td>
