@@ -65,9 +65,9 @@
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
 </tr>
 <tr>
-<td>テクニカルロードマップ(英語版)</td>
+<td>テクニカルロードマップ</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=a0986a28-f1c5-4417-9239-50b09d9f0011">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ba367661-e370-4b22-9e36-b43a02fab40b">Content Center</a></td>
 </tr>
 <tr>
 <td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
