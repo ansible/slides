@@ -188,7 +188,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Event-Driven Ansible - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=44938f0c-c48e-4353-9782-fe8e48d3a0ce">Content Center</a></td>
 </tr>
 </tbody>
 </table>
