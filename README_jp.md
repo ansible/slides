@@ -263,7 +263,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible Public Cloud  - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f1ec1aef-0412-487b-a16f-46ba33320206">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e6eae1f-d1fb-4da1-9fc4-c35aab2bcfb6">Content Center</a></td>
 </tr>
 </tbody>
 </table>
