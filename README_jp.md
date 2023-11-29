@@ -319,7 +319,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible クラウドネイティブ - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1mr6DwUMlvh13Lk9Ruh_-ILANIPFNXIjZ9kR7shdThhI/">Google Source</a></td>
-  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0da0ed9e-c6de-4ddf-9082-7d42c551b7ca">Content Center</a></td>
+  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a48744c9-c3f0-46f7-a518-21ba5f4329f2">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible クラウドネイティブ - 301</td>
