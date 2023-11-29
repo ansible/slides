@@ -428,7 +428,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible インフラ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1yb-Z6nGDDHXWWLPEkk_67jXhdIx5ZF23hkMhtYa9p4Y/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2f2417f8-fa68-44e4-a6f3-837a1f9c254e">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c1799f02-9704-468d-80bc-5060acd51162">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible インフラ自動化 - 201</td>
@@ -438,7 +438,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible インフラ自動化 - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=00e9eada-c982-413d-84c6-4d768d7c9308">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c6560bf-50b6-4ce0-97b5-8bbe1dbb96e9">Content Center</a></td>
 </tr>
 </tbody>
 </table>
