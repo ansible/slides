@@ -236,7 +236,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Hybrid Cloud Automation 101 - Introduction</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/18GNw9U2iEqS1YyiqgFSOvTxnWGuybQrbOmoWumJpt-U/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a7903c60-c3fc-4c18-a604-7a274b568c6b">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f567f2e9-a82b-46e8-8b75-b95277a2e987">Content Center</a></td>
 </tr>
 </tbody>
 </table>
