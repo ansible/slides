@@ -258,7 +258,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible Public Cloud  - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1fwiRitEGIoiv5acYtg49lBhmMXl8ZZNaUlpvudjM_2I/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0f8132c2-9bff-4198-9edc-d198ef266621">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e08128c8-c26c-43ea-81e0-5e29bf1f69af">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Public Cloud  - 301</td>
