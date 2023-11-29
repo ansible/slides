@@ -207,7 +207,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible エッジ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hx648sSdFQ5OpSsbg6bA1lx25aZxQnUY21BsZofqYco/">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=9ed45b8b-c813-4836-a303-f2c59f63a756">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible エッジ自動化 - 201</td>
