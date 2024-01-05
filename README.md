@@ -21,6 +21,7 @@
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
+- [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 
 </div>
 <div class='highlighttable'>
@@ -486,3 +487,19 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
+# ServiceNow ITSM Automation
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Automation Platform for ServiceNow ITSM</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1-7c8WJGucwlmkiKuy_k15Cn2EpJyoy7tIun-PQkoL-8/edit?usp=sharing">Google Source</a></td>
+</tr>
+</tbody>
+</table>
