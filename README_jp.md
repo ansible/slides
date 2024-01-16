@@ -473,4 +473,19 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tbody>
 </table>
 
+# ServiceNow ITSM Automation
 
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Automation Platform for ServiceNow ITSM</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1CrjQzOsPCfcq4RgzQBYQw1h-1Y2oqslsqJiSUe52Vxo/">Google Source</a></td>
+</tr>
+</tbody>
+</table>
