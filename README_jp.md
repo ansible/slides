@@ -5,6 +5,9 @@
 <h1> Ansible Automation Platform デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
+<div class='parentsean'>
+<div class='tableofcontents' markdown="1">
+  
 - [一般](#一般)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
