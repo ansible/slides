@@ -479,7 +479,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <thead>
 <tr>
 <th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
+<th>Red Hat Internal Link (社員用)</th>
 </tr>
 </thead>
 <tbody>
