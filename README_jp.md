@@ -5,6 +5,9 @@
 <h1> Ansible Automation Platform デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
+<div class='parentsean'>
+<div class='tableofcontents' markdown="1">
+  
 - [一般](#一般)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
@@ -19,6 +22,7 @@
 - [ネットワークの自動化](#ネットワークの自動化)
 - [インフラの自動化](#インフラの自動化)
 - [セキュリティの自動化](#セキュリティの自動化)
+- [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 
 </div>
 <div class='highlighttable'>
@@ -30,10 +34,12 @@
 </thead>
 <tbody>
 <tr>
-<td>Sep 28, 2023 - <a target="_new" href="https://youtu.be/-PI-z0wKTyw?si=FySNioZMSJaOO3oq">DEMO: Installing Ansible Automation Platform on OpenShift</a></td>
+<td>2023年11月1日 - <a target="_new" href="https://docs.google.com/presentation/d/1S8GJ7SfodsGbaFT8xOcZHRwNEbrVFTI0mjCfdbepmj8/">DEMO: Ansible Lightspeed Content Kit
+</a></td>
 </tr>
 <tr>
-<td>Oct 19, 2023 - <a target="_new" href="https://www.ansible.com/blog/ansible-contributor-summit-durham-2023">Ansible Contributor Summit, Durham 2023</a></td>
+<td>2023年11月1日 - <a target="_new" href="https://youtu.be/Ty2d-nlnZPQ?si=eLMSndJte3lQNNPg">Video: Getting started: Red Hat Ansible Lightspeed with IBM watsonx Code Assistant
+</a></td>
 </tr>
 </tbody>
 </table>
@@ -468,4 +474,19 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tbody>
 </table>
 
+# ServiceNow ITSM Automation
 
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link (社員用)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Automation Platform for ServiceNow ITSM</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1CrjQzOsPCfcq4RgzQBYQw1h-1Y2oqslsqJiSUe52Vxo/">Google Source</a></td>
+</tr>
+</tbody>
+</table>
