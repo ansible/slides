@@ -138,7 +138,7 @@
 <tr>
 <td>Efficient automation with Ansible</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/efficient-automation-with-ansible-detail">on redhat.com</a></td>
-<td>NA</td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c5212303-55c5-42bb-b28f-52e7eadd607b">Content Center</a></td>
 </tr>
 </tbody>
 </table>
