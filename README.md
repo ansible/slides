@@ -272,6 +272,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc">Content Center</a></td>
 </tr>
+<tr>
+<td>Ansible Terraform Collection and Provider Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
@@ -396,6 +401,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
 <td>Ansible Lightspeed Sales Enablement Overview</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1LZTrVoqYFk_0e51tPXZW-qkEhA5rwk_xl_Ik_6gWCOk/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
