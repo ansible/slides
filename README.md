@@ -33,11 +33,11 @@
 </thead>
 <tbody>
 <tr>
-<td>Nov 1st, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1BQlgA46ydIqZkGZW8KSmbWd-TUba679DMdWAeNVMjp8/edit?usp=sharing">Deck: Ansible Lightspeed Content Kit
+<td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
 </a></td>
 </tr>
 <tr>
-<td>Nov 1st, 2023 - <a target="_new" href="https://youtu.be/Ty2d-nlnZPQ?si=eLMSndJte3lQNNPg">Video: Getting started: Red Hat Ansible Lightspeed with IBM watsonx Code Assistant
+<td>January 22nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1MsHIPEnWA4tuP4ETsX0V_YpZU04PBtDoG1rTsxiYzjc/edit?usp=sharing">The Ansible Automation Platform Roadmap
 </a></td>
 </tr>
 
