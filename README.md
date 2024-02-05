@@ -33,11 +33,11 @@
 </thead>
 <tbody>
 <tr>
-<td>Nov 1st, 2023 - <a target="_new" href="https://docs.google.com/presentation/d/1BQlgA46ydIqZkGZW8KSmbWd-TUba679DMdWAeNVMjp8/edit?usp=sharing">Deck: Ansible Lightspeed Content Kit
+<td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
 </a></td>
 </tr>
 <tr>
-<td>Nov 1st, 2023 - <a target="_new" href="https://youtu.be/Ty2d-nlnZPQ?si=eLMSndJte3lQNNPg">Video: Getting started: Red Hat Ansible Lightspeed with IBM watsonx Code Assistant
+<td>January 22nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1MsHIPEnWA4tuP4ETsX0V_YpZU04PBtDoG1rTsxiYzjc/edit?usp=sharing">The Ansible Automation Platform Roadmap
 </a></td>
 </tr>
 
@@ -272,6 +272,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc">Content Center</a></td>
 </tr>
+<tr>
+<td>Ansible Terraform Collection and Provider Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
@@ -368,7 +373,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Private Cloud - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Ff6ueze2BHq6PtrdJ5pcw9K4Z7BQQlcEUVIaq1VjUQo/edit?usp=share_link">Google Source</a></td>
-  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bf99e5a3-33e7-49e2-a38d-df8deda4d044">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bf99e5a3-33e7-49e2-a38d-df8deda4d044">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Private Cloud - 301</td>
@@ -396,6 +401,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
 <td>Ansible Lightspeed Sales Enablement Overview</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1LZTrVoqYFk_0e51tPXZW-qkEhA5rwk_xl_Ik_6gWCOk/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
