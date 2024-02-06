@@ -34,14 +34,17 @@
 </thead>
 <tbody>
 <tr>
+<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
+</a></td>
+</tr>
+<tr>
 <td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
 </a></td>
 </tr>
 <tr>
-<td>January 22nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1MsHIPEnWA4tuP4ETsX0V_YpZU04PBtDoG1rTsxiYzjc/edit?usp=sharing">The Ansible Automation Platform Roadmap
+<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sFW9ah3V6R_bHrcJuYYxT2rOlY3i2QrrzyDbwLRCSjc/edit?usp=sharing">Red Hat One - Slide Index
 </a></td>
 </tr>
-
 
 </tbody>
 </table>
@@ -73,8 +76,8 @@
 </tr>
 <tr>
 <td>Technical Roadmap</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1hwzPck-T8tldzNH1nDHanmRU3SV6Qm3a0yy_mXTbNlE/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)<br>
