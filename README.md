@@ -513,3 +513,31 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tr>
 </tbody>
 </table>
+
+# Reference Architectures
+
+<table>
+<thead>
+<tr>
+<th>Reference Architecture</th>
+<th>Red Hat Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deploying Ansible Automation Platform 2.1</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index">Link</a></td>
+</tr>
+<tr>
+<td>Deploying Ansible Automation Platform 2 on Red Hat OpenShift</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index>Link</a></td>
+</tr>
+<tr>
+<td>Ansible Automation Platform 1.2 to 2 Migration Guide</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index">Link</a></td>
+</tr>
+</tbody>
+</table>
