@@ -22,6 +22,7 @@
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
+- [Reference Architectures](#reference-architectures)
 
 </div>
 <div class='highlighttable'>
