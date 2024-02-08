@@ -29,12 +29,16 @@
 <table>
 <thead>
 <tr>
-<th>Ansible News!</th>
+<th>New and recently updated!</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
+<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ">Ansible Network Automation 101
+</a></td>
+</tr>
+<tr>
+<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sFW9ah3V6R_bHrcJuYYxT2rOlY3i2QrrzyDbwLRCSjc/edit?usp=sharing">Red Hat One - Slide Index
 </a></td>
 </tr>
 <tr>
@@ -42,10 +46,9 @@
 </a></td>
 </tr>
 <tr>
-<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sFW9ah3V6R_bHrcJuYYxT2rOlY3i2QrrzyDbwLRCSjc/edit?usp=sharing">Red Hat One - Slide Index
+<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
 </a></td>
 </tr>
-
 </tbody>
 </table>
 
@@ -431,7 +434,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tbody>
 <tr>
 <td>Ansible Network Automation - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1s336icuospEPuCkbO6KAtGU0szVXHodGJrhNlCvi2PU/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee">Content Center</a></td>
 </tr>
 <tr>
