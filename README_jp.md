@@ -29,7 +29,7 @@
 <table>
 <thead>
 <tr>
-<th>新規と直近のアップデート！</th>
+<th>New and recently updated!</th>
 </tr>
 </thead>
 <tbody>
