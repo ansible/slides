@@ -34,6 +34,11 @@
 </thead>
 <tbody>
 <tr>
+<td>Feb 15, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Red Hat Ansible Automation Platform by the numbers
+</a></td>
+</tr>
+
+<tr>
 <td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ">Ansible Network Automation 101
 </a></td>
 </tr>
@@ -42,8 +47,6 @@
 </a></td>
 </tr>
 <tr>
-<td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
-</a></td>
 </tr>
 <tr>
 <td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
@@ -71,6 +74,12 @@
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Google Source</a><br>
 <ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
 <td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334">Content Center</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform by the numbers</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Google Source
+</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Ansible Automation Platform Technical Deck for SSPs and SAs</td>
