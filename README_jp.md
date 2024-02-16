@@ -29,21 +29,29 @@
 <table>
 <thead>
 <tr>
-<th>Ansible News!</th>
+<th>新規と直近のアップデート！</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>2023年11月1日 - <a target="_new" href="https://docs.google.com/presentation/d/1S8GJ7SfodsGbaFT8xOcZHRwNEbrVFTI0mjCfdbepmj8/">DEMO: Ansible Lightspeed Content Kit
+<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ">Ansible Network Automation 101
 </a></td>
 </tr>
 <tr>
-<td>2023年11月1日 - <a target="_new" href="https://youtu.be/Ty2d-nlnZPQ?si=eLMSndJte3lQNNPg">Video: Getting started: Red Hat Ansible Lightspeed with IBM watsonx Code Assistant
+<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sFW9ah3V6R_bHrcJuYYxT2rOlY3i2QrrzyDbwLRCSjc/edit?usp=sharing">Red Hat One - Slide Index
+</a></td>
+</tr>
+<tr>
+<td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
+</a></td>
+</tr>
+<tr>
+<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
 </a></td>
 </tr>
 </tbody>
 </table>
-
+  
 </div>
 </div>
 
