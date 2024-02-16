@@ -38,7 +38,7 @@
 </a></td>
 </tr>
 <tr>
-<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sFW9ah3V6R_bHrcJuYYxT2rOlY3i2QrrzyDbwLRCSjc/edit?usp=sharing">Red Hat One - Slide Index
+<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1iQ0fblKEM22EM5cgFODpMmMtIsa9OyOa8w6mCVJATs4/">Red Hat One - Slide Index
 </a></td>
 </tr>
 <tr>
