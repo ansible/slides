@@ -46,7 +46,7 @@
 </a></td>
 </tr>
 <tr>
-<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
+<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">The Ansible Automation Platform Roadmap
 </a></td>
 </tr>
 </tbody>
@@ -81,7 +81,7 @@
 <tr>
 <td>テクニカルロードマップ</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ba367661-e370-4b22-9e36-b43a02fab40b">Content Center</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
