@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ">Ansible Network Automation 101
+<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Ansible Network Automation 101
 </a></td>
 </tr>
 <tr>
