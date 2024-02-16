@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Red Hat Ansible Automation Platform by the numbers
+<td>Feb 15, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Red Hat Ansible Automation Platform by the numbers
 </a></td>
 </tr>
 
