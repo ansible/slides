@@ -389,6 +389,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td>Coming soon!</td>
 </tr>
 <tr>
+<td>Ansible Lightspeed Sales Enablement Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/10pwzJmYaWUQVzfOWwrrTB5e08ymUoUWvLG1PPVaFgYo/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
 <td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1kp3neTC9DRShtGM43LQ9nE-wZZOcfY7hXV0UdNx8QSc/">Google Source</a></td>
 <td>Coming soon!</td>
