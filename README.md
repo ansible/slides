@@ -115,7 +115,7 @@ Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Automation 2.0: 
+<td>Automation 2.0:
 Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
@@ -135,21 +135,21 @@ Unlock the Business Value of IT Automation</td>
 </thead>
 <tbody>
 <tr>
-<td>IDC Built ROI Calculator: 
+<td>IDC Built ROI Calculator:
 Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
 <td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Simple Ansible Time/Cost Saving Tool: 
+<td>Simple Ansible Time/Cost Saving Tool:
 Use the Red Hat portal tooling to determine high level time and cost savings</td>
 <td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Sophisticated Savings Spreadsheet: 
+<td>Sophisticated Savings Spreadsheet:
 Use a spreadsheet to determine high level time and cost savings</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Deck Google Source</a></td>
@@ -227,6 +227,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>AAP Edge Collateral</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1U_oFnYze4ZVCJuBNu0gOT1ttVu5Y3vdiBokB7FborYU/edit?usp=sharing">Google Source</a></td>
+<td>N/A</td>
+</tr>
 <tr>
 <td>Ansible Edge Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/16GqzO19UR6AxsUS2x8mW3WRZbkDu6rEYEUT6cI7G19I/edit?usp=sharing">Google Source</a></td>
