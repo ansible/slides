@@ -23,6 +23,7 @@
 - [Security Automation](#security-automation)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 - [Reference Architectures](#reference-architectures)
+- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
 <div class='highlighttable'>
@@ -559,6 +560,39 @@ href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_p
 <td>Ansible Automation Platform 1.2 to 2 Migration Guide</td>
 <td><a target="_blank"
 href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+# Logos, Graphics, Icons and Brand Rules
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck / Drive Link</th>
+<th>Red Hat Internal Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Product component icon library </td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/1LkMrfvfOrZ8JJD8tm1PhSTIru20MkNiH0H7J8Jz8VXY/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform: technology icons - Design Guidelines</td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/17yXBuN5WOw8BL0-FTFGCcRG8HqIii3rR25-s9Qe_IBc/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Icon Repository</td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/1SRhy8-bYBgaA3Jsi1t_Fxz-Yo9ORgdRy5Kec9hg_wSM/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform - Logos</td>
+<td><a target="_blank"
+href="https://drive.google.com/drive/folders/1mpp-3yhFPttEmtwMSMR2kPM1nQ3-ZVEM?usp=drive_link">Link</a></td>
 </tr>
 </tbody>
 </table>
