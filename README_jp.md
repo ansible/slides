@@ -87,7 +87,7 @@
 <td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
 Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a><br>
-<a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/">Content Center</a></td>
+<a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Content Center</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
