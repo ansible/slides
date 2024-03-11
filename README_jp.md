@@ -75,6 +75,12 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
+<td>Red Hat Ansible Automation Platform by the numbers</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Google Source
+</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
