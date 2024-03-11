@@ -538,7 +538,7 @@ href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_p
 <thead>
 <tr>
 <th>Slide Deck / Drive Link</th>
-<th>Red Hat Internal Link</th>
+<th>Red Hat Internal Link (社員用)</th>
 </tr>
 </thead>
 <tbody>
