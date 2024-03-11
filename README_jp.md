@@ -503,6 +503,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tr>
 </tbody>
 </table>
+
 # Reference Architectures
 
 <table>
