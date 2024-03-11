@@ -34,15 +34,16 @@
 </thead>
 <tbody>
 <tr>
+<td>February 15, 2024 : <a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Red Hat Ansible Automation Platform by the numbers
+</a></td>
+</a></td>
+</tr>
+<tr>
 <td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Ansible Network Automation 101
 </a></td>
 </tr>
 <tr>
 <td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1iQ0fblKEM22EM5cgFODpMmMtIsa9OyOa8w6mCVJATs4/">Red Hat One - Slide Index
-</a></td>
-</tr>
-<tr>
-<td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
 </a></td>
 </tr>
 <tr>
