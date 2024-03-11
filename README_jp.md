@@ -74,6 +74,11 @@
 <ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
 <td>Coming soon!</td>
 </tr>
+<td>Red Hat Ansible Automation Platform by the numbers</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Google Source
+</a></td>
+<td>Coming soon!</td>
+</tr>
 <tr>
 <td>Red Hat Ansible Automation Platform by the numbers</td>
 <td><a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Google Source
