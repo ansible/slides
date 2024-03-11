@@ -76,7 +76,7 @@
 </tr>
 <tr>
 <td>Red Hat Ansible Automation Platform by the numbers</td>
-<td><a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Google Source
+<td><a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Google Source
 </a></td>
 <td>Coming soon!</td>
 </tr>
