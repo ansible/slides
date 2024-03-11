@@ -532,7 +532,7 @@ href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_p
 </tbody>
 </table>
 
-# Logos, Graphics, Icons and Brand Rules
+# Logos, Graphics, Icons and Brand Rules (英語版)
 
 <table>
 <thead>
