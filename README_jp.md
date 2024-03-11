@@ -504,7 +504,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tbody>
 </table>
 
-# Reference Architectures
+# リファレンスアーキテクチャー
 
 <table>
 <thead>
@@ -517,7 +517,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Deploying Ansible Automation Platform 2.1</td>
 <td><a target="_blank"
-href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index">Link</a></td>
+href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index">Link</a></td>
 </tr>
 <tr>
 <td>Deploying Ansible Automation Platform 2 on Red Hat OpenShift</td>
