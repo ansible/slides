@@ -515,17 +515,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </thead>
 <tbody>
 <tr>
-<td>Deploying Ansible Automation Platform 2.1</td>
+<td>Ansible Automation Platform 2.1 の導入</td>
 <td><a target="_blank"
 href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index">Link</a></td>
 </tr>
 <tr>
-<td>Deploying Ansible Automation Platform 2 on Red Hat OpenShift</td>
+<td>Red Hat OpenShift への Ansible Automation Platform 2 のデプロイ</td>
 <td><a target="_blank"
 href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index">Link</a></td>
 </tr>
 <tr>
-<td>Ansible Automation Platform 1.2 to 2 Migration Guide</td>
+<td>Ansible Automation Platform 1.2 から 2 への移行ガイド</td>
 <td><a target="_blank"
 href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index">Link</a></td>
 </tr>
