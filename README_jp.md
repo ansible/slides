@@ -503,3 +503,63 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tr>
 </tbody>
 </table>
+# Reference Architectures
+
+<table>
+<thead>
+<tr>
+<th>Reference Architecture</th>
+<th>Red Hat Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deploying Ansible Automation Platform 2.1</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index">Link</a></td>
+</tr>
+<tr>
+<td>Deploying Ansible Automation Platform 2 on Red Hat OpenShift</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index">Link</a></td>
+</tr>
+<tr>
+<td>Ansible Automation Platform 1.2 to 2 Migration Guide</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+# Logos, Graphics, Icons and Brand Rules
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck / Drive Link</th>
+<th>Red Hat Internal Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Product component icon library </td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/1LkMrfvfOrZ8JJD8tm1PhSTIru20MkNiH0H7J8Jz8VXY/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform: technology icons - Design Guidelines</td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/17yXBuN5WOw8BL0-FTFGCcRG8HqIii3rR25-s9Qe_IBc/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Icon Repository</td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/1SRhy8-bYBgaA3Jsi1t_Fxz-Yo9ORgdRy5Kec9hg_wSM/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform - Logos</td>
+<td><a target="_blank"
+href="https://drive.google.com/drive/folders/1mpp-3yhFPttEmtwMSMR2kPM1nQ3-ZVEM?usp=drive_link">Link</a></td>
+</tr>
+</tbody>
+</table>
