@@ -77,7 +77,7 @@
 <tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
@@ -88,7 +88,7 @@
 <td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
 Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a><br>
-<a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Content Center</a></td>
+<a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
