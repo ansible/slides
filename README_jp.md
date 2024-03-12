@@ -34,15 +34,16 @@
 </thead>
 <tbody>
 <tr>
+<td>February 15, 2024 : <a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Red Hat Ansible Automation Platform by the numbers
+</a></td>
+</a></td>
+</tr>
+<tr>
 <td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Ansible Network Automation 101
 </a></td>
 </tr>
 <tr>
 <td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1iQ0fblKEM22EM5cgFODpMmMtIsa9OyOa8w6mCVJATs4/">Red Hat One - Slide Index
-</a></td>
-</tr>
-<tr>
-<td>February 5 - 9, 2024 : <a target="_new" href="https://www.redhat.com/en/events/ciscoliveemea24">Cisco Live EMEA 2024
 </a></td>
 </tr>
 <tr>
@@ -74,6 +75,12 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
+<td>Red Hat Ansible Automation Platform by the numbers</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Google Source
+</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
@@ -87,7 +94,7 @@
 <td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
 Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a><br>
-<a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/">Content Center</a></td>
+<a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
@@ -219,6 +226,10 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </thead>
 <tbody>
 <tr>
+<td>AAP Edge Collateral</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Rn1sw75wfoMm1bCT-Gn5XKUPjaSvwv2FW5-m81cuj4g/">Google Source</a></td>
+<td>N/A</td>
+</tr>
 <td>Ansible エッジ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hx648sSdFQ5OpSsbg6bA1lx25aZxQnUY21BsZofqYco/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=9ed45b8b-c813-4836-a303-f2c59f63a756">Content Center</a></td>
@@ -278,6 +289,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td>Ansible Public Cloud  - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e6eae1f-d1fb-4da1-9fc4-c35aab2bcfb6">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible Terraform Collection とプロバーダーの概要</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1o8NuU3pJJZvXXFH8Tmc6HI6ZcwZs-IhC2B9pvCbdLAs/">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
@@ -500,6 +516,67 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible Automation Platform for ServiceNow ITSM</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1CrjQzOsPCfcq4RgzQBYQw1h-1Y2oqslsqJiSUe52Vxo/">Google Source</a></td>
+</tr>
+</tbody>
+</table>
+
+# リファレンスアーキテクチャー
+
+<table>
+<thead>
+<tr>
+<th>リファレンスアーキテクチャー</th>
+<th>Red Hat Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Automation Platform 2.1 の導入</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat OpenShift への Ansible Automation Platform 2 のデプロイ</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index">Link</a></td>
+</tr>
+<tr>
+<td>Ansible Automation Platform 1.2 から 2 への移行ガイド</td>
+<td><a target="_blank"
+href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index">Link</a></td>
+</tr>
+</tbody>
+</table>
+
+# Logos, Graphics, Icons and Brand Rules (英語版)
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck / Drive Link</th>
+<th>Red Hat Internal Link (社員用)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Product component icon library </td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/1LkMrfvfOrZ8JJD8tm1PhSTIru20MkNiH0H7J8Jz8VXY/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform: technology icons - Design Guidelines</td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/17yXBuN5WOw8BL0-FTFGCcRG8HqIii3rR25-s9Qe_IBc/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Icon Repository</td>
+<td><a target="_blank"
+href="https://docs.google.com/presentation/d/1SRhy8-bYBgaA3Jsi1t_Fxz-Yo9ORgdRy5Kec9hg_wSM/edit?usp=sharing">Link</a></td>
+</tr>
+<tr>
+<td>Red Hat Ansible Automation Platform - Logos</td>
+<td><a target="_blank"
+href="https://drive.google.com/drive/folders/1mpp-3yhFPttEmtwMSMR2kPM1nQ3-ZVEM?usp=drive_link">Link</a></td>
 </tr>
 </tbody>
 </table>
