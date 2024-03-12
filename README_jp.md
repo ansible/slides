@@ -227,7 +227,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tbody>
 <tr>
 <td>AAP Edge Collateral</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1U_oFnYze4ZVCJuBNu0gOT1ttVu5Y3vdiBokB7FborYU/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1Rn1sw75wfoMm1bCT-Gn5XKUPjaSvwv2FW5-m81cuj4g/">Google Source</a></td>
 <td>N/A</td>
 </tr>
 <td>Ansible エッジ自動化 - 101</td>
