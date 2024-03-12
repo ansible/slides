@@ -290,6 +290,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e6eae1f-d1fb-4da1-9fc4-c35aab2bcfb6">Content Center</a></td>
 </tr>
+<tr>
+<td>Ansible Terraform Collection とプロバーダーの概要</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1o8NuU3pJJZvXXFH8Tmc6HI6ZcwZs-IhC2B9pvCbdLAs/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
