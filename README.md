@@ -35,22 +35,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Feb 15, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Red Hat Ansible Automation Platform by the numbers
-</a></td>
-</tr>
-
-<tr>
-<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ">Ansible Network Automation 101
-</a></td>
-</tr>
-<tr>
-<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sFW9ah3V6R_bHrcJuYYxT2rOlY3i2QrrzyDbwLRCSjc/edit?usp=sharing">Red Hat One - Slide Index
-</a></td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">The Ansible Automation Platform Roadmap
+<td>Apr 5, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1kSei65339jkjWL4CDfP5XMq-V94gW_vr7_WgcXmb4Kg/edit?usp=sharing">AnsibleFest 2024 Two slide promo
 </a></td>
 </tr>
 </tbody>
