@@ -439,8 +439,8 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tr>
 <tr>
 <td>Ansible Network Automation - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1JJF2K2q38xJCp5o8ynmCH_C7tdsjI9odELTnbCR6cBM/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ad2c882f-93e7-4bd8-b7bb-e8abb05b7005">Content Center</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d16481f3-9e9c-485b-b319-f1719340dee4">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Network Automation - 301</td>
