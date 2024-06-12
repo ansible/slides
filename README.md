@@ -363,6 +363,8 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 ## OpenShift Virtualization
 
+<div id="cloud-use-cases">
+
 <table>
 <thead>
 <tr>
