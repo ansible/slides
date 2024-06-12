@@ -97,11 +97,6 @@ Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Insights for Red Hat Ansible Automation Platform</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1G1yExRBdEUFAHPyN6wAJ8deK_obKU5ZKfhYgAqIf6tY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>Automation 2.0:
 Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
