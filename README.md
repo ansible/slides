@@ -15,7 +15,8 @@
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
   - [On Cloud](#on-cloud)
-  - [Cloud Native](#cloud-native)
+  - [OpenShift Cloud Native](#openshift-cloud-native)
+  - [OpenShift Virtualization](#openshift-virtualization)
   - [Private Cloud - VMware](#private-cloud---vmware)
 - [Lightspeed AI](#lightspeed-ai)
 - [Middleware](#middleware)
@@ -36,7 +37,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Apr 5, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1kSei65339jkjWL4CDfP5XMq-V94gW_vr7_WgcXmb4Kg/edit?usp=sharing">AnsibleFest 2024 Two slide promo
+<td>June 12th, 2024 - <a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
 </tbody>
@@ -333,7 +334,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 </div>
 
-## Cloud Native
+## OpenShift Cloud Native
 
 <div id="cloud-use-cases">
 
@@ -355,6 +356,32 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Ansible Cloud Native - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1WE5xIDHow0sqi5qFoX9LDGPwM2epERs9aBklVDTUGjQ/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2eef02ae-24ef-4e99-a40c-6bf7787c0694">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+## OpenShift Virtualization
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Kit</td>
+<td><a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization</a>
+</td>
+<td>Coming Soon!</td>
+</tr>
+<tr>
+<td>Ansible OpenShift Virtualization - 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ctLr8CD6q6-b6nZBFgK6FhYsPeGco-ypcJN6b_Zqe10/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
 </tr>
 </tbody>
 </table>
