@@ -83,6 +83,8 @@
 <td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)<td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
+</tr>
+<tr>
 <td>Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
