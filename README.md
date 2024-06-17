@@ -385,6 +385,16 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ctLr8CD6q6-b6nZBFgK6FhYsPeGco-ypcJN6b_Zqe10/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
 </tr>
+<tr>
+<td>Ansible OpenShift Virtualization - 301</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1vyrW_88vn6P_AHqOCL5YdWhnf_TLqfJuUosHMHReXiI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="">Coming Soon!</a></td>
+</tr>
+<tr>
+<td>OpenShift Virtualization Migration Factory Ansible Collection</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="">Coming Soon!</a></td>
+</tr>
 </tbody>
 </table>
 </div>
