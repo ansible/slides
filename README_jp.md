@@ -34,20 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td>February 15, 2024 : <a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Red Hat Ansible Automation Platform by the numbers
-</a></td>
-</a></td>
-</tr>
-<tr>
-<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Ansible Network Automation 101
-</a></td>
-</tr>
-<tr>
-<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1iQ0fblKEM22EM5cgFODpMmMtIsa9OyOa8w6mCVJATs4/">Red Hat One - Slide Index
-</a></td>
-</tr>
-<tr>
-<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">The Ansible Automation Platform Roadmap
+<td>February 15, 2024 : <a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
 </tbody>
@@ -230,6 +217,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Rn1sw75wfoMm1bCT-Gn5XKUPjaSvwv2FW5-m81cuj4g/">Google Source</a></td>
 <td>N/A</td>
 </tr>
+<tr>
 <td>Ansible エッジ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hx648sSdFQ5OpSsbg6bA1lx25aZxQnUY21BsZofqYco/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=9ed45b8b-c813-4836-a303-f2c59f63a756">Content Center</a></td>
