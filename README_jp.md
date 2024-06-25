@@ -367,23 +367,23 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tbody>
 <tr>
 <td>Content Kit</td>
-<td><a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization</a>
+<td><a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization</a>
 </td>
 <td>Coming Soon!</td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ctLr8CD6q6-b6nZBFgK6FhYsPeGco-ypcJN6b_Zqe10/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/14Lgwf7Df1CPRFPMgankaoCvvcWslMzdZhFoTPSe580A/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 301</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1vyrW_88vn6P_AHqOCL5YdWhnf_TLqfJuUosHMHReXiI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/19T6tSiNSha846_-6oGXpgNbewCy95p7DEjnaXCfNdss/">Google Source</a></td>
 <td><a target="_blank" href="">Coming Soon!</a></td>
 </tr>
 <tr>
 <td>OpenShift Virtualization Migration Factory Ansible Collection</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lrqhXmnrdbdZmGG9xT17xQQMtp33LkGFu2gl4BTrtxI/">Google Source</a></td>
 <td><a target="_blank" href="">Coming Soon!</a></td>
 </tr>
 </tbody>
@@ -460,7 +460,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tbody>
 <tr>
 <td>Ansible for Middleware</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/12S1G0YHw_VS9kExZjQmlMIyl13vh8ZKjKrFRN4RnpOs/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/166VOoOEIJrdA_PfmcDOp6o_181KleybPbWNYweakUPk/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
