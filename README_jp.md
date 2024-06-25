@@ -26,7 +26,7 @@
 - [セキュリティの自動化](#セキュリティの自動化)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 - [リファレンスアーキテクチャー](#リファレンスアーキテクチャー)
-- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules-(英語版))
+- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
 <div class='highlighttable'>
@@ -595,7 +595,7 @@ href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_p
 </tbody>
 </table>
 
-# Logos, Graphics, Icons and Brand Rules (英語版)
+# Logos, Graphics, Icons and Brand Rules
 
 <table>
 <thead>
