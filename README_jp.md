@@ -17,12 +17,16 @@
   - [パブリッククラウド](#パブリッククラウド)
   - [オンクラウド](#オンクラウド)
   - [クラウドネイティブ](#クラウドネイティブ)
+  - [OpenShift Virtualization](#openshift-virtualization)
   - [プライベートクラウド - VMware](#プライベートクラウド---vmware)
 - [Lightspeed AI](#lightspeed-ai)
+- [Middleware](#middleware)
 - [ネットワークの自動化](#ネットワークの自動化)
 - [インフラの自動化](#インフラの自動化)
 - [セキュリティの自動化](#セキュリティの自動化)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
+- [リファレンスアーキテクチャー](#リファレンスアーキテクチャー)
+- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules (英語版))
 
 </div>
 <div class='highlighttable'>
@@ -348,6 +352,44 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </table>
 </div>
 
+## OpenShift Virtualization
+
+<div id="cloud-use-cases">
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Kit</td>
+<td><a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization</a>
+</td>
+<td>Coming Soon!</td>
+</tr>
+<tr>
+<td>Ansible OpenShift Virtualization - 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ctLr8CD6q6-b6nZBFgK6FhYsPeGco-ypcJN6b_Zqe10/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible OpenShift Virtualization - 301</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1vyrW_88vn6P_AHqOCL5YdWhnf_TLqfJuUosHMHReXiI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="">Coming Soon!</a></td>
+</tr>
+<tr>
+<td>OpenShift Virtualization Migration Factory Ansible Collection</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="">Coming Soon!</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
 ## プライベートクラウド - VMware
 
 <div id="cloud-use-cases">
@@ -405,7 +447,24 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tbody>
 </table>
 
+# Middleware
 
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible for Middleware</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/12S1G0YHw_VS9kExZjQmlMIyl13vh8ZKjKrFRN4RnpOs/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
 
 
 # ネットワークの自動化
