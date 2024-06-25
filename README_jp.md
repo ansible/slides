@@ -26,7 +26,7 @@
 - [セキュリティの自動化](#セキュリティの自動化)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 - [リファレンスアーキテクチャー](#リファレンスアーキテクチャー)
-- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules (英語版))
+- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
 <div class='highlighttable'>
