@@ -374,17 +374,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible OpenShift Virtualization - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/14Lgwf7Df1CPRFPMgankaoCvvcWslMzdZhFoTPSe580A/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=vrxZX1c31D&id=f1e0f500-5814-4b62-a74f-d6689c62441b&query=ABU%20%7C%20AVA%20%7C%20101%20-%20Ansible%20OpenShift%20Virtualization%20Automation%20-%20Introduction_ja">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/19T6tSiNSha846_-6oGXpgNbewCy95p7DEjnaXCfNdss/">Google Source</a></td>
-<td><a target="_blank" href="">Coming Soon!</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=Q2KFZaCWEn&id=08c67177-0266-4353-8738-a58d06f59a6e&query=ABU%20%7C%20AVA%20%7C%20301%20-%20Ansible%20OpenShift%20Virtualization%20Automation_ja">Content Center</a></td>
 </tr>
 <tr>
 <td>OpenShift Virtualization Migration Factory Ansible Collection</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lrqhXmnrdbdZmGG9xT17xQQMtp33LkGFu2gl4BTrtxI/">Google Source</a></td>
-<td><a target="_blank" href="">Coming Soon!</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=jPilscC7zl&id=3ca8b1dd-5138-4398-bf7d-e3d097dd37b9&query=OpenShift%20Virtualization%20Ansible%20Migration%20Factory%20Collection_ja">Content Center</a></td>
 </tr>
 </tbody>
 </table>
