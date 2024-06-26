@@ -17,12 +17,16 @@
   - [パブリッククラウド](#パブリッククラウド)
   - [オンクラウド](#オンクラウド)
   - [クラウドネイティブ](#クラウドネイティブ)
+  - [OpenShift Virtualization](#openshift-virtualization)
   - [プライベートクラウド - VMware](#プライベートクラウド---vmware)
 - [Lightspeed AI](#lightspeed-ai)
+- [Middleware](#middleware)
 - [ネットワークの自動化](#ネットワークの自動化)
 - [インフラの自動化](#インフラの自動化)
 - [セキュリティの自動化](#セキュリティの自動化)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
+- [リファレンスアーキテクチャー](#リファレンスアーキテクチャー)
+- [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
 <div class='highlighttable'>
@@ -34,20 +38,7 @@
 </thead>
 <tbody>
 <tr>
-<td>February 15, 2024 : <a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Red Hat Ansible Automation Platform by the numbers
-</a></td>
-</a></td>
-</tr>
-<tr>
-<td>Feb 8, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/">Ansible Network Automation 101
-</a></td>
-</tr>
-<tr>
-<td>Feb 6, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1iQ0fblKEM22EM5cgFODpMmMtIsa9OyOa8w6mCVJATs4/">Red Hat One - Slide Index
-</a></td>
-</tr>
-<tr>
-<td>Feb 2, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">The Ansible Automation Platform Roadmap
+<td>June 12th, 2024 : <a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
 </tbody>
@@ -230,6 +221,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Rn1sw75wfoMm1bCT-Gn5XKUPjaSvwv2FW5-m81cuj4g/">Google Source</a></td>
 <td>N/A</td>
 </tr>
+<tr>
 <td>Ansible エッジ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hx648sSdFQ5OpSsbg6bA1lx25aZxQnUY21BsZofqYco/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=9ed45b8b-c813-4836-a303-f2c59f63a756">Content Center</a></td>
@@ -360,6 +352,44 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </table>
 </div>
 
+## OpenShift Virtualization
+
+<div id="cloud-use-cases">
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Kit</td>
+<td><a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization</a>
+</td>
+<td>Coming Soon!</td>
+</tr>
+<tr>
+<td>Ansible OpenShift Virtualization - 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/14Lgwf7Df1CPRFPMgankaoCvvcWslMzdZhFoTPSe580A/">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=vrxZX1c31D&id=f1e0f500-5814-4b62-a74f-d6689c62441b&query=ABU%20%7C%20AVA%20%7C%20101%20-%20Ansible%20OpenShift%20Virtualization%20Automation%20-%20Introduction_ja">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible OpenShift Virtualization - 301</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/19T6tSiNSha846_-6oGXpgNbewCy95p7DEjnaXCfNdss/">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=Q2KFZaCWEn&id=08c67177-0266-4353-8738-a58d06f59a6e&query=ABU%20%7C%20AVA%20%7C%20301%20-%20Ansible%20OpenShift%20Virtualization%20Automation_ja">Content Center</a></td>
+</tr>
+<tr>
+<td>OpenShift Virtualization Migration Factory Ansible Collection</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lrqhXmnrdbdZmGG9xT17xQQMtp33LkGFu2gl4BTrtxI/">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=jPilscC7zl&id=3ca8b1dd-5138-4398-bf7d-e3d097dd37b9&query=OpenShift%20Virtualization%20Ansible%20Migration%20Factory%20Collection_ja">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
 ## プライベートクラウド - VMware
 
 <div id="cloud-use-cases">
@@ -417,7 +447,24 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 </tbody>
 </table>
 
+# Middleware
 
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible for Middleware</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/166VOoOEIJrdA_PfmcDOp6o_181KleybPbWNYweakUPk/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
 
 
 # ネットワークの自動化
@@ -548,7 +595,7 @@ href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_p
 </tbody>
 </table>
 
-# Logos, Graphics, Icons and Brand Rules (英語版)
+# Logos, Graphics, Icons and Brand Rules
 
 <table>
 <thead>
