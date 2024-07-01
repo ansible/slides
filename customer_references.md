@@ -3,6 +3,7 @@
 <p> In addition to the slide decks provided below, you can access customer references for Red Hat Ansible Automation Platform publicly via this <a target="_blank" href="https://www.redhat.com/en/success-stories?f[0]=taxonomy_product_tid:25911">link</a>. </p>
 
 - [Decks](#decks)
+- [Ansiblefest 2024](#ansiblefest-2024)
 - [General](#general)
 - [Hybrid Cloud](#hybrid-cloud)
 - [Infrastructure](#infrastructure)
@@ -31,6 +32,75 @@
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1UOXTxUG71M74J_Zy90ZlMc_Ro2R-RathoSeNvFUKGPo/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 <td></td>
+</tr>
+</tbody>
+</table>
+
+# Ansiblefest 2024
+
+<table>
+<thead>
+<tr>
+<th>Case Study</th>
+<th>Customer</th>
+<th>Region</th>
+<th>Video link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ANZ: Automation-first Mindset at ANZ Bank New Zealand</td>
+<td>ANZ Bank New Zealand</td>
+<td><class id="apac">APAC</class></td>
+<td><a target="_blank" href="https://youtu.be/P31VIi_lTGo">on YouTube</a></td>
+</tr>
+<tr>
+<td>City of Denver: Demystifying ServiceNow and Graph API: Making them work for you</td>
+<td>City of Denver</td>
+<td><class id="apac">NA</class></td>
+<td><a target="_blank" href="https://youtu.be/Oczmn-02iFU">on YouTube</a></td>
+</tr>
+<tr>
+<td>Exxon: Managing OT assets like IT assets with open process automation</td>
+<td>ExxonMobil</td>
+<td><class id="NA">NA</class></td>
+<td><a target="_blank" href="https://youtu.be/c0iJSr1Uxoo">on YouTube</a></td>
+</tr>
+<tr>
+<td>IKEA: Automation at IKEA: The success of a premier home furnishing brand</td>
+<td>IKEA Retail (Ingka Group)</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://youtu.be/KPSGyFEXeaY">on YouTube</a></td>
+</tr>
+<tr>
+<td>Navy Federal Credit Union (NFCU): Code, community, and collaboration</td>
+<td>NFCU</td>
+<td><class id="na">na</class></td>
+<td><a target="_blank" href="https://youtu.be/eqSL276TUB0">on YouTube</a></td>
+</tr>
+<tr>
+<td>Nestle: Elevating reliability: Harnessing Event-Driven Ansible in incident management</td>
+<td>Nestle</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://youtu.be/V2Z0ksUnQaQ">on YouTube</a></td>
+</tr>
+<tr>
+<td>Red Robin: Disaster recovery and business continuity at the edge: Red Robin International's success story</td>
+<td>Red Robin</td>
+<td><class id="na">NA</class></td>
+<td><a target="_blank" href="https://youtu.be/dETl7b_o0vg">on YouTube</a></td>
+</tr>
+<tr>
+<td>Ticketmaster: Centralizing automation to drive business value: A real-world success story</td>
+<td>Live Nation Entertainment</td>
+<td><class id="na">NA</class></td>
+<td><a target="_blank" href="https://youtu.be/FZ88cCvMfMk">on YouTube</a></td>
+</tr>
+<tr>
+<td>Volvo Cars uses Ansible Automation Platform on Microsoft Azure to accelerate time-to-automation</td>
+<td>Volvo Cars</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://youtu.be/8KunwQQynV8">on YouTube</a></td>
 </tr>
 </tbody>
 </table>
