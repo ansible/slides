@@ -37,6 +37,10 @@
 </thead>
 <tbody>
 <tr>
+<td>July 1st, 2024 - <a target="_new" href="/customer_references#ansiblefest-2024">Ansiblefest 2024 Customer recordings
+</a></td>
+</tr>
+<tr>
 <td>June 12th, 2024 - <a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
