@@ -37,6 +37,10 @@
 </thead>
 <tbody>
 <tr>
+<td>July 1st, 2024 - <a target="_new" href="/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings
+</a></td>
+</tr>
+<tr>
 <td>June 12th, 2024 - <a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
@@ -80,10 +84,13 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)<br>
-Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a><br>
-<a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
+<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
@@ -499,7 +506,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible Network Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f40a3f3a-0de9-40fb-b96a-7bcccde8ff3d">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52">Content Center</a></td>
 </tr>
 </tbody>
 </table>

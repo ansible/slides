@@ -615,6 +615,13 @@
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5e54538b-ca9a-4568-9bf2-17c16f625ef0">Content Center</a></td>
 </tr>
 <tr>
+<td>IT automation in government</td>
+<td>Brief</td>
+<td><class id="gov">Government</class></td>
+<td><a target="_blank" href="https://www.redhat.com/rhdc/managed-files/ve-it-automation-in-government-overview-1184374pr-202406-en_0.pdf">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=6ed74d6e-f7cb-4bc4-8b51-b8ef6d49c7fd">Content Center</a></td>
+</tr>
+<tr>
 <td>Accelerate public sector digital transformation with Red Hat Ansible Automation Platform</td>
 <td>Brief</td>
 <td><class id="gov">Government</class></td>
