@@ -57,13 +57,13 @@
 <tr>
 <td>City of Denver: Demystifying ServiceNow and Graph API: Making them work for you</td>
 <td>City of Denver</td>
-<td><class id="apac">NA</class></td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/Oczmn-02iFU">on YouTube</a></td>
 </tr>
 <tr>
 <td>Exxon: Managing OT assets like IT assets with open process automation</td>
 <td>ExxonMobil</td>
-<td><class id="NA">NA</class></td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/c0iJSr1Uxoo">on YouTube</a></td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@
 <tr>
 <td>Navy Federal Credit Union (NFCU): Code, community, and collaboration</td>
 <td>NFCU</td>
-<td><class id="na">na</class></td>
+<td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/eqSL276TUB0">on YouTube</a></td>
 </tr>
 <tr>
