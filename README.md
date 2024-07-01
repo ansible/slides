@@ -37,7 +37,7 @@
 </thead>
 <tbody>
 <tr>
-<td>July 1st, 2024 - <a target="_new" href="/customer_references#ansiblefest-2024">Ansiblefest 2024 Customer recordings
+<td>July 1st, 2024 - <a target="_new" href="/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings
 </a></td>
 </tr>
 <tr>
