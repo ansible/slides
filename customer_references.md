@@ -44,7 +44,7 @@
 <th>Case Study</th>
 <th>Customer</th>
 <th>Region</th>
-<th>Video link</th>
+<th style="width: 250px;">Video link</th>
 </tr>
 </thead>
 <tbody>
@@ -86,7 +86,7 @@
 <td>Mapfre: Trust and resilient global IT operations with Mapfre</td>
 <td>Mapfre, S.A.</td>
 <td><class id="emea">EMEA</class></td>
-<td>Part of Ansiblefest day 2 keynote<br><a target="_blank" href="https://www.youtube.com/live/t1cLRQ9HuCY?si=xR2e29Z3obKjgkhj&t=885">On YouTube, starts at 14:45.</a></td>
+<td>Part of Ansiblefest day 2 keynote.<br><a target="_blank" href="https://www.youtube.com/live/t1cLRQ9HuCY?si=xR2e29Z3obKjgkhj&t=885">On YouTube, starts at 14:45.</a></td>
 </tr>
 <tr>
 <td>NCFU: Building an adaptable IT culture with Navy Federal Credit Union</td>
