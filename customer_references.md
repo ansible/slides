@@ -115,7 +115,7 @@
 <tr>
 <td>Red Robin: Disaster recovery and business continuity at the edge: Red Robin International's success story</td>
 <td>Red Robin</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class><br><class id="edge">Edge</class></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/dETl7b_o0vg">On YouTube</a></td>
 </tr>
