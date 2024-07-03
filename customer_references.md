@@ -43,7 +43,7 @@
 <tr>
 <th>Case Study</th>
 <th>Customer</th>
-<th>Use-case</th>
+<th style="width: 115px;">Use-case</th>
 <th>Region</th>
 <th style="width: 250px;">Video link</th>
 </tr>
