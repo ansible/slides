@@ -80,6 +80,7 @@
 <tr>
 <td>IKEA: Automation at IKEA: The success of a premier home furnishing brand</td>
 <td>IKEA Retail (Ingka Group)</td>
+<td><class id="infrastructure">Infrastructure</class><class id="snow">ServiceNow</class></td>
 <td></td>
 <td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://youtu.be/KPSGyFEXeaY">On YouTube</a></td>
