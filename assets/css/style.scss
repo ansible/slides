@@ -298,7 +298,7 @@ a h3:hover {
   font-size: 12px;
 }
 
-div#cloud-use-cases { 
+div#cloud-use-cases {
     padding-left: 20px;
 }
 
@@ -351,6 +351,13 @@ th#industry {
 
 b {
   font-weight: bold;
+}
+
+class#network {
+  background-color: #0066cc;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
 }
 
 class#apac {
