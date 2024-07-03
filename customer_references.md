@@ -108,12 +108,14 @@
 <tr>
 <td>Nestle: Elevating reliability: Harnessing Event-Driven Ansible in incident management</td>
 <td>Nestle</td>
+<td></td>
 <td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://youtu.be/V2Z0ksUnQaQ">On YouTube</a></td>
 </tr>
 <tr>
 <td>Red Robin: Disaster recovery and business continuity at the edge: Red Robin International's success story</td>
 <td>Red Robin</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/dETl7b_o0vg">On YouTube</a></td>
 </tr>
