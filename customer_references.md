@@ -66,7 +66,7 @@
 <tr>
 <td>City of Denver: Demystifying ServiceNow and Graph API: Making them work for you</td>
 <td>City of Denver</td>
-<td></td>
+<td><class id="snow">ServiceNow</class></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/Oczmn-02iFU">On YouTube</a></td>
 </tr>
@@ -94,21 +94,21 @@
 <tr>
 <td>NCFU: Building an adaptable IT culture with Navy Federal Credit Union</td>
 <td>Navy Federal Credit Union (NFCU)</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class></td>
 <td><class id="na">NA</class></td>
 <td>Part of Ansiblefest day 2 keynote.<br><a target="_blank" href="https://www.youtube.com/live/t1cLRQ9HuCY?si=kTAyijlgZtNSxzO-&t=407">On YouTube, starts at 6:47.</a></td>
 </tr>
 <tr>
 <td>NFCU: Code, community, and collaboration</td>
 <td>Navy Federal Credit Union (NFCU)</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/eqSL276TUB0">On YouTube</a></td>
 </tr>
 <tr>
 <td>Nestle: Elevating reliability: Harnessing Event-Driven Ansible in incident management</td>
 <td>Nestle</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class><br><class id="snow">ServiceNow</class></td>
 <td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://youtu.be/V2Z0ksUnQaQ">On YouTube</a></td>
 </tr>
@@ -136,7 +136,7 @@
 <tr>
 <td>Volvo Cars uses Ansible Automation Platform on Microsoft Azure to accelerate time-to-automation</td>
 <td>Volvo Cars</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class><br><class id="cloud">Cloud</class></td>
 <td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://youtu.be/8KunwQQynV8">On YouTube</a></td>
 </tr>
