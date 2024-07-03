@@ -52,6 +52,7 @@
 <tr>
 <td>ADP's Automation Journey</td>
 <td>Automatic Data Processing, Inc. (ADP)</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td>Part of Ansiblefest day 1 keynote.<br><a target="_blank" href="https://www.youtube.com/live/a4V45ifFSMc?si=ht18TjJTEM0FrlQW&t=443">On YouTube, starts at 6:23.</a></td>
 </tr>
@@ -65,36 +66,42 @@
 <tr>
 <td>City of Denver: Demystifying ServiceNow and Graph API: Making them work for you</td>
 <td>City of Denver</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/Oczmn-02iFU">On YouTube</a></td>
 </tr>
 <tr>
 <td>Exxon: Managing OT assets like IT assets with open process automation</td>
 <td>ExxonMobil</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/c0iJSr1Uxoo">On YouTube</a></td>
 </tr>
 <tr>
 <td>IKEA: Automation at IKEA: The success of a premier home furnishing brand</td>
 <td>IKEA Retail (Ingka Group)</td>
+<td></td>
 <td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://youtu.be/KPSGyFEXeaY">On YouTube</a></td>
 </tr>
 <tr>
 <td>Mapfre: Trust and resilient global IT operations with Mapfre</td>
 <td>Mapfre, S.A.</td>
+<td></td>
 <td><class id="emea">EMEA</class></td>
 <td>Part of Ansiblefest day 2 keynote.<br><a target="_blank" href="https://www.youtube.com/live/t1cLRQ9HuCY?si=xR2e29Z3obKjgkhj&t=885">On YouTube, starts at 14:45.</a></td>
 </tr>
 <tr>
 <td>NCFU: Building an adaptable IT culture with Navy Federal Credit Union</td>
 <td>Navy Federal Credit Union (NFCU)</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td>Part of Ansiblefest day 2 keynote.<br><a target="_blank" href="https://www.youtube.com/live/t1cLRQ9HuCY?si=kTAyijlgZtNSxzO-&t=407">On YouTube, starts at 6:47.</a></td>
 </tr>
 <tr>
 <td>NFCU: Code, community, and collaboration</td>
 <td>Navy Federal Credit Union (NFCU)</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/eqSL276TUB0">On YouTube</a></td>
 </tr>
@@ -120,12 +127,14 @@
 <tr>
 <td>Ticketmaster: Centralizing automation to drive business value: A real-world success story</td>
 <td>Live Nation Entertainment</td>
+<td></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/FZ88cCvMfMk">On YouTube</a></td>
 </tr>
 <tr>
 <td>Volvo Cars uses Ansible Automation Platform on Microsoft Azure to accelerate time-to-automation</td>
 <td>Volvo Cars</td>
+<td></td>
 <td><class id="emea">EMEA</class></td>
 <td><a target="_blank" href="https://youtu.be/8KunwQQynV8">On YouTube</a></td>
 </tr>
