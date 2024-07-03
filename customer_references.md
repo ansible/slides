@@ -52,7 +52,7 @@
 <tr>
 <td>ADP's Automation Journey</td>
 <td>Automatic Data Processing, Inc. (ADP)</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class></td>
 <td><class id="na">NA</class></td>
 <td>Part of Ansiblefest day 1 keynote.<br><a target="_blank" href="https://www.youtube.com/live/a4V45ifFSMc?si=ht18TjJTEM0FrlQW&t=443">On YouTube, starts at 6:23.</a></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td>Exxon: Managing OT assets like IT assets with open process automation</td>
 <td>ExxonMobil</td>
-<td></td>
+<td><class id="edge">Edge</class></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/c0iJSr1Uxoo">On YouTube</a></td>
 </tr>
@@ -87,7 +87,7 @@
 <tr>
 <td>Mapfre: Trust and resilient global IT operations with Mapfre</td>
 <td>Mapfre, S.A.</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class><br><class id="cloud">Cloud</class><br><class id="network">Network</class></td>
 <td><class id="emea">EMEA</class></td>
 <td>Part of Ansiblefest day 2 keynote.<br><a target="_blank" href="https://www.youtube.com/live/t1cLRQ9HuCY?si=xR2e29Z3obKjgkhj&t=885">On YouTube, starts at 14:45.</a></td>
 </tr>
