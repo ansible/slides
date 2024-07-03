@@ -43,15 +43,12 @@
 <tr>
 <th>Case Study</th>
 <th>Customer</th>
+<th>Use-case</th>
 <th>Region</th>
 <th style="width: 250px;">Video link</th>
 </tr>
 </thead>
 <tbody>
-
-
-
-
 <tr>
 <td>ADP's Automation Journey</td>
 <td>Automatic Data Processing, Inc. (ADP)</td>
@@ -61,6 +58,7 @@
 <tr>
 <td>ANZ: Automation-first Mindset at ANZ Bank New Zealand</td>
 <td>ANZ Bank New Zealand</td>
+<td><class id="network">Network</class></td>
 <td><class id="apac">APAC</class></td>
 <td><a target="_blank" href="https://youtu.be/P31VIi_lTGo">On YouTube</a></td>
 </tr>
@@ -115,6 +113,7 @@
 <tr>
 <td>Southwest Airlines: Mission-Critical Network Automation</td>
 <td>Southwest Airlines Co.</td>
+<td><class id="network">Network</class></td>
 <td><class id="na">NA</class></td>
 <td>Part of Ansiblefest day 1 keynote.<br><a target="_blank" href="https://www.youtube.com/live/a4V45ifFSMc?si=tY1Ic1k7C6DmCn0C&t=1207">On YouTube, starts at 20:07.</a></td>
 </tr>
