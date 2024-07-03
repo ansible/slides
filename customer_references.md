@@ -129,7 +129,7 @@
 <tr>
 <td>Ticketmaster: Centralizing automation to drive business value: A real-world success story</td>
 <td>Live Nation Entertainment</td>
-<td></td>
+<td><class id="infrastructure">Infrastructure</class><br><class id="cloud">Cloud</class></td>
 <td><class id="na">NA</class></td>
 <td><a target="_blank" href="https://youtu.be/FZ88cCvMfMk">On YouTube</a></td>
 </tr>
