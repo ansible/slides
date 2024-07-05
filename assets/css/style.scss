@@ -298,7 +298,7 @@ a h3:hover {
   font-size: 12px;
 }
 
-div#cloud-use-cases { 
+div#cloud-use-cases {
     padding-left: 20px;
 }
 
@@ -351,6 +351,41 @@ th#industry {
 
 b {
   font-weight: bold;
+}
+
+class#edge {
+  background-color: #003366;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#cloud {
+  background-color: #37a3a3;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#infrastructure {
+  background-color: #21134d;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#snow {
+  background-color: #5e40be;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#network {
+  background-color: #0066cc;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
 }
 
 class#apac {
