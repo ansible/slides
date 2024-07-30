@@ -127,13 +127,13 @@
 </tr>
 <tr>
 <td>SAP S/4HANA modernization begins with automation</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/simplify-it-infrastructure">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c8ad839a-c1ca-4926-8000-d31605b089b5">Content Center</a></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/sap-s4hana-automation-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=23887ed1-d0e9-4095-8bbd-83cfa9cec2c9">Content Center</a></td>
 </tr>
 <tr>
 <td>Customer Success Series: Simplify IT infrastructure with automation</td>
-<td><a target="_blank" href="https://www.redhat.com/en/resources/sap-s4hana-automation-ebook">on redhat.com</a></td>
-<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=23887ed1-d0e9-4095-8bbd-83cfa9cec2c9">Content Center</a></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/simplify-it-infrastructure">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c8ad839a-c1ca-4926-8000-d31605b089b5">Content Center</a></td>
 </tr>
 <tr>
 <td>Efficient automation with Ansible</td>
