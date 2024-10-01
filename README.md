@@ -37,6 +37,10 @@
 </thead>
 <tbody>
 <tr>
+<td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1mM0lfsQYy4d0TG4jHMpjElTDuPkdrqfJMhVBOKIyqqc/edit?usp=sharing">AAP 2.5 Release Overview Deck
+</a></td>
+</tr>
+<tr>
 <td>July 1st, 2024 - <a target="_new" href="/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings
 </a></td>
 </tr>
