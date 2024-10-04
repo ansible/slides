@@ -148,6 +148,11 @@ Use a spreadsheet to determine high level time and cost savings</td>
 and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
+<td>Tech Target: Economic Benefits of AAP key takeaways</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/170AknZeOavixbRS2KbTjDkLRjqmLaVfpJFUB57VDLMs/edit?usp=sharing">Deck Google Source</a></td>
+<td>Coming soon!</td>
+</tr>  
 </tbody>
 </table>
 
