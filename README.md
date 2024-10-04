@@ -109,8 +109,7 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Automation 2.0:
-IDC 2024: Unlock the Business Value of IT Automation</td>
+<td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1BR0wm_QM7IsXQwzjqdQAw4mppLM6WxwbQf36nHmQyJo/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
