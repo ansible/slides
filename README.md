@@ -83,8 +83,8 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>Technical Roadmap</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/16c8VHlZEfvMI11RDyWDPlUqLFYGUoPPqG38mz2gf8do/edit?usp=sharing">Google Source</a></td>
+<td>Technical Roadmap (post AAP 2.5, 2025)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1zoKb4QurLM6yGpYN9k_6LF76gjrn99uhC1okH_BORXI/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
