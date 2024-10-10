@@ -38,6 +38,10 @@
 </thead>
 <tbody>
 <tr>
+<td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/">AAP 2.5 Release Overview Deck
+</a></td>
+</tr>
+<tr>
 <td>July 1st, 2024 - <a target="_new" href="https://ansible.github.io/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings (翻訳なし)
 </a></td>
 </tr>
