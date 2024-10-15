@@ -38,6 +38,14 @@
 </thead>
 <tbody>
 <tr>
+<td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo/">Updated Roadmap (post 2.5, 2025)
+</a></td>
+</tr>
+<tr>
+<td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Updated Technical Deck (post 2.5)
+</a></td>
+</tr>  
+<tr>
 <td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/">AAP 2.5 Release Overview Deck
 </a></td>
 </tr>
