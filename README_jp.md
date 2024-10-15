@@ -38,15 +38,23 @@
 </thead>
 <tbody>
 <tr>
-<td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/">AAP 2.5 Release Overview Deck
+<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo/">Updated Roadmap (post 2.5, 2025)
 </a></td>
 </tr>
 <tr>
-<td>July 1st, 2024 - <a target="_new" href="https://ansible.github.io/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings (翻訳なし)
+<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Updated Technical Deck (post 2.5)
+</a></td>
+</tr>  
+<tr>
+<td>2024年 9月30日 - <a target="_new" href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/">AAP 2.5 Release Overview Deck
 </a></td>
 </tr>
 <tr>
-<td>June 12th, 2024 : <a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization
+<td>2024年 7月1日 - <a target="_new" href="https://ansible.github.io/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings (翻訳なし)
+</a></td>
+</tr>
+<tr>
+<td>2024年 6月12日 : <a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
 </tbody>
@@ -81,12 +89,12 @@
 </tr>
 <tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
