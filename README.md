@@ -37,6 +37,10 @@
 </thead>
 <tbody>
 <tr>
+<td>Dec 2nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
+</a></td>
+</tr>
+<tr>
 <td>Dec 2nd, 2024 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
 </a></td>
 </tr>
@@ -65,6 +69,11 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon</td>
+</tr>
 <tr>
 <td>Ansible Automation Platform Pitch Deck for AEs (2023 version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Google Source</a><br>
