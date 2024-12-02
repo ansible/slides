@@ -72,7 +72,7 @@
 <tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Automation Platform Pitch Deck for AEs (2023 version)</td>
