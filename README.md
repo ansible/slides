@@ -37,23 +37,15 @@
 </thead>
 <tbody>
 <tr>
+<td>Dec 2nd, 2024 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
+</a></td>
+</tr>
+<tr>
 <td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1zoKb4QurLM6yGpYN9k_6LF76gjrn99uhC1okH_BORXI/edit?usp=sharing">Updated Roadmap (post 2.5, 2025)
 </a></td>
 </tr>
 <tr>
 <td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Updated Technical Deck (post 2.5)
-</a></td>
-</tr>  
-<tr>
-<td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1mM0lfsQYy4d0TG4jHMpjElTDuPkdrqfJMhVBOKIyqqc/edit?usp=sharing">AAP 2.5 Release Overview Deck
-</a></td>
-</tr>
-<tr>
-<td>July 1st, 2024 - <a target="_new" href="/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings
-</a></td>
-</tr>
-<tr>
-<td>June 12th, 2024 - <a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
 </tbody>
@@ -160,7 +152,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Tech Target: Economic Benefits of AAP key takeaways</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/170AknZeOavixbRS2KbTjDkLRjqmLaVfpJFUB57VDLMs/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
-</tr>  
+</tr>
 </tbody>
 </table>
 

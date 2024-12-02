@@ -60,6 +60,12 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/impact-of-ansible-automation-platform-training-infographic">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a70ec6a8-d70d-4f53-8aa1-36c983aae81d">Content Center</a></td>
 </tr>
+<tr>
+<td>Jumpstart your use of Red Hat Ansible Automation Platform</td>
+<td>Jumpstart automation resource</td>
+<td><a target="_blank" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">on redhat.com</a></td>
+<td>N/A, public link</td>
+</tr>
 </tbody>
 </table>
 
