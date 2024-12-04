@@ -543,6 +543,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c6560bf-50b6-4ce0-97b5-8bbe1dbb96e9">Content Center</a></td>
 </tr>
+<tr>
+<td>Ansible Windows Automation</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1kWyvZwdzhDug1MzXM6cdtRQurohSY9HHlLTtegSir0M/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
