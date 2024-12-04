@@ -38,6 +38,14 @@
 </thead>
 <tbody>
 <tr>
+<td>Dec 2nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
+</a></td>
+</tr>
+<tr>
+<td>Dec 2nd, 2024 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
+</a></td>
+</tr>
+<tr>
 <td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo/">Updated Roadmap (post 2.5, 2025)
 </a></td>
 </tr>
@@ -45,18 +53,6 @@
 <td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Updated Technical Deck (post 2.5)
 </a></td>
 </tr>  
-<tr>
-<td>2024年 9月30日 - <a target="_new" href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/">AAP 2.5 Release Overview Deck
-</a></td>
-</tr>
-<tr>
-<td>2024年 7月1日 - <a target="_new" href="https://ansible.github.io/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings (翻訳なし)
-</a></td>
-</tr>
-<tr>
-<td>2024年 6月12日 : <a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization
-</a></td>
-</tr>
 </tbody>
 </table>
   
