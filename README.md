@@ -37,23 +37,19 @@
 </thead>
 <tbody>
 <tr>
+<td>Dec 2nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
+</a></td>
+</tr>
+<tr>
+<td>Dec 2nd, 2024 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
+</a></td>
+</tr>
+<tr>
 <td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1zoKb4QurLM6yGpYN9k_6LF76gjrn99uhC1okH_BORXI/edit?usp=sharing">Updated Roadmap (post 2.5, 2025)
 </a></td>
 </tr>
 <tr>
 <td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Updated Technical Deck (post 2.5)
-</a></td>
-</tr>  
-<tr>
-<td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1mM0lfsQYy4d0TG4jHMpjElTDuPkdrqfJMhVBOKIyqqc/edit?usp=sharing">AAP 2.5 Release Overview Deck
-</a></td>
-</tr>
-<tr>
-<td>July 1st, 2024 - <a target="_new" href="/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings
-</a></td>
-</tr>
-<tr>
-<td>June 12th, 2024 - <a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization
 </a></td>
 </tr>
 </tbody>
@@ -73,6 +69,11 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">Content Center</a></td>
+</tr>
 <tr>
 <td>Ansible Automation Platform Pitch Deck for AEs (2023 version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Google Source</a><br>
@@ -160,7 +161,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Tech Target: Economic Benefits of AAP key takeaways</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/170AknZeOavixbRS2KbTjDkLRjqmLaVfpJFUB57VDLMs/edit?usp=sharing">Deck Google Source</a></td>
 <td>Coming soon!</td>
-</tr>  
+</tr>
 </tbody>
 </table>
 
@@ -557,6 +558,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Ansible Infrastructure Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible Windows Automation</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1oKwQBQbrvDArTttxXjDyA3s82qtgbKdT0ugh6e_Ga5Q/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4b5e6402-67db-44d5-bde0-a58cecdcdb99">Content Center</a></td>
 </tr>
 </tbody>
 </table>
