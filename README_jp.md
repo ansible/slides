@@ -38,11 +38,11 @@
 </thead>
 <tbody>
 <tr>
-<td>Dec 2nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
+<td>2024年 12月2日 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
 </a></td>
 </tr>
 <tr>
-<td>Dec 2nd, 2024 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
+<td>2024年 12月2日 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
 </a></td>
 </tr>
 <tr>
