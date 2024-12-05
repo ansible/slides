@@ -72,6 +72,11 @@
 </thead>
 <tbody>
 <tr>
+<td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">Content Center</a></td>
+</tr>
+<tr>
 <td>Ansible Automation Platform ピッチデッキfor AE (2023 Version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8">Google Source</a><br>
 <ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
