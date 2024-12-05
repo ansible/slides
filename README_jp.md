@@ -119,11 +119,6 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Insights と Red Hat Ansible Automation Platform</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>Automation 2.0: 
 Unlock the Business Value of IT Automation (英語版)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
