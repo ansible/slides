@@ -99,10 +99,13 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
-Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a><br>
-<a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Google Source</a></td>
+<td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
