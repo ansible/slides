@@ -124,6 +124,11 @@ Unlock the Business Value of IT Automation (英語版)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
+<td>IDC 2024: Unlock the Business Value of IT Automation</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1cSAE2CbJ5ICJSzLJSTb5HCtFBrOxYex5FJ7YJv2QIfk/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
