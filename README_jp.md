@@ -164,6 +164,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4">Deck Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
+<td>Tech Target: Economic Benefits of AAP key takeaways</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1biZaJfCjpAS2QYL_xpp96lNNcUN8N8whLDHEUohxOBc/">Deck Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
