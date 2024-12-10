@@ -29,8 +29,8 @@
 </tr>
 <tr>
 <td>Ansible Automation Customer Reference Deck</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1UOXTxUG71M74J_Zy90ZlMc_Ro2R-RathoSeNvFUKGPo/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1RLupTaD6vEEw5r2wKc2kWb3H80ZH98B2zVWaOYTDnzs/edit?usp=sharing">Google Source</a></td>
+<td>N/A please use public customer list <a target="_new" href="https://www.redhat.com/en/success-stories">https://www.redhat.com/en/success-stories</a></td>
 <td></td>
 </tr>
 </tbody>
