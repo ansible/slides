@@ -55,6 +55,8 @@
 </tr>
 </tbody>
 </table>
+</div>
+
 <div class='highlighttable'>
 <table>
 <thead>
@@ -81,8 +83,8 @@
 </tr>
 </tbody>
 </table>
-
 </div>
+
 </div>
 
 # General
