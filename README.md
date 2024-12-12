@@ -28,6 +28,7 @@
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
+
 <div class='highlighttable'>
 <table>
 <thead>
@@ -50,6 +51,20 @@
 </tr>
 <tr>
 <td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Updated Technical Deck (post 2.5)
+</a></td>
+</tr>
+</tbody>
+</table>
+<div class='highlighttable'>
+<table>
+<thead>
+<tr>
+<th>Important Documentation for the Field</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KB: <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 Aligning Customer Infrastructure to Tested Topologies
 </a></td>
 </tr>
 </tbody>
