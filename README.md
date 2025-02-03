@@ -38,19 +38,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Dec 2nd, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
-</a></td>
-</tr>
-<tr>
-<td>Dec 2nd, 2024 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
-</a></td>
-</tr>
-<tr>
-<td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1zoKb4QurLM6yGpYN9k_6LF76gjrn99uhC1okH_BORXI/edit?usp=sharing">Updated Roadmap (post 2.5, 2025)
-</a></td>
-</tr>
-<tr>
-<td>Oct 9th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Updated Technical Deck (post 2.5)
+<td>Feb 3rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Red Hat Ansible G2 Review Highlights
 </a></td>
 </tr>
 </tbody>
@@ -148,6 +136,11 @@
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1BR0wm_QM7IsXQwzjqdQAw4mppLM6WxwbQf36nHmQyJo/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
+</tr>
+<tr>
+<td>Red Hat Ansible G2 Review Highlights</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=61aad783-0421-440b-b959-b73efc586502">Content Center</a></td>
 </tr>
 </tbody>
 </table>
