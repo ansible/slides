@@ -19,7 +19,6 @@
   - [OpenShift Virtualization](#openshift-virtualization)
   - [Private Cloud - VMware](#private-cloud---vmware)
 - [Lightspeed AI](#lightspeed-ai)
-- [Middleware](#middleware)
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Security Automation](#security-automation)
@@ -501,25 +500,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1WZmjs2ta7cMSo3mOD8pwathduVL0sbiQbIGokEbMY6E/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74a76dfc-7a95-43be-bb33-42e4b2a11e04">Content Center</a></td>
-</tr>
-</tbody>
-</table>
-
-# Middleware
-
-<table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Ansible for Middleware</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/12S1G0YHw_VS9kExZjQmlMIyl13vh8ZKjKrFRN4RnpOs/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
