@@ -619,12 +619,14 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Ansible Automation Platform for ServiceNow ITSM</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-7c8WJGucwlmkiKuy_k15Cn2EpJyoy7tIun-PQkoL-8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1tZerCHqspFzGd3-kYWUz3tsiaIvHr-Ufs-veW4TozMU/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon...</td>
 </tr>
 </tbody>
 </table>
