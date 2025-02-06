@@ -38,17 +38,21 @@
 </thead>
 <tbody>
 <tr>
-<td>Sep 30th, 2024 - <a target="_new" href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/">AAP 2.5 Release Overview Deck
+<td>2024年 12月2日 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
 </a></td>
 </tr>
 <tr>
-<td>July 1st, 2024 - <a target="_new" href="https://ansible.github.io/slides/customer_references#ansiblefest-2024">Ansiblefest 2024 customer recordings (翻訳なし)
+<td>2024年 12月2日 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
 </a></td>
 </tr>
 <tr>
-<td>June 12th, 2024 : <a target="_new" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/">Ansible for OpenShift Virtualization
+<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo/">Updated Roadmap (post 2.5, 2025)
 </a></td>
 </tr>
+<tr>
+<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Updated Technical Deck (post 2.5)
+</a></td>
+</tr>  
 </tbody>
 </table>
   
@@ -68,6 +72,11 @@
 </thead>
 <tbody>
 <tr>
+<td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide (英語版)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">Content Center</a></td>
+</tr>
+<tr>
 <td>Ansible Automation Platform ピッチデッキfor AE (2023 Version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8">Google Source</a><br>
 <ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
@@ -81,19 +90,22 @@
 </tr>
 <tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1N5r3XYcL9Thc2t0oamW9Hq1HakMhjofO7MF9F9YNwxQ/">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)<br>
-Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a><br>
-<a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Google Source</a></td>
+<td>Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
@@ -107,14 +119,14 @@ Ansible Automation Platform: セキュリティの自動化 (External OK)</td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Insights と Red Hat Ansible Automation Platform</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1s7s0Pw8YuiUyjGCxxQkQ0lutF69d2sXujYDWTXWrxiE/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>Automation 2.0: 
 Unlock the Business Value of IT Automation (英語版)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>IDC 2024: Unlock the Business Value of IT Automation</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1cSAE2CbJ5ICJSzLJSTb5HCtFBrOxYex5FJ7YJv2QIfk/edit#slide=id.g127818c861e_0_1300">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
@@ -150,6 +162,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 スプレッドシートを使用したハイレベルな時間およびコスト削減</td>
 <td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
 and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4">Deck Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Tech Target: Economic Benefits of AAP key takeaways</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1biZaJfCjpAS2QYL_xpp96lNNcUN8N8whLDHEUohxOBc/">Deck Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
@@ -534,6 +551,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td>Ansible インフラ自動化 - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c6560bf-50b6-4ce0-97b5-8bbe1dbb96e9">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible Windows Automation</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1kWyvZwdzhDug1MzXM6cdtRQurohSY9HHlLTtegSir0M/">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
