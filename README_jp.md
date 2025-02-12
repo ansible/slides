@@ -134,15 +134,14 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Automation 2.0: 
-Unlock the Business Value of IT Automation (英語版)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1cSAE2CbJ5ICJSzLJSTb5HCtFBrOxYex5FJ7YJv2QIfk/edit#slide=id.g127818c861e_0_1300">Google Source</a></td>
 <td>Coming soon!</td>
+</tr>
+<tr>
+<td>Red Hat Ansible G2 Review Highlights</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=61aad783-0421-440b-b959-b73efc586502">Content Center</a></td>
 </tr>
 </tbody>
 </table>
