@@ -39,7 +39,7 @@
 </thead>
 <tbody>
 <tr>
-<td>Feb 3rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Red Hat Ansible G2 Review Highlights
+<td>Feb 3rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/">Red Hat Ansible G2 Review Highlights
 </a></td>
 </tr>
 </tbody>
