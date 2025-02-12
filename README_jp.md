@@ -207,16 +207,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1JKvNpY4OEM2-gSZtxhciaBdkteMK2KoNNs05MP764Rc/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=9640db7b-064c-4074-8b76-6b7df5bf8cfe">Content Center</a></td>
 </tr>
-<tr>
-<td>AAP 2.3 Overview (Nov 29, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Le5yMZbOptQl2NhiJ0r0PssltJV4JuMyDNxy4Gs7jX8">Google Source</a></td>
-<td>Coming Soon!</td>
-</tr>
-<tr>
-<td>AAP 2.2 Overview (May 22, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1MjRjRFMdWBbBh5nfPC4SkKAesdserf8HdwFedIYWJZA">Google Source</a></td>
-<td>Coming Soon!</td>
-</tr>
 </tbody>
 </table>
 
