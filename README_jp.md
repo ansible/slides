@@ -29,6 +29,7 @@
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
+
 <div class='highlighttable'>
 <table>
 <thead>
@@ -38,25 +39,39 @@
 </thead>
 <tbody>
 <tr>
-<td>2024年 12月2日 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
+<td>Feb 3rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Red Hat Ansible G2 Review Highlights
 </a></td>
 </tr>
-<tr>
-<td>2024年 12月2日 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
-</a></td>
-</tr>
-<tr>
-<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo/">Updated Roadmap (post 2.5, 2025)
-</a></td>
-</tr>
-<tr>
-<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Updated Technical Deck (post 2.5)
-</a></td>
-</tr>  
 </tbody>
 </table>
-  
+
+<table>
+<thead>
+<tr>
+<th>Important Documentation for the Field</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KB: <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 Aligning Customer Infrastructure to Tested Topologies
+</a></td>
+</tr>
+<tr>
+<td>KB: <a target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">Red Hat Ansible Automation Platform Life Cycle
+</a></td>
+</tr>
+<tr>
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models
+</a></td>
+</tr>
+<tr>
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/release_notes/index">2.5 Release Notes
+</a></td>
+</tr>
+</tbody>
+</table>
 </div>
+
 </div>
 
 
