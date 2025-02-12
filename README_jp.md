@@ -48,7 +48,7 @@
 <table>
 <thead>
 <tr>
-<th>Important Documentation for the Field</th>
+<th>フィールドでの重要な情報</th>
 </tr>
 </thead>
 <tbody>
