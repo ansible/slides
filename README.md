@@ -37,6 +37,10 @@
 </thead>
 <tbody>
 <tr>
+<td>Feb 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1Fmvd8mvnIiK07MSxupLwIEhlccU0-x1Pe1hp3ECPKvY/edit?usp=sharing">Ansible - Red Hat One Talks
+</a></td>
+</tr>
+<tr>
 <td>Feb 3rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Red Hat Ansible G2 Review Highlights
 </a></td>
 </tr>
