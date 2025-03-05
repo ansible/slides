@@ -36,6 +36,13 @@
 </tr>
 </thead>
 <tbody>
+
+
+
+<tr>
+<td>Mar 5th, 2025 - <a target="_new" href="https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=1991JA3414550832&in_from_module=CLMSBROWSEV2.PRMAIN&in_offeringId=73946012">New Self Paced Course - Basic Deployment of Ansible Automation Platform 2.5
+</a></td>
+</tr>
 <tr>
 <td>Feb 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1Fmvd8mvnIiK07MSxupLwIEhlccU0-x1Pe1hp3ECPKvY/edit?usp=sharing">Ansible - Red Hat One Talks
 </a></td>
