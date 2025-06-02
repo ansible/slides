@@ -40,7 +40,7 @@
 
 
 <tr>
-<td>Mar 5th, 2025 - <a target="_new" href="https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=1991JA3414550832&in_from_module=CLMSBROWSEV2.PRMAIN&in_offeringId=73946012">New Self Paced Course - Basic Deployment of Ansible Automation Platform 2.5
+<td>Mar 5th, 2025 - <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhlpint?RelayState=deeplinkoffering%3D73946012">New Self Paced Course - Basic Deployment of Ansible Automation Platform 2.5
 </a></td>
 </tr>
 <tr>
