@@ -10,10 +10,12 @@
 - [General](#general)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
+- [AI - Artificial Intelligence](#ai---artificial-intelligence)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
+  - [Hashicorp + Ansible](#hashicorp--ansible)
   - [On Cloud](#on-cloud)
   - [OpenShift Cloud Native](#openshift-cloud-native)
   - [OpenShift Virtualization](#openshift-virtualization)
@@ -38,17 +40,16 @@
 <tbody>
 
 
-
+<tr>
+<td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).
+</a></td>
+</tr>
+<tr>
+<td>May 27th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">101/201 Google Slide deck for Ansible + AI - Artificial Intelligence
+</a></td>
+</tr>
 <tr>
 <td>Mar 5th, 2025 - <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhlpint?RelayState=deeplinkoffering%3D73946012">New Self Paced Course - Basic Deployment of Ansible Automation Platform 2.5
-</a></td>
-</tr>
-<tr>
-<td>Feb 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1Fmvd8mvnIiK07MSxupLwIEhlccU0-x1Pe1hp3ECPKvY/edit?usp=sharing">Ansible - Red Hat One Talks
-</a></td>
-</tr>
-<tr>
-<td>Feb 3rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Red Hat Ansible G2 Review Highlights
 </a></td>
 </tr>
 </tbody>
@@ -219,6 +220,25 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </tbody>
 </table>
 
+# AI - Artificial Intelligence
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AI + Ansible - 101/201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
+
 # EDA - Event-Driven Ansible
 
 <table>
@@ -325,12 +345,53 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc">Content Center</a></td>
 </tr>
-<tr>
-<td>Ansible Terraform Collection and Provider Overview</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
 </tbody>
+</table>
+
+</div>
+
+## Hashicorp + Ansible
+
+<div id="cloud-use-cases">
+
+<a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Ansible+HashiCorp Content Kit</a> - This is a slide deck with all things Hashicorp (Terraform + Vault).
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Slide Deck</th>
+      <th>Red Hat Internal Link</th>
+      <th>RHCC Link (employees and partners)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ansible + Terraform 101</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1YxE_o3zQCNC8MjMGTlqAztLhHTHid4M7rf8LLDoEZVQ/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=fc071158-d128-476c-ae60-aaa4a0a473a3&fusionQueryId=mHh6ZJgLSF&query=terraform">Content Center</a></td>
+    </tr>
+    <tr>
+      <td>Ansible + Terraform 201 (includes Roadmap)</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Ansible + Vault 101</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1XD14iAm5-g7yfFKA_NJS-7zUif511CVvwrX7GITPaLw/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=1ccbf007-1c6a-4bbe-8def-34809af04766&fusionQueryId=8LQrlQgNKc&query=vault">Content Center</a></td>
+    </tr>
+    <tr>
+      <td>Ansible + Vault 202 (includes Roadmap)</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1hZ5FdE-zQuygXUE8h5-ob8EBuP1IalmUBmJyrbPc8NQ/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
