@@ -333,9 +333,10 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 ## Hashicorp + Ansible
 
+<div id="cloud-use-cases">
+
 <a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Ansible+HashiCorp Content Kit</a> - This is a slide deck with all things Hashicorp (Terraform + Vault).
 
-<div id="cloud-use-cases">
 
 <table>
   <thead>
