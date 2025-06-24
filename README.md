@@ -336,40 +336,40 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Ansible+HashiCorp Content Kit</a> - This is a slide deck with all things Hashicorp (Terraform + Vault).
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Ansible + Terraform 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1YxE_o3zQCNC8MjMGTlqAztLhHTHid4M7rf8LLDoEZVQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=fc071158-d128-476c-ae60-aaa4a0a473a3&fusionQueryId=mHh6ZJgLSF&query=terraform">Content Center</a></td>
-</tr>
-<tr>
-<td>Ansible + Terraform 201 (includes Roadmap)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Slide Deck</th>
+      <th>Red Hat Internal Link</th>
+      <th>RHCC Link (employees and partners)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ansible + Terraform 101</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1YxE_o3zQCNC8MjMGTlqAztLhHTHid4M7rf8LLDoEZVQ/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=fc071158-d128-476c-ae60-aaa4a0a473a3&fusionQueryId=mHh6ZJgLSF&query=terraform">Content Center</a></td>
+    </tr>
+    <tr>
+      <td>Ansible + Terraform 201 (includes Roadmap)</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <table>
-<thead>
-<tr>
-<td>Ansible + Vault 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1XD14iAm5-g7yfFKA_NJS-7zUif511CVvwrX7GITPaLw/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=1ccbf007-1c6a-4bbe-8def-34809af04766&fusionQueryId=8LQrlQgNKc&query=vault">Content Center</a></td>
-</tr>
-<tr>
-<td>Ansible + Vault 202 (includes Roadmap)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1hZ5FdE-zQuygXUE8h5-ob8EBuP1IalmUBmJyrbPc8NQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <td>Ansible + Vault 101</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1XD14iAm5-g7yfFKA_NJS-7zUif511CVvwrX7GITPaLw/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=1ccbf007-1c6a-4bbe-8def-34809af04766&fusionQueryId=8LQrlQgNKc&query=vault">Content Center</a></td>
+    </tr>
+    <tr>
+      <td>Ansible + Vault 202 (includes Roadmap)</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1hZ5FdE-zQuygXUE8h5-ob8EBuP1IalmUBmJyrbPc8NQ/edit?usp=sharing">Google Source</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
+    </tr>
+  </tbody>
 </table>
 
 ## On Cloud
