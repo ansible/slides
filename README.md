@@ -358,7 +358,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 </table>
 
 <table>
-  <thead>
+  <tbody>
     <tr>
       <td>Ansible + Vault 101</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1XD14iAm5-g7yfFKA_NJS-7zUif511CVvwrX7GITPaLw/edit?usp=sharing">Google Source</a></td>
