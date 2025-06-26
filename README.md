@@ -376,11 +376,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
       <td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
       <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
     <tr>
       <td>Ansible + Vault 101</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1XD14iAm5-g7yfFKA_NJS-7zUif511CVvwrX7GITPaLw/edit?usp=sharing">Google Source</a></td>
