@@ -354,9 +354,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 <div id="cloud-use-cases">
 
-<a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Ansible+HashiCorp Content Kit</a> - This is a slide deck with all things Hashicorp (Terraform + Vault).
-
-
 <table>
   <thead>
     <tr>
@@ -366,6 +363,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>Content Kit</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Google Source</a></td>
+      <td>N/A</td>
+    </tr>
     <tr>
       <td>Ansible + Terraform 101</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1YxE_o3zQCNC8MjMGTlqAztLhHTHid4M7rf8LLDoEZVQ/edit?usp=sharing">Google Source</a></td>
@@ -483,7 +485,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Content Kit</td>
 <td><a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization</a>
 </td>
-<td>Coming Soon!</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 101</td>
@@ -493,12 +495,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible OpenShift Virtualization - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1vyrW_88vn6P_AHqOCL5YdWhnf_TLqfJuUosHMHReXiI/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="">Coming Soon!</a></td>
+<td>Coming Soon!</td>
 </tr>
 <tr>
 <td>OpenShift Virtualization Migration Factory Ansible Collection</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="">Coming Soon!</a></td>
+<td>Coming Soon!</td>
 </tr>
 </tbody>
 </table>
