@@ -163,23 +163,21 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>External or RHCC Link</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>IDC Built ROI Calculator:
 Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
-<td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a></td>
 </tr>
 <tr>
 <td>Simple Ansible Time/Cost Saving Tool:
 Use the Red Hat portal tooling to determine high level time and cost savings</td>
-<td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a></td>
 </tr>
 <tr>
 <td>Sophisticated Savings Spreadsheet:
