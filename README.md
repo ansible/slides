@@ -163,23 +163,21 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
+<th>External or RHCC Link</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>IDC Built ROI Calculator:
 Identify and calculate the Business Value and Impact of IT Automation with AAP</td>
-<td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1-Z2ZT6gg5pPlo9kpmNLf5tnkPOqHfpxRn-zCgtyE7oY/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://redhatansibleroi.com/">https://redhatansibleroi.com/</a></td>
 </tr>
 <tr>
 <td>Simple Ansible Time/Cost Saving Tool:
 Use the Red Hat portal tooling to determine high level time and cost savings</td>
-<td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a></td>
 </tr>
 <tr>
 <td>Sophisticated Savings Spreadsheet:
@@ -354,9 +352,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 
 <div id="cloud-use-cases">
 
-<a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Ansible+HashiCorp Content Kit</a> - This is a slide deck with all things Hashicorp (Terraform + Vault).
-
-
 <table>
   <thead>
     <tr>
@@ -367,6 +362,11 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
   </thead>
   <tbody>
     <tr>
+      <td>Content Kit</td>
+      <td><a target="_blank" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Google Source</a></td>
+      <td>N/A</td>
+    </tr>
+    <tr>
       <td>Ansible + Terraform 101</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1YxE_o3zQCNC8MjMGTlqAztLhHTHid4M7rf8LLDoEZVQ/edit?usp=sharing">Google Source</a></td>
       <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=fc071158-d128-476c-ae60-aaa4a0a473a3&fusionQueryId=mHh6ZJgLSF&query=terraform">Content Center</a></td>
@@ -376,11 +376,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
       <td><a target="_blank" href="https://docs.google.com/presentation/d/11Lm7KBgFjvYarZByIUcUXApB6UgbtI_bgcGDBWSv8fo/edit?usp=sharing">Google Source</a></td>
       <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <tbody>
     <tr>
       <td>Ansible + Vault 101</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1XD14iAm5-g7yfFKA_NJS-7zUif511CVvwrX7GITPaLw/edit?usp=sharing">Google Source</a></td>
@@ -488,7 +483,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <td>Content Kit</td>
 <td><a target="_new" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing">Ansible for OpenShift Virtualization</a>
 </td>
-<td>Coming Soon!</td>
+<td>N/A</td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 101</td>
@@ -498,12 +493,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27E
 <tr>
 <td>Ansible OpenShift Virtualization - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1vyrW_88vn6P_AHqOCL5YdWhnf_TLqfJuUosHMHReXiI/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="">Coming Soon!</a></td>
+<td>Coming Soon!</td>
 </tr>
 <tr>
 <td>OpenShift Virtualization Migration Factory Ansible Collection</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="">Coming Soon!</a></td>
+<td>Coming Soon!</td>
 </tr>
 </tbody>
 </table>
