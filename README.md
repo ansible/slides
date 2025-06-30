@@ -123,11 +123,6 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
@@ -172,13 +167,6 @@ Identify and calculate the Business Value and Impact of IT Automation with AAP</
 Use the Red Hat portal tooling to determine high level time and cost savings</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a></td>
-</tr>
-<tr>
-<td>Sophisticated Savings Spreadsheet:
-Use a spreadsheet to determine high level time and cost savings</td>
-<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Deck Google Source</a></td>
-<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Tech Target: Economic Benefits of AAP key takeaways</td>
