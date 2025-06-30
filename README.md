@@ -123,11 +123,6 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform: Platform Security Value Proposition (Internal Only)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1eA8CFzR48MEfGipRoFJINlJPYz7ujH9Sip8f0v74hZo/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>Ansible Automation Platform: The Secure Way to Automate (External OK)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1_JzCjB9H8duRgjuhyQ7os1iviXsG0w9NikcktGbVoPg/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
@@ -136,12 +131,6 @@
 <td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">Content Center</a></td>
-</tr>
-<tr>
-<td>Ansible Validated Content</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1dnl7tKPyFTWct6pX86pAsna--SmMWjzNm6V4e-Qvd44/edit#slide=id.g2450694eb32_0_928
-">Google Source</a></td>
-<td>Coming soon!</td>
 </tr>
 <tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
@@ -178,13 +167,6 @@ Identify and calculate the Business Value and Impact of IT Automation with AAP</
 Use the Red Hat portal tooling to determine high level time and cost savings</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://www.redhat.com/savetime">https://www.redhat.com/savetime</a></td>
-</tr>
-<tr>
-<td>Sophisticated Savings Spreadsheet:
-Use a spreadsheet to determine high level time and cost savings</td>
-<td><a target="_blank" href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing">Spreadsheet Google Source</a>
-and <a target="_blank" href="https://docs.google.com/presentation/d/1LnGlQvdL27EOl6Ym_hIiqPaubzIZ1z7cCkvamm8gn5E/edit?usp=sharing">Deck Google Source</a></td>
-<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Tech Target: Economic Benefits of AAP key takeaways</td>
