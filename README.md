@@ -138,12 +138,6 @@
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">Content Center</a></td>
 </tr>
 <tr>
-<td>Ansible Validated Content</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1dnl7tKPyFTWct6pX86pAsna--SmMWjzNm6V4e-Qvd44/edit#slide=id.g2450694eb32_0_928
-">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1BR0wm_QM7IsXQwzjqdQAw4mppLM6WxwbQf36nHmQyJo/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
