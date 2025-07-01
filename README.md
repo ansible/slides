@@ -41,6 +41,8 @@
 
 
 <tr>
+<td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a>
+</a></td>
 <td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).
 </a></td>
 </tr>
@@ -108,7 +110,7 @@
 </tr>
 <tr>
 <td>Red Hat Ansible Automation Platform by the numbers</td>
-<td><a target="_new" href="https://docs.google.com/presentation/d/1nb_5_kIVw3mNZM5-ZWqz90mypWNwj_pMUkSxnxcjQ84/edit?usp=sharing">Google Source
+<td><a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Google Source
 </a></td>
 <td>Coming soon!</td>
 </tr>
