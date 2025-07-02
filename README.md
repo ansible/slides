@@ -111,7 +111,7 @@
 <td>Red Hat Ansible Automation Platform by the numbers</td>
 <td><a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Google Source
 </a></td>
-<td>Coming soon!</td>
+<td>N/A - Red Hat only</td>
 </tr>
 <tr>
 <td>Ansible Automation Platform Technical Deck for SSPs and SAs</td>
