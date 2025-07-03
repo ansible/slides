@@ -41,10 +41,11 @@
 
 
 <tr>
-<td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a>
-</a></td>
-<td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).
-</a></td>
+<td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a></td>
+</tr>
+<tr>
+<td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).</a></td>
+</tr>
 <tr>
 <td>May 27th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">101/201 Google Slide deck for Ansible + AI - Artificial Intelligence
 </a></td>
