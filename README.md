@@ -64,13 +64,13 @@
 </thead>
 <tbody>
 <tr>
-<td>Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell) - <a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Link</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
 </tr>
 <tr>
-<td>Unlocking AIOps with AAP - 5 minutes (Michele Kelley) - <a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Link</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
 </tr>
 <tr>
-<td>Power 5: Customer Win PNC - 7 minutes (Courtney Cydylo) - <a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+22+%22AAP+Free+to+Enterprise+Customer+Win+-+PNC/1_eglryfe5/366567272">Link</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+22+%22AAP+Free+to+Enterprise+Customer+Win+-+PNC/1_eglryfe5/366567272">Power 5: Customer Win PNC - 7 minutes (Courtney Cydylo)</a></td>
 </tr>
 </tbody>
 </table>
