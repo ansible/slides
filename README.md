@@ -50,9 +50,27 @@
 <td>May 27th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">101/201 Google Slide deck for Ansible + AI - Artificial Intelligence
 </a></td>
 </tr>
+</tbody>
+</table>
+
+
+
+
+<table>
+<thead>
 <tr>
-<td>Mar 5th, 2025 - <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhlpint?RelayState=deeplinkoffering%3D73946012">New Self Paced Course - Basic Deployment of Ansible Automation Platform 2.5
-</a></td>
+<th>Latest Power 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell) - <a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Link</a></td>
+</tr>
+<tr>
+<td>Unlocking AIOps with AAP - 5 minutes (Michele Kelley) - <a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Link</a></td>
+</tr>
+<tr>
+<td>Power 5: Customer Win PNC - 7 minutes (Courtney Cydylo) - <a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+22+%22AAP+Free+to+Enterprise+Customer+Win+-+PNC/1_eglryfe5/366567272">Link</a></td>
 </tr>
 </tbody>
 </table>
