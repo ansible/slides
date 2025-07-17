@@ -59,7 +59,7 @@
 <table>
 <thead>
 <tr>
-<th>Latest Power 5</th>
+<th>Latest Power 5 (Updates for Sales)</th>
 </tr>
 </thead>
 <tbody>
