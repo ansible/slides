@@ -23,6 +23,7 @@
 - [Lightspeed AI](#lightspeed-ai)
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
+- [Policy Enforcement](#policy-enforcement)
 - [Security Automation](#security-automation)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 - [Reference Architectures](#reference-architectures)
@@ -38,8 +39,10 @@
 </tr>
 </thead>
 <tbody>
-
-
+<tr>
+<td>July 23rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">101 - Intro Policy Enforcement
+</a></td>
+</tr>
 <tr>
 <td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a></td>
 </tr>
@@ -229,11 +232,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <tr>
 <td>AI + Ansible - 101/201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
-<td>Intro Policy Enforcement - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 </tbody>
@@ -622,6 +620,25 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Ansible Windows Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1oKwQBQbrvDArTttxXjDyA3s82qtgbKdT0ugh6e_Ga5Q/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4b5e6402-67db-44d5-bde0-a58cecdcdb99">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Policy Enforcement
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Intro Policy Enforcement - 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
