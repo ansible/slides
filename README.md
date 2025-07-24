@@ -621,6 +621,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1oKwQBQbrvDArTttxXjDyA3s82qtgbKdT0ugh6e_Ga5Q/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4b5e6402-67db-44d5-bde0-a58cecdcdb99">Content Center</a></td>
 </tr>
+<tr>
+<td>AAP and IBM Z Mainframe Automation Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1HgkeyRgKzVbO6q13FcZbCEevc4c6VRIJitUTwZWWxw8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=79b621ef-17c1-4a6a-a8b5-4097bf84600e&fusionQueryId=5wVDtqn0gf">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
