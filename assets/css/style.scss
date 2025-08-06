@@ -197,55 +197,6 @@ header {
   text-decoration: none;
 }
 
-// Responsive header adjustments
-@media screen and (max-width: 1200px) {
-  .header-nav {
-    gap: 20px;
-  }
-  
-  .header-link {
-    font-size: 13px;
-    padding: 6px 10px;
-  }
-}
-
-@media screen and (max-width: 960px) {
-  .header-container {
-    flex-direction: column;
-    height: auto;
-    padding: 15px 20px;
-  }
-  
-  header {
-    height: auto;
-  }
-  
-  .header-logo {
-    margin-bottom: 15px;
-  }
-  
-  .header-nav {
-    gap: 15px;
-    justify-content: center;
-  }
-  
-  .header-link {
-    font-size: 12px;
-    padding: 6px 8px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .header-nav {
-    gap: 10px;
-  }
-  
-  .header-link {
-    font-size: 11px;
-    padding: 4px 6px;
-  }
-}
-
 // custom footer
 
 footer {
