@@ -1,0 +1,43 @@
+# Test build workflow - builds branch for testing but does NOT deploy
+name: Test Build Only
+
+on:
+  # Only runs on interact-page branch
+  push:
+    branches: ["interact-page"]
+  
+  # Allows manual trigger
+  workflow_dispatch:
+
+# Minimal permissions - no deployment
+permissions:
+  contents: read
+
+jobs:
+  # Build job ONLY - no deployment
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+      
+      - name: Setup Pages
+        uses: actions/configure-pages@v5.0.0
+        
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1.0.13
+        with:
+          source: ./
+          destination: ./_site
+          
+      - name: Upload build artifact for testing
+        uses: actions/upload-pages-artifact@v3.0.1
+        with:
+          name: test-site-${{ github.sha }}
+          path: ./_site 
