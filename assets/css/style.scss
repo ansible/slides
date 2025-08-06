@@ -148,9 +148,11 @@ header {
   padding: 0;
   margin: 0;
   border-radius: 0;
-  height: 88px;
+  height: auto;
+  min-height: 88px;
   background: white;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-bottom: 1px solid #e5e5e5;
 }
 
 .header-container {
@@ -158,15 +160,17 @@ header {
   width: 100%;
   height: 100%;
   max-width: 1170px;
-  padding: 0 20px;
+  padding: 20px 30px;
   float: initial;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .header-logo {
-  width: 137px;
+  width: 140px;
+  height: auto;
   border: 0;
   margin: 0;
   flex-shrink: 0;
@@ -175,80 +179,102 @@ header {
 .header-nav {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 35px;
   flex-wrap: wrap;
   justify-content: flex-end;
+  margin-left: 20px;
 }
 
 .header-link {
-  text-decoration: none;
+  text-decoration: none !important;
   cursor: pointer;
   text-transform: uppercase;
-  font-size: 13px;
-  font-family: 'Red Hat Text';
-  font-weight: 500;
+  font-size: 14px;
+  font-family: 'Red Hat Text', sans-serif;
+  font-weight: 600;
   white-space: nowrap;
-  padding: 8px 12px;
-  border-radius: 4px;
-  transition: all 0.2s ease;
-  color: #333;
+  padding: 10px 16px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  color: #333 !important;
+  letter-spacing: 0.5px;
+  border: 2px solid transparent;
 }
 
 .header-link:hover {
-  background-color: rgba(238, 0, 0, 0.1);
-  color: #ee0000;
-  text-decoration: none;
-  transform: translateY(-1px);
+  background-color: #ee0000 !important;
+  color: white !important;
+  text-decoration: none !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(238, 0, 0, 0.3);
+  border-color: #ee0000;
 }
 
 // Responsive header adjustments
 @media screen and (max-width: 1200px) {
+  .header-nav {
+    gap: 25px;
+  }
+  
+  .header-link {
+    font-size: 13px;
+    padding: 8px 14px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header-container {
+    padding: 15px 20px;
+  }
+  
   .header-nav {
     gap: 20px;
   }
   
   .header-link {
     font-size: 12px;
-    padding: 6px 10px;
+    padding: 8px 12px;
   }
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 768px) {
   header {
-    height: auto;
-    padding: 10px 0;
+    min-height: auto;
   }
   
   .header-container {
     flex-direction: column;
-    height: auto;
-    padding: 15px 20px;
+    text-align: center;
+    padding: 20px;
   }
   
   .header-logo {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
   }
   
   .header-nav {
     gap: 15px;
     justify-content: center;
+    margin-left: 0;
   }
   
   .header-link {
     font-size: 11px;
-    padding: 6px 8px;
+    padding: 6px 10px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
   .header-nav {
-    gap: 8px;
+    gap: 10px;
     flex-wrap: wrap;
+    justify-content: center;
   }
   
   .header-link {
     font-size: 10px;
-    padding: 4px 6px;
+    padding: 5px 8px;
+    margin: 2px;
   }
 }
 
