@@ -148,7 +148,7 @@ header {
   padding: 0;
   margin: 0;
   border-radius: 0;
-  height: 88px;
+  height: 88px; /* Back to fixed height */
   background: black;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
   border-bottom: 1px solid #333;
@@ -157,14 +157,14 @@ header {
 .header-container {
   margin: 0 auto;
   width: 100%;
-  height: 100%;
+  height: 100%; /* Back to full height */
   max-width: 1170px;
-  padding: 0 20px;
+  padding: 0 20px; /* Back to horizontal padding only */
   float: initial;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap; /* Back to no wrapping */
   min-width: 0; /* Ensure container can shrink */
 }
 
@@ -179,11 +179,11 @@ header {
 .header-nav {
   display: flex;
   align-items: center;
-  gap: 20px;
-  flex-wrap: nowrap;
+  gap: 15px; /* Reduced from 20px */
+  flex-wrap: nowrap; /* Back to no wrapping */
   justify-content: flex-end;
   flex-shrink: 1;
-  overflow: hidden;
+  overflow: hidden; /* Back to hidden */
   min-width: 0; /* Allow flex items to shrink below their content size */
 }
 
@@ -191,15 +191,15 @@ header {
   text-decoration: none !important;
   cursor: pointer;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 10px; /* Much smaller font */
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 600;
   white-space: nowrap;
-  padding: 7px 10px;
+  padding: 5px 8px; /* Smaller padding */
   border-radius: 4px;
   transition: all 0.3s ease;
   color: white !important;
-  letter-spacing: 0.25px;
+  letter-spacing: 0.1px; /* Reduced letter spacing */
   border: 1px solid transparent;
 }
 
@@ -215,23 +215,23 @@ header {
 // Responsive adjustments to keep items on one row
 @media screen and (max-width: 1400px) {
   .header-nav {
-    gap: 16px;
+    gap: 12px;
   }
   
   .header-link {
-    font-size: 12px;
-    padding: 7px 10px;
+    font-size: 9px;
+    padding: 4px 6px;
   }
 }
 
 @media screen and (max-width: 1200px) {
   .header-nav {
-    gap: 14px;
+    gap: 10px;
   }
   
   .header-link {
-    font-size: 11px;
-    padding: 6px 8px;
+    font-size: 8px;
+    padding: 4px 5px;
   }
 }
 
@@ -241,48 +241,21 @@ header {
   }
   
   .header-logo {
-    width: 110px;
-  }
-  
-  .header-nav {
-    gap: 12px;
-  }
-  
-  .header-link {
-    font-size: 10px;
-    padding: 5px 7px;
-    letter-spacing: 0.2px;
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .header-logo {
     width: 100px;
   }
   
-  .header-nav {
-    gap: 10px;
-  }
-  
-  .header-link {
-    font-size: 9px;
-    padding: 4px 6px;
-    letter-spacing: 0.1px;
-  }
-}
-
-@media screen and (max-width: 768px) {
   .header-nav {
     gap: 8px;
   }
   
   .header-link {
-    font-size: 8px;
-    padding: 4px 5px;
+    font-size: 7px;
+    padding: 3px 4px;
+    letter-spacing: 0.05px;
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 900px) {
   .header-logo {
     width: 90px;
   }
@@ -292,8 +265,35 @@ header {
   }
   
   .header-link {
-    font-size: 7px;
-    padding: 3px 4px;
+    font-size: 6px;
+    padding: 3px 3px;
+    letter-spacing: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header-nav {
+    gap: 5px;
+  }
+  
+  .header-link {
+    font-size: 5px;
+    padding: 2px 3px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .header-logo {
+    width: 80px;
+  }
+  
+  .header-nav {
+    gap: 4px;
+  }
+  
+  .header-link {
+    font-size: 4px;
+    padding: 2px 2px;
   }
 }
 
@@ -535,11 +535,11 @@ class#emea {
 // Ensure navigation doesn't overlap on very wide screens
 @media screen and (min-width: 1401px) {
   .header-nav {
-    gap: 24px;
+    gap: 18px;
   }
   
   .header-link {
-    font-size: 13px;
-    padding: 8px 12px;
+    font-size: 11px;
+    padding: 6px 9px;
   }
 }
