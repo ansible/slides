@@ -191,18 +191,16 @@ header {
   text-decoration: none !important;
   cursor: pointer;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 12px;
   font-family: 'Red Hat Text', sans-serif;
   font-weight: 600;
   white-space: nowrap;
-  padding: 8px 12px;
+  padding: 7px 10px;
   border-radius: 4px;
   transition: all 0.3s ease;
   color: white !important;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.25px;
   border: 1px solid transparent;
-  flex-shrink: 1; /* Allow links to shrink if needed */
-  min-width: 0; /* Allow text to be clipped if absolutely necessary */
 }
 
 .header-link:hover {
