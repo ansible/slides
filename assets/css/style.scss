@@ -165,6 +165,7 @@ header {
   align-items: center;
   justify-content: space-between;
   flex-wrap: nowrap;
+  min-width: 0; /* Ensure container can shrink */
 }
 
 .header-logo {
@@ -183,6 +184,7 @@ header {
   justify-content: flex-end;
   flex-shrink: 1;
   overflow: hidden;
+  min-width: 0; /* Allow flex items to shrink below their content size */
 }
 
 .header-link {
@@ -199,6 +201,8 @@ header {
   color: white !important;
   letter-spacing: 0.3px;
   border: 1px solid transparent;
+  flex-shrink: 1; /* Allow links to shrink if needed */
+  min-width: 0; /* Allow text to be clipped if absolutely necessary */
 }
 
 .header-link:hover {
@@ -211,14 +215,25 @@ header {
 }
 
 // Responsive adjustments to keep items on one row
+@media screen and (max-width: 1400px) {
+  .header-nav {
+    gap: 16px;
+  }
+  
+  .header-link {
+    font-size: 12px;
+    padding: 7px 10px;
+  }
+}
+
 @media screen and (max-width: 1200px) {
   .header-nav {
-    gap: 18px;
+    gap: 14px;
   }
   
   .header-link {
     font-size: 11px;
-    padding: 6px 10px;
+    padding: 6px 8px;
   }
 }
 
@@ -232,12 +247,12 @@ header {
   }
   
   .header-nav {
-    gap: 15px;
+    gap: 12px;
   }
   
   .header-link {
     font-size: 10px;
-    padding: 6px 8px;
+    padding: 5px 7px;
     letter-spacing: 0.2px;
   }
 }
@@ -248,12 +263,12 @@ header {
   }
   
   .header-nav {
-    gap: 12px;
+    gap: 10px;
   }
   
   .header-link {
     font-size: 9px;
-    padding: 5px 6px;
+    padding: 4px 6px;
     letter-spacing: 0.1px;
   }
 }
@@ -266,6 +281,21 @@ header {
   .header-link {
     font-size: 8px;
     padding: 4px 5px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .header-logo {
+    width: 90px;
+  }
+  
+  .header-nav {
+    gap: 6px;
+  }
+  
+  .header-link {
+    font-size: 7px;
+    padding: 3px 4px;
   }
 }
 
@@ -502,4 +532,16 @@ class#emea {
 .highlighttable {
   display: inline-block;
   vertical-align: top;
+}
+
+// Ensure navigation doesn't overlap on very wide screens
+@media screen and (min-width: 1401px) {
+  .header-nav {
+    gap: 24px;
+  }
+  
+  .header-link {
+    font-size: 13px;
+    padding: 8px 12px;
+  }
 }
