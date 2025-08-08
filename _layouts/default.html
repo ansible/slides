@@ -41,6 +41,19 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRJNCH95"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+
+    <!-- AWS re:Invent 2025 Banner -->
+    <div id="reinvent-banner" class="reinvent-banner">
+      <div class="reinvent-banner-content">
+        <div class="reinvent-banner-text">
+          <strong>Ansible will be at AWS re:Invent 2025 December 1st-5th, <a href="https://forms.gle/qWc4UTNbJnJoX8XT6" target="_blank" rel="noopener">sign up for a meeting here</a></strong>
+        </div>
+        <div class="reinvent-banner-subtext">
+          If you are a Red Hat employee, please share with your customers!
+        </div>
+        <button id="close-reinvent-banner" class="reinvent-banner-close" aria-label="Close banner">&times;</button>
+      </div>
+    </div>
     <script src="{{ '/assets/prism.js' }}"></script>
     <script src="{{ '/assets/tablelink.js' }}"></script>
 
@@ -117,5 +130,45 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <!-- AWS re:Invent Banner JavaScript -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const banner = document.getElementById('reinvent-banner');
+        const closeButton = document.getElementById('close-reinvent-banner');
+
+        // Check if banner was previously dismissed (localStorage)
+        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed');
+
+        if (bannerDismissed === 'true') {
+          banner.classList.add('hidden');
+        }
+
+        // Handle close button click
+        if (closeButton) {
+          closeButton.addEventListener('click', function() {
+            // Add smooth transition before hiding
+            banner.style.transition = 'transform 0.3s ease-out, opacity 0.3s ease-out';
+            banner.style.transform = 'translateY(-100%)';
+            banner.style.opacity = '0';
+
+            // Hide banner after animation completes
+            setTimeout(function() {
+              banner.classList.add('hidden');
+              // Remember user's preference
+              localStorage.setItem('reinvent-banner-dismissed', 'true');
+            }, 300);
+          });
+        }
+
+        // Optional: Auto-hide banner after AWS re:Invent ends (December 6, 2025)
+        const currentDate = new Date();
+        const eventEndDate = new Date('2025-12-06');
+
+        if (currentDate > eventEndDate) {
+          banner.classList.add('hidden');
+        }
+      });
+    </script>
   </body>
 </html>
