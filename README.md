@@ -71,7 +71,7 @@
 
 
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_4hnu8b4r">Power 5 - Episode 32 "Ansible Automation Platform 2.6 (Justin Braun)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_4hnu8b4r">Power 5 - Ansible Automation Platform 2.6 (Justin Braun)</a></td>
 </tr>
 <tr>
 <td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Power 5 - Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
