@@ -50,9 +50,6 @@
 <tr>
 <td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a></td>
 </tr>
-<tr>
-<td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).</a></td>
-</tr>
 </tbody>
 </table>
 
@@ -122,6 +119,11 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>What's new in AAP 2.6</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 <tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
