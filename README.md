@@ -40,18 +40,15 @@
 </thead>
 <tbody>
 <tr>
+<td>October 8th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">What's new in AAP 2.6
+</a></td>
+</tr>
+<tr>
 <td>July 23rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">101 - Intro Policy Enforcement
 </a></td>
 </tr>
 <tr>
 <td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a></td>
-</tr>
-<tr>
-<td>June 24th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing">Slide deck with all things Hashicorp (Terraform + Vault).</a></td>
-</tr>
-<tr>
-<td>May 27th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">101/201 Google Slide deck for Ansible + AI - Artificial Intelligence
-</a></td>
 </tr>
 </tbody>
 </table>
@@ -66,14 +63,18 @@
 </tr>
 </thead>
 <tbody>
+
+
+
+
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_4hnu8b4r">Power 5 - Ansible Automation Platform 2.6 (Justin Braun)</a></td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Power 5 - Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+22+%22AAP+Free+to+Enterprise+Customer+Win+-+PNC/1_eglryfe5/366567272">Power 5: Customer Win - 7 minutes (Courtney Cydylo)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Power 5 - Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +99,7 @@
 </a></td>
 </tr>
 <tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/release_notes/index">2.5 Release Notes
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html-single/release_notes/index">2.6 Release Notes
 </a></td>
 </tr>
 </tbody>
@@ -118,6 +119,11 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>What's new in AAP 2.6</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 <tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
