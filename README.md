@@ -66,14 +66,18 @@
 </tr>
 </thead>
 <tbody>
+
+
+
+
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_4hnu8b4r">Power 5 - Episode 32 "Ansible Automation Platform 2.6 (Justin Braun)</a></td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Power 5 - Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+22+%22AAP+Free+to+Enterprise+Customer+Win+-+PNC/1_eglryfe5/366567272">Power 5: Customer Win - 7 minutes (Courtney Cydylo)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Power 5 - Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +102,7 @@
 </a></td>
 </tr>
 <tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/release_notes/index">2.5 Release Notes
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html-single/release_notes/index">2.6 Release Notes
 </a></td>
 </tr>
 </tbody>
