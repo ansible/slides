@@ -122,7 +122,7 @@
 <tr>
 <td>What's new in AAP 2.6</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=80736aec-527d-4e43-acf7-7993c7b5ee07&fusionQueryId=0Gmbv4IGzB&query=customer%20deck)%20and%20(undefined">Content Center</a></td>
 </tr>
 <tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
