@@ -40,7 +40,7 @@
 </thead>
 <tbody>
 <tr>
-<td>October 31st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1S08OHhlqBXW2U36kmhERrqNArROLYqMMkwOYPnD7I6Q/edit?usp=sharing">Updated AAP Roadmap for 2025-2026</td>
+<td>October 31st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1S08OHhlqBXW2U36kmhERrqNArROLYqMMkwOYPnD7I6Q/edit?usp=sharing">Updated AAP Roadmap for 2025-2026</a></td>
 </tr>
 <tr>
 <td>October 8th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">What's new in AAP 2.6
