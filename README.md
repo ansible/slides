@@ -505,6 +505,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Coming Soon!</td>
 </tr>
 <tr>
+<td>Day 2 virtual infrastructure automation 101 / 201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_U71g9w35JqareMhaq01xzjudrPv4dHP8IK2XPnD4VE/edit">Google Source</a></td>
+<td>Coming Soon!</td>
+</tr>
+<tr>
 <td>OpenShift Virtualization Migration Factory Ansible Collection</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
 <td>Coming Soon!</td>
