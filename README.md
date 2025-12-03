@@ -272,6 +272,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1xQyUGRGqu-qpjZVRKrJvN3cbVLoFzZ0BP7ED1VOyuX4/edit?usp=sharing">Google Source</a></td>
 <td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2ac510d6-1458-4689-a7dd-b488ee0788a1">Content Center</a></td>
 </tr>
+<tr>
+<td>Event-Driven Ansible - Splunk Integration</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing">Google Source</a></td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&fusionQueryId=3tFUfGcDml&query=splunk">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
