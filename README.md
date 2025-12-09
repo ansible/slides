@@ -63,21 +63,25 @@
 <thead>
 <tr>
 <th>Latest Power 5 (Updates for Sales)</th>
+<th>Presenter</th>
+<th>Date</th>
 </tr>
 </thead>
 <tbody>
-
-
-
-
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_4hnu8b4r">Power 5 - Ansible Automation Platform 2.6 (Justin Braun)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_7evd7yjx">Power 5 - Episode 43 "How Red Hat is mastering IT operations efficiency for One NZ"</a></td>
+<td>Cameron Russo and Yvonne Cheong</td>
+<td>December 4th, 2025</td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+9+%22Migration++Day+2+Management+of+VMs+with+AAP%22/1_bcclrx0v/366567272">Power 5 - Migration & Day 2 Operations of VMS with AAP - 5 minutes (Cindy Russell)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_r4nvhr6h">Power 5 - Episode 39 "Understanding Automation Maturity to Drive More ARR and Retention"</a></td>
+<td>Tricia McConnell</td>
+<td>November 20th, 2025</td>
 </tr>
 <tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power+5+-+Episode+17+%22Unlocking+AIOps+with+Red+Hat+AAP%22/1_5e3j53i8/366567272">Power 5 - Unlocking AIOps with AAP - 5 minutes (Michele Kelley)</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_yuzsfb2y">Power 5 - Episode 38 "Selling the value of scaling automation securely"</a></td>
+<td>Matthew Packer</td>
+<td>November 20th, 2025</td>
 </tr>
 </tbody>
 </table>
