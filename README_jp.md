@@ -29,6 +29,7 @@
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </div>
+
 <div class='highlighttable'>
 <table>
 <thead>
@@ -38,25 +39,39 @@
 </thead>
 <tbody>
 <tr>
-<td>2024年 12月2日 - <a target="_new" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">ABU | 2024 Forrester Wave for Infrastructure Automation Slide
+<td>2025年2月3日 - <a target="_new" href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/">Red Hat Ansible G2 Review Highlights
 </a></td>
 </tr>
-<tr>
-<td>2024年 12月2日 - <a target="_new" href="https://www.redhat.com/en/technologies/management/ansible/top-tasks-to-automate">Jumpstart your use of Red Hat Ansible Automation Platform
-</a></td>
-</tr>
-<tr>
-<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo/">Updated Roadmap (post 2.5, 2025)
-</a></td>
-</tr>
-<tr>
-<td>2024年 10月9日 - <a target="_new" href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ">Updated Technical Deck (post 2.5)
-</a></td>
-</tr>  
 </tbody>
 </table>
-  
+
+<table>
+<thead>
+<tr>
+<th>フィールドでの重要な情報</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KB: <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 Aligning Customer Infrastructure to Tested Topologies
+</a></td>
+</tr>
+<tr>
+<td>KB: <a target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">Red Hat Ansible Automation Platform Life Cycle
+</a></td>
+</tr>
+<tr>
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models
+</a></td>
+</tr>
+<tr>
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.5/html-single/release_notes/index">2.5 Release Notes
+</a></td>
+</tr>
+</tbody>
+</table>
 </div>
+
 </div>
 
 
@@ -119,15 +134,14 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Automation 2.0: 
-Unlock the Business Value of IT Automation (英語版)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ePMYcPPCpmGZZw1spjIlH6VacAc_i3DsQS0ikYnKjGY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1cSAE2CbJ5ICJSzLJSTb5HCtFBrOxYex5FJ7YJv2QIfk/edit#slide=id.g127818c861e_0_1300">Google Source</a></td>
 <td>Coming soon!</td>
+</tr>
+<tr>
+<td>Red Hat Ansible G2 Review Highlights</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=61aad783-0421-440b-b959-b73efc586502">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -192,16 +206,6 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td>AAP 2.4 Overview (Jun 27, 2023)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1JKvNpY4OEM2-gSZtxhciaBdkteMK2KoNNs05MP764Rc/">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=9640db7b-064c-4074-8b76-6b7df5bf8cfe">Content Center</a></td>
-</tr>
-<tr>
-<td>AAP 2.3 Overview (Nov 29, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Le5yMZbOptQl2NhiJ0r0PssltJV4JuMyDNxy4Gs7jX8">Google Source</a></td>
-<td>Coming Soon!</td>
-</tr>
-<tr>
-<td>AAP 2.2 Overview (May 22, 2022)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1MjRjRFMdWBbBh5nfPC4SkKAesdserf8HdwFedIYWJZA">Google Source</a></td>
-<td>Coming Soon!</td>
 </tr>
 </tbody>
 </table>
