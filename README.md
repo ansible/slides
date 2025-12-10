@@ -682,12 +682,8 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
-<td>Ansible Security Automation - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1IC10jlKluqaVtEgYJLE2ldIDiIjQ2loLzTOvBQE-sv0/edit#slide=id.g867136564f_0_0">Google Source</a></td>
-</tr>
-<tr>
-<td>Ansible Security Automation - 201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1-XOF3F6Je0W3mLf1KJt5a7UFEyU3kogQzqNtNdRNmKc/edit?usp=sharing">Google Source</a></td>
+<td>Ansible Security Automation - 101/201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?slide=id.g39bbddf1781_3_0#slide=id.g39bbddf1781_3_0">Google Source</a></td>
 </tr>
 <tr>
 <td>Ansible Security Automation - 301</td>
