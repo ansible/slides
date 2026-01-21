@@ -40,7 +40,7 @@
 </thead>
 <tbody>
 <tr>
-<td>October 31st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1S08OHhlqBXW2U36kmhERrqNArROLYqMMkwOYPnD7I6Q/edit?usp=sharing">Updated AAP Roadmap for 2025-2026</a></td>
+<td>January 21st, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">AAP Roadmap for 2026</a></td>
 </tr>
 <tr>
 <td>October 8th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">What's new in AAP 2.6
@@ -154,8 +154,8 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">Content Center</a></td>
 </tr>
 <tr>
-<td>Technical Roadmap (2025/2026)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1S08OHhlqBXW2U36kmhERrqNArROLYqMMkwOYPnD7I6Q/edit?usp=sharing">Google Source</a></td>
+<td>Technical Roadmap 2026</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
