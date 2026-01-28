@@ -627,17 +627,17 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <tr>
 <td>Ansible Infrastructure Automation - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1e4pttjBe-m3k1_c2DgLxH5PvxfVqmtP5POrQWpZZI60/edit">Google Source</a></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=359b2146-2857-4dfc-90b4-2751a97e939c">Content Center</a></td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=1dbea8b2-3d96-4b99-a4ef-76b1775fe1ec">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Infrastructure Automation - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1GaYUtsjCCpjBiCqLMkxBNuDh4LdJRmfhdeDQRZaGcZw/edit?usp=sharing">Google Source</a></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1d9c3f4d-d1ed-40ee-8b4c-75d9367071c9">Content Center</a></td>
+<td><a target="_new" href="https://content.redhat.com/us/en/assets/display.html?id=598c741c-cce4-4e69-8c25-c31a5c541992">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Infrastructure Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1WjyrSCGnsDugk5A-CTruJV_gD52GTukSXCndZh5TxvE/edit">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f22ce5b6-c943-43f1-921c-bc680254aa33">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Windows Automation</td>
