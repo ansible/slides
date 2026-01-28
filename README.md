@@ -400,9 +400,9 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
       <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=1ccbf007-1c6a-4bbe-8def-34809af04766&fusionQueryId=8LQrlQgNKc&query=vault">Content Center</a></td>
     </tr>
     <tr>
-      <td>Ansible + Vault 202 (includes Roadmap)</td>
+      <td>Ansible + Vault 201 (includes Roadmap)</td>
       <td><a target="_blank" href="https://docs.google.com/presentation/d/1hZ5FdE-zQuygXUE8h5-ob8EBuP1IalmUBmJyrbPc8NQ/edit?usp=sharing">Google Source</a></td>
-      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=3ba1f885-4330-4992-9442-a25239ce9977&fusionQueryId=CACs6eq3nF&query=vault%20201">Content Center</a></td>
+      <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0a55707e-05b4-4aa1-b658-80ae513d475c">Content Center</a></td>
     </tr>
   </tbody>
 </table>
