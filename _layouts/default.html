@@ -138,7 +138,8 @@
         const closeButton = document.getElementById('close-reinvent-banner');
 
         // Check if banner was previously dismissed (localStorage)
-        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed');
+        // Using dated key to allow resetting banner for new events
+        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed-2026-02');
 
         if (bannerDismissed === 'true') {
           banner.classList.add('hidden');
@@ -156,12 +157,12 @@
             setTimeout(function() {
               banner.classList.add('hidden');
               // Remember user's preference
-              localStorage.setItem('reinvent-banner-dismissed', 'true');
+              localStorage.setItem('reinvent-banner-dismissed-2026-02', 'true');
             }, 300);
           });
         }
 
-        // Optional: Auto-hide banner after AWS re:Invent ends (December 6, 2025)
+        // Optional: Auto-hide banner after Google Cloud Next ends (April 24, 2026)
         const currentDate = new Date();
         const eventEndDate = new Date('2026-04-24');
 
