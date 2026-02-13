@@ -65,6 +65,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/1_gu16mvdj">Power 5 - Episode 52 "Adopting Ansible Automation Platform 2.6"</a></td>
+<td>Catherine Choi</td>
+<td>February 13th, 2026</td>
+</tr>
+<tr>
 <td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_7evd7yjx">Power 5 - Episode 43 "How Red Hat is mastering IT operations efficiency for One NZ"</a></td>
 <td>Cameron Russo and Yvonne Cheong</td>
 <td>December 4th, 2025</td>
@@ -151,8 +156,9 @@
 </tr>
 <tr>
 <td>Technical Roadmap 2026</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">Google Source</a><br>
+<ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/Winning+in+CY26%3A+Technical+Strategy+for+Ansible/1_i2hwg5y7">Video Presentation</a></li></ul></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=167d5ee4-2634-4e30-b53e-6c326443c82b">Content Center</a></td>
 </tr>
 <tr>
 <td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
