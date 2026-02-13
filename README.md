@@ -610,6 +610,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52">Content Center</a></td>
 </tr>
+<tr>
+<td>Cisco Enterprise Networking + AAP - Content Kit</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Google Source</a></td>
+<td>N/A</td>
+</tr>
 </tbody>
 </table>
 
