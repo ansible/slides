@@ -685,16 +685,19 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Ansible Security Automation - 101/201</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?slide=id.g39bbddf1781_3_0#slide=id.g39bbddf1781_3_0">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=97d129d2-7752-4a8f-9730-b39754e75888&fusionQueryId=POMvjp8OJn&query=security%20automation%20101">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Security Automation - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/19qZyXhZO6rfhzPElAMypIbfEnL9nPW83ce4i5MWJD2s/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 </tbody>
 </table>
