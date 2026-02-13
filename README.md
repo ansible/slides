@@ -40,18 +40,14 @@
 </thead>
 <tbody>
 <tr>
+<td>February 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Cisco Enterprise Networking + AAP - Content Kit</a></td>
+</tr>
+<tr>
 <td>January 21st, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">AAP Roadmap for 2026</a></td>
 </tr>
 <tr>
 <td>October 8th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">What's new in AAP 2.6
 </a></td>
-</tr>
-<tr>
-<td>July 23rd, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1tvo3Gzm6Dq_VUQgNERMlb4xXxSvfHLbv7DfGD8GfWKc/edit?usp=sharing">101 - Intro Policy Enforcement
-</a></td>
-</tr>
-<tr>
-<td>July 1st, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">AAP by the numbers updated</a></td>
 </tr>
 </tbody>
 </table>
