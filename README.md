@@ -245,6 +245,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
+<td>Content Kit</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">Google Source</a></td>
+<td>N/A</td>
+</tr>
+<tr>
 <td>AI + Ansible - 101/201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
 <td>Coming soon!</td>
