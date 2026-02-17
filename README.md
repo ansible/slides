@@ -40,6 +40,9 @@
 </thead>
 <tbody>
 <tr>
+<td>February 17th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">AI + Ansible - Content Kit</a></td>
+</tr>
+<tr>
 <td>February 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Cisco Enterprise Networking + AAP - Content Kit</a></td>
 </tr>
 <tr>
