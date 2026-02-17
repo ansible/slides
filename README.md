@@ -40,6 +40,9 @@
 </thead>
 <tbody>
 <tr>
+<td>February 17th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">AI + Ansible - Content Kit</a></td>
+</tr>
+<tr>
 <td>February 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Cisco Enterprise Networking + AAP - Content Kit</a></td>
 </tr>
 <tr>
@@ -245,9 +248,14 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
+<td>Content Kit</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">Google Source</a></td>
+<td>N/A</td>
+</tr>
+<tr>
 <td>AI + Ansible - 101/201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4d781b0c-4d61-4a90-a85b-b0f22e546747">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -506,9 +514,9 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>N/A</td>
 </tr>
 <tr>
-<td>Ansible OpenShift Virtualization - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ctLr8CD6q6-b6nZBFgK6FhYsPeGco-ypcJN6b_Zqe10/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?fusionQueryId=aWxSgyz6iQ&id=5a5b263a-5513-4817-907f-6344820a8bf2&">Content Center</a></td>
+<td>OpenShift Virtualization - 101/201</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1_U71g9w35JqareMhaq01xzjudrPv4dHP8IK2XPnD4VE/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=441462ea-66b8-446a-a7cf-6950ca5e6eb3&fusionQueryId=M491NNl2Z2&query=day%202%20virtual">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible OpenShift Virtualization - 301</td>
