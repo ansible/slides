@@ -40,6 +40,9 @@
 </thead>
 <tbody>
 <tr>
+<td>March 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Metrics Utility & Node Counting - Enablement Deck</a></td>
+</tr>
+<tr>
 <td>February 17th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">AI + Ansible - Content Kit</a></td>
 </tr>
 <tr>
@@ -177,6 +180,11 @@
 <td>Red Hat Ansible G2 Review Highlights</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=61aad783-0421-440b-b959-b73efc586502">Content Center</a></td>
+</tr>
+<tr>
+<td>Metrics Utility & Node Counting - Enablement Deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Google Source</a></td>
+<td>N/A</td>
 </tr>
 </tbody>
 </table>
