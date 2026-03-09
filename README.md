@@ -538,7 +538,7 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </tr>
 <tr>
 <td>OpenShift Virtualization Migration Factory Ansible Collection</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1_As1mANKzdU9m5fOQkQVNbxGNOZNLZW6v8L979W0JrI/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1k-ZICNZ1ceIP9zj_GM9q6Hf0qbX3ZJKHbcRCYP6Gy6M/edit?usp=sharing">Google Source</a></td>
 <td>Coming Soon!</td>
 </tr>
 </tbody>
