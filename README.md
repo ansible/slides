@@ -40,7 +40,7 @@
 </thead>
 <tbody>
 <tr>
-<td>March 9th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?slide=id.g38c26b7ce5e_1_1764#slide=id.g38c26b7ce5e_1_1764">Automating Red Hat Enterprise Linux</a></td>
+<td>March 9th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?slide=id.g38c26b7ce5e_1_1764#slide=id.g38c26b7ce5e_1_1764">Red Hat Enterprise Linux Automation  101</a></td>
 </tr>
 <tr>
 <td>March 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Metrics Utility & Node Counting - Enablement Deck</a></td>
@@ -676,7 +676,7 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=79b621ef-17c1-4a6a-a8b5-4097bf84600e&fusionQueryId=5wVDtqn0gf">Content Center</a></td>
 </tr>
 <tr>
-<td>Automating Red Hat Enterprise Linux</td>
+<td>Red Hat Enterprise Linux Automation  101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
