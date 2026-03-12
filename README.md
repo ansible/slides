@@ -1,7 +1,7 @@
 **Read this in other languages**:
 <br>![uk](https://raw.githubusercontent.com/ansible/slides/main/images/uk.png) [English](README.md),  ![japan](https://raw.githubusercontent.com/ansible/slides/main/images/japan.png)[日本語](README_jp.md).
 
-<h1> Ansible Deck Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
+<h1> Ansible Slide Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
 <p><a href="https://ansible.github.io/slides">View on website</a></p>
 
 <div class='parentsean'>
