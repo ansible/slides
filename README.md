@@ -144,8 +144,8 @@
 <td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334">Content Center</a></td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform by the numbers</td>
-<td><a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Google Source
+<td>Red Hat Ansible Automation Platform by the numbers (FY26)</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1R4PXvhNOOEX9QUURHluPVdGP0anNbZHXBUBuiG96jOo/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Google Source
 </a></td>
 <td>N/A - Red Hat only</td>
 </tr>
