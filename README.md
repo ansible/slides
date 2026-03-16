@@ -20,7 +20,6 @@
   - [OpenShift Cloud Native](#openshift-cloud-native)
   - [OpenShift Virtualization](#openshift-virtualization)
   - [Private Cloud - VMware](#private-cloud---vmware)
-- [Lightspeed AI](#lightspeed-ai)
 - [Network Automation](#network-automation)
 - [Infrastructure Automation](#infrastructure-automation)
 - [Policy Enforcement](#policy-enforcement)
@@ -148,8 +147,8 @@
 <td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334">Content Center</a></td>
 </tr>
 <tr>
-<td>Red Hat Ansible Automation Platform by the numbers</td>
-<td><a target="_new" href="https://docs.google.com/presentation/d/14txa1egdMvt9Txpnc67N04v0gtBqVeWss2gOTFB3YrE/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Google Source
+<td>Red Hat Ansible Automation Platform by the numbers (FY26)</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1R4PXvhNOOEX9QUURHluPVdGP0anNbZHXBUBuiG96jOo/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Google Source
 </a></td>
 <td>N/A - Red Hat only</td>
 </tr>
@@ -262,6 +261,21 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>AI + Ansible - 101/201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4d781b0c-4d61-4a90-a85b-b0f22e546747">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Lightspeed Sales Enablement Overview</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1LZTrVoqYFk_0e51tPXZW-qkEhA5rwk_xl_Ik_6gWCOk/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1WZmjs2ta7cMSo3mOD8pwathduVL0sbiQbIGokEbMY6E/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74a76dfc-7a95-43be-bb33-42e4b2a11e04">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -570,35 +584,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </table>
 
 </div>
-
-# Lightspeed AI
-
-<table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
-<td>Ansible Lightspeed Sales Enablement Overview</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1LZTrVoqYFk_0e51tPXZW-qkEhA5rwk_xl_Ik_6gWCOk/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
-<td>Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1WZmjs2ta7cMSo3mOD8pwathduVL0sbiQbIGokEbMY6E/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74a76dfc-7a95-43be-bb33-42e4b2a11e04">Content Center</a></td>
-</tr>
-</tbody>
-</table>
 
 # Network Automation
 
