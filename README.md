@@ -455,7 +455,7 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <tr>
 <td>AAP on AWS - Business deck</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1QfyRhXJarqwSQEBriZmx93oL3TMxqqRcEx-HF_L3iKc/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=5af6da0d-0f47-4a3a-b521-016341d95c65">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=8abd56ad-3960-4403-aa64-9893d3058279">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP on AWS - Tech deck</td>
