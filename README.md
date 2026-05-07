@@ -39,6 +39,15 @@
 </thead>
 <tbody>
 <tr>
+<td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1x01wBxJ5gKrya4QxDDWUGldkM0rNYrv0CcnZmtTO0sU/edit?usp=sharing">Ansible Automation Platform 2.7</a></td>
+</tr>
+<tr>
+<td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1vhInhJ-nw8gthnULSizRt4PeJXVBhV95MV398-i4dGk/edit?usp=sharing">Know Before You Go — ABU/HCE/Edge @ Summit</a></td>
+</tr>
+<tr>
+<td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/document/d/1065PsGzneyksGnc4U-mrAS6-OLq78Z2EQJThKRfATr0/edit?usp=sharing">ABU | 2026 | AAP Summit Information & KBYG</a></td>
+</tr>
+<tr>
 <td>March 9th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?slide=id.g38c26b7ce5e_1_1764#slide=id.g38c26b7ce5e_1_1764">Red Hat Enterprise Linux Automation  101/102 </a></td>
 </tr>
 <tr>
@@ -49,13 +58,6 @@
 </tr>
 <tr>
 <td>February 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Cisco Enterprise Networking + AAP - Content Kit</a></td>
-</tr>
-<tr>
-<td>January 21st, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1gCKmHXGzMJwnbItP6ZNFHvkeRaUku6TZKOgMNo1Obss/edit?usp=sharing">AAP Roadmap for 2026</a></td>
-</tr>
-<tr>
-<td>October 8th, 2025 - <a target="_new" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">What's new in AAP 2.6
-</a></td>
 </tr>
 </tbody>
 </table>
