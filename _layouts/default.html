@@ -47,10 +47,7 @@
     <div id="reinvent-banner" class="reinvent-banner">
       <div class="reinvent-banner-content">
         <div class="reinvent-banner-text">
-          <strong>Ansible will be at Google Cloud Next 2026 April 22nd-24th, <a href="https://forms.gle/fCoSi7hQ9CMrteN46" target="_blank" rel="noopener">sign up for a meeting here</a></strong>
-          <div class="reinvent-banner-subtext">
-            If you are a Red Hat employee, please share with your customers!
-          </div>
+          <strong><a href="https://ansible-tmm.github.io/ansible-f1" target="_blank" rel="noopener" style="color: white; text-decoration: underline;">Built to Automate - Ansible F1 Racer</a> - Live at Summit May 11-14, 2026</strong>
         </div>
         <button id="close-reinvent-banner" class="reinvent-banner-close" aria-label="Close banner">&times;</button>
       </div>
@@ -175,7 +172,7 @@
 
         // Check if banner was previously dismissed (localStorage)
         // Using dated key to allow resetting banner for new events
-        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed-2026-02');
+        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed-2026-05');
 
         if (bannerDismissed === 'true') {
           banner.classList.add('hidden');
@@ -193,14 +190,14 @@
             setTimeout(function() {
               banner.classList.add('hidden');
               // Remember user's preference
-              localStorage.setItem('reinvent-banner-dismissed-2026-02', 'true');
+              localStorage.setItem('reinvent-banner-dismissed-2026-05', 'true');
             }, 300);
           });
         }
 
-        // Optional: Auto-hide banner after Google Cloud Next ends (April 24, 2026)
+        // Auto-hide banner after end of next week (May 16, 2026)
         const currentDate = new Date();
-        const eventEndDate = new Date('2026-04-24');
+        const eventEndDate = new Date('2026-05-16');
 
         if (currentDate > eventEndDate) {
           banner.classList.add('hidden');
