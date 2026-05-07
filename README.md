@@ -47,18 +47,6 @@
 <tr>
 <td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/document/d/1065PsGzneyksGnc4U-mrAS6-OLq78Z2EQJThKRfATr0/edit?usp=sharing">ABU | 2026 | AAP Summit Information & KBYG</a></td>
 </tr>
-<tr>
-<td>March 9th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?slide=id.g38c26b7ce5e_1_1764#slide=id.g38c26b7ce5e_1_1764">Red Hat Enterprise Linux Automation  101/102 </a></td>
-</tr>
-<tr>
-<td>March 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Metrics Utility & Node Counting - Enablement Deck</a></td>
-</tr>
-<tr>
-<td>February 17th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6">AI + Ansible - Content Kit</a></td>
-</tr>
-<tr>
-<td>February 5th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing">Cisco Enterprise Networking + AAP - Content Kit</a></td>
-</tr>
 </tbody>
 </table>
 
