@@ -42,10 +42,7 @@
 <td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1x01wBxJ5gKrya4QxDDWUGldkM0rNYrv0CcnZmtTO0sU/edit?usp=sharing">Ansible Automation Platform 2.7</a></td>
 </tr>
 <tr>
-<td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1vhInhJ-nw8gthnULSizRt4PeJXVBhV95MV398-i4dGk/edit?usp=sharing">Know Before You Go — ABU/HCE/Edge @ Summit</a></td>
-</tr>
-<tr>
-<td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/document/d/1065PsGzneyksGnc4U-mrAS6-OLq78Z2EQJThKRfATr0/edit?usp=sharing">ABU | 2026 | AAP Summit Information & KBYG</a></td>
+<td>May 7th, 2026 - Know Before You Go — ABU/HCE/Edge @ Summit: <a target="_new" href="https://docs.google.com/presentation/d/1vhInhJ-nw8gthnULSizRt4PeJXVBhV95MV398-i4dGk/edit?usp=sharing">Slides</a> | <a target="_new" href="https://docs.google.com/document/d/1065PsGzneyksGnc4U-mrAS6-OLq78Z2EQJThKRfATr0/edit?usp=sharing">Google Doc</a></td>
 </tr>
 </tbody>
 </table>
