@@ -73,6 +73,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Power 5 - Episode 66 "Ansible Automation Platform + MetLife Win"</a></td>
+<td>Harper Buete and Tucker Fisher</td>
+<td>May 7th, 2026</td>
+</tr>
+<tr>
 <td><a target="_new" href="https://videos.learning.redhat.com/media/1_sfku6h6j">Power 5 - Episode 56 "Unlocking Revenue - The sellers guide to AAP Metrics utility and host consulting"</a></td>
 <td>Courtney Cydylo</td>
 <td>March 12th, 2026</td>
@@ -81,11 +86,6 @@
 <td><a target="_new" href="https://videos.learning.redhat.com/media/1_gu16mvdj">Power 5 - Episode 52 "Adopting Ansible Automation Platform 2.6"</a></td>
 <td>Catherine Choi</td>
 <td>February 13th, 2026</td>
-</tr>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/playlist/dedicated/366567272/1_rv3osgb0/1_7evd7yjx">Power 5 - Episode 43 "How Red Hat is mastering IT operations efficiency for One NZ"</a></td>
-<td>Cameron Russo and Yvonne Cheong</td>
-<td>December 4th, 2025</td>
 </tr>
 </tbody>
 </table>
