@@ -279,11 +279,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
-<td>Event-Driven Ansible - 101</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1Uf1Y42p8WfQnBQH-5ZjMXzQezdYj2UW6WcDfrbGu1fQ/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=068ce666-c386-4ba7-8dee-a7e76ba5607c">Content Center</a></td>
-</tr>
-<tr>
 <td>Event-Driven Ansible - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/18FsymQlk8cCBENHsh7NXyqvXtatfGOr8Nl761r1rU4w/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=142aca20-7767-404b-8563-5da4a8ae4e7f">Content Center</a></td>
