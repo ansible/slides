@@ -685,6 +685,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://docs.google.com/presentation/d/19qZyXhZO6rfhzPElAMypIbfEnL9nPW83ce4i5MWJD2s/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
+<td>Ansible Automation Platform - Mythos</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1-ZgLAyKVx3ccHyJB-eGaozMpNGq3AjFOfoAK9YZfl1Y/edit?slide=id.g3e8ae193bf2_4_199#slide=id.g3e8ae193bf2_4_199">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
