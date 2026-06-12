@@ -39,6 +39,9 @@
 </thead>
 <tbody>
 <tr>
+<td>June 12th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1HElTQjvI0HEP2U0Y4mY2-WwC175ywwa_lc3rWp8lT0U/edit?usp=sharing">AI + Ansible - 301</a></td>
+</tr>
+<tr>
 <td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1x01wBxJ5gKrya4QxDDWUGldkM0rNYrv0CcnZmtTO0sU/edit?usp=sharing">Ansible Automation Platform 2.7</a></td>
 </tr>
 <tr>
@@ -69,11 +72,6 @@
 <td>Courtney Cydylo</td>
 <td>March 12th, 2026</td>
 </tr>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/1_gu16mvdj">Power 5 - Episode 52 "Adopting Ansible Automation Platform 2.6"</a></td>
-<td>Catherine Choi</td>
-<td>February 13th, 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -97,7 +95,7 @@
 </a></td>
 </tr>
 <tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.6/html-single/release_notes/index">2.6 Release Notes
+<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.7/whats_new-overview_of_redhat_ansible_intro">2.7 Release Notes
 </a></td>
 </tr>
 </tbody>
@@ -248,6 +246,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>AI + Ansible - 101/201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wb4rAm6YUtExgu5DAoAsFEXmc4pbSLXLVwMb8Bhw7lQ/edit?slide=id.g1344cb18f70_1_583#slide=id.g1344cb18f70_1_583">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=4d781b0c-4d61-4a90-a85b-b0f22e546747">Content Center</a></td>
+</tr>
+<tr>
+<td>AI + Ansible - 301</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1HElTQjvI0HEP2U0Y4mY2-WwC175ywwa_lc3rWp8lT0U/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
