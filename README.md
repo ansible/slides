@@ -253,12 +253,12 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Ansible Lightspeed with IBM Watson Code Assistant 101</td>
+<td>Generative AI Features of Ansible Automation Platform</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ks2S2SJ_zFOFj4JcEHTPdFSXOMQql-TSD9EWShB7Z5k/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>Ansible Lightspeed Sales Enablement Overview</td>
+<td>ABU | Automation Coding Assistant w/ WCA (formerly Ansible Lightspeed)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1LZTrVoqYFk_0e51tPXZW-qkEhA5rwk_xl_Ik_6gWCOk/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
