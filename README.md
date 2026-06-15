@@ -688,6 +688,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1-ZgLAyKVx3ccHyJB-eGaozMpNGq3AjFOfoAK9YZfl1Y/edit?slide=id.g3e8ae193bf2_4_199#slide=id.g3e8ae193bf2_4_199">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
+<tr>
+<td>Security Content kit</td>
+<td><a target="_blank" href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 </tbody>
 </table>
 
