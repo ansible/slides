@@ -63,14 +63,14 @@
 </thead>
 <tbody>
 <tr>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Power 5 - Episode 68 "Master your AAP 2.7 Pitch"</a></td>
+<td>Tricia McConnell</td>
+<td>June 17th, 2026</td>
+</tr>
+<tr>
 <td><a target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Power 5 - Episode 66 "Ansible Automation Platform + MetLife Win"</a></td>
 <td>Harper Buete and Tucker Fisher</td>
 <td>May 7th, 2026</td>
-</tr>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/1_sfku6h6j">Power 5 - Episode 56 "Unlocking Revenue - The sellers guide to AAP Metrics utility and host consulting"</a></td>
-<td>Courtney Cydylo</td>
-<td>March 12th, 2026</td>
 </tr>
 </tbody>
 </table>
@@ -207,6 +207,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>AAP 2.7 Overview (May 7, 2026)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1x01wBxJ5gKrya4QxDDWUGldkM0rNYrv0CcnZmtTO0sU/edit?usp=sharing">Google Source</a></td>
+<td>Coming soon!</td>
+</tr>
 <tr>
 <td>AAP 2.5 Overview (Sep 30, 2024)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1mM0lfsQYy4d0TG4jHMpjElTDuPkdrqfJMhVBOKIyqqc/edit?usp=sharing">Google Source</a></td>
