@@ -1005,9 +1005,47 @@ class#emea {
 }
 
 .highlighttable {
-  display: block;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
   vertical-align: top;
-  max-width: 695px;
+  max-width: none;
+  width: 100%;
+}
+
+.highlighttable > table {
+  margin: 0;
+  width: 100%;
+  min-width: 0;
+}
+
+.highlighttable th,
+.highlighttable td {
+  min-width: 0;
+  font-size: 0.875rem;
+  vertical-align: top;
+}
+
+.highlighttable .bulletin-meta {
+  display: inline-block;
+  margin-right: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #6a6e73;
+}
+
+.highlighttable .bulletin-note {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.75rem;
+  color: #6a6e73;
+}
+
+@media screen and (min-width: 900px) {
+  .highlighttable {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: start;
+  }
 }
 
 @media screen and (min-width: 1100px) {

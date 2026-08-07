@@ -46,43 +46,18 @@
 <table>
 <thead>
 <tr>
-<th>New and recently updated!</th>
+<th>New</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a> (major global financial services and insurance company)</td>
+<td><span class="bulletin-meta">Aug 7, 2026</span> <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a><br><span class="bulletin-note">major global financial services and insurance company</span></td>
 </tr>
 <tr>
-<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a></td>
+<td><span class="bulletin-meta">Aug 7, 2026</span> <a target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a></td>
 </tr>
 <tr>
-<td>August 7th, 2026 - <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour on AAP 2.7</a></td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-<table>
-<thead>
-<tr>
-<th>Latest Power 5 (Updates for Sales)</th>
-<th>Presenter</th>
-<th>Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Power 5 - Episode 68 "Master your AAP 2.7 Pitch"</a></td>
-<td>Tricia McConnell</td>
-<td>June 17th, 2026</td>
-</tr>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Power 5 - Episode 66 "Ansible Automation Platform + MetLife Win"</a></td>
-<td>Harper Buete and Tucker Fisher</td>
-<td>May 7th, 2026</td>
+<td><span class="bulletin-meta">Aug 7, 2026</span> <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour on AAP 2.7</a></td>
 </tr>
 </tbody>
 </table>
@@ -90,25 +65,37 @@
 <table>
 <thead>
 <tr>
-<th>Important Documentation for the Field</th>
+<th>Latest Power 5</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>KB: <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 Aligning Customer Infrastructure to Tested Topologies
-</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Master your AAP 2.7 Pitch</a><br><span class="bulletin-meta">Tricia McConnell · Jun 17, 2026</span></td>
 </tr>
 <tr>
-<td>KB: <a target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">Red Hat Ansible Automation Platform Life Cycle
-</a></td>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Ep 66 — AAP + MetLife Win</a><br><span class="bulletin-meta">Harper Buete and Tucker Fisher · May 7, 2026</span></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Docs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="bulletin-meta">KB</span> <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 tested topologies</a></td>
 </tr>
 <tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models
-</a></td>
+<td><span class="bulletin-meta">KB</span> <a target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">AAP life cycle</a></td>
 </tr>
 <tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.7/whats_new-overview_of_redhat_ansible_intro">2.7 Release Notes
-</a></td>
+<td><span class="bulletin-meta">Docs</span> <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models</a></td>
+</tr>
+<tr>
+<td><span class="bulletin-meta">Docs</span> <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.7/whats_new-overview_of_redhat_ansible_intro">2.7 release notes</a></td>
 </tr>
 </tbody>
 </table>
