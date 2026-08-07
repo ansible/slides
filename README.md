@@ -15,7 +15,9 @@
 </div>
 
 <div class='parentsean'>
-<div class='tableofcontents' markdown="1">
+<nav class="tableofcontents" aria-label="On this page" markdown="1">
+
+**On this page**
 
 - [General](#general)
 - [ROI (Return on Investment)](#roi-return-on-investment)
@@ -38,7 +40,7 @@
 - [Reference Architectures](#reference-architectures)
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
-</div>
+</nav>
 
 <div class='highlighttable'>
 <table>

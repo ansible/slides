@@ -868,15 +868,120 @@ class#emea {
 }
 
 .tableofcontents {
-  display: inline-block;
-  padding-right: 150px;
+  display: block;
+  box-sizing: border-box;
+  padding: 0.85rem 0.9rem;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  border-left: 3px solid #ee0000;
+  margin-bottom: 1rem;
+}
+
+.tableofcontents > p {
+  margin: 0 0 0.5rem;
+}
+
+.tableofcontents > p strong,
+.tableofcontents strong {
+  display: block;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6a6e73;
+}
+
+.tableofcontents ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tableofcontents li {
+  margin: 0;
+  padding: 0;
+}
+
+.tableofcontents li + li {
+  margin-top: 0.12rem;
+}
+
+.tableofcontents a {
+  display: block;
+  padding: 0.28rem 0.4rem;
+  border-radius: 4px;
+  color: #151515;
+  text-decoration: none;
+  font-size: 0.8125rem;
+  line-height: 1.35;
+  font-weight: 600;
+}
+
+.tableofcontents a:hover {
+  background: #fff;
+  color: #ee0000;
+}
+
+.tableofcontents ul ul {
+  margin: 0.15rem 0 0.35rem 0.65rem;
+  padding-left: 0.55rem;
+  border-left: 1px solid #d2d2d2;
+}
+
+.tableofcontents ul ul a {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #6a6e73;
 }
 
 .highlighttable {
-  display: inline-block;
+  display: block;
   vertical-align: top;
   max-width: 695px;
 }
+
+@media screen and (min-width: 1000px) {
+  .tableofcontents {
+    position: fixed;
+    top: 6.5rem;
+    left: max(12px, calc(50% - 565px));
+    width: 220px;
+    max-height: calc(100vh - 7.5rem);
+    overflow-y: auto;
+    z-index: 40;
+    margin-bottom: 0;
+  }
+
+  .parentsean {
+    display: block;
+    padding-left: 240px;
+    box-sizing: border-box;
+  }
+
+  .highlighttable {
+    max-width: none;
+    width: 100%;
+  }
+
+  /* Keep catalog aligned with highlights, clear of fixed TOC */
+  section > h1,
+  section > h2,
+  section > table {
+    margin-left: 260px !important;
+    width: calc(100% - 280px) !important;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .tableofcontents {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
+}
+
 // Compact page title + language row
 .page-intro {
   display: flex;
