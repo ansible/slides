@@ -4,15 +4,15 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Red+Hat+Text:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
-// Global readability bump (~32% from default: 15% then another 15%)
+// Global readability bump (~25% from default)
 html {
-  font-size: 132%;
+  font-size: 125%;
 }
 
 :root {
   --content-max: 1600px;
-  --toc-width: 320px;
-  --toc-gap: 28px;
+  --toc-width: 340px;
+  --toc-gap: 24px;
 }
 
 // font and color tweaks
@@ -902,24 +902,25 @@ class#emea {
 .tableofcontents {
   display: block;
   box-sizing: border-box;
-  padding: 0.85rem 0.75rem 1rem;
+  padding: 0.7rem 0.65rem 0.85rem;
   background: #f5f5f5;
   border: 1px solid #e0e0e0;
   border-radius: 10px;
   border-left: 3px solid #ee0000;
   margin-bottom: 1rem;
+  font-size: 13px; // keep nav compact even when page type is large
 }
 
 .tableofcontents > p {
-  margin: 0 0 0.75rem;
-  padding: 0 0.35rem;
+  margin: 0 0 0.55rem;
+  padding: 0 0.3rem;
 }
 
 .tableofcontents > p strong,
 .tableofcontents strong {
   display: block;
   font-family: 'Red Hat Display', sans-serif;
-  font-size: 0.75rem;
+  font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -938,26 +939,26 @@ class#emea {
 }
 
 .tableofcontents > ul > li + li {
-  margin-top: 0.35rem;
+  margin-top: 0.12rem;
 }
 
 .tableofcontents a {
   display: flex;
-  align-items: center;
-  gap: 0.55rem;
-  padding: 0.45rem 0.45rem;
+  align-items: flex-start;
+  gap: 0.45rem;
+  padding: 0.35rem 0.4rem;
   border-radius: 6px;
   color: #4a4a4a;
   text-decoration: none;
-  font-size: 0.8125rem;
-  line-height: 1.35;
+  font-size: 13px;
+  line-height: 1.3;
   font-weight: 500;
 }
 
 .tableofcontents > ul > li > a {
   color: #151515;
   font-weight: 500;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .tableofcontents a:hover {
@@ -986,12 +987,13 @@ class#emea {
 .tableofcontents > ul > li > a::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  font-size: 0.85rem;
-  width: 1.1rem;
+  font-size: 12px;
+  width: 14px;
   flex-shrink: 0;
   text-align: center;
   color: #6a6e73;
   speak: none;
+  margin-top: 2px;
 }
 
 .tableofcontents > ul > li > a:hover::before {
@@ -1014,21 +1016,22 @@ class#emea {
 .tableofcontents a[href="#logos-graphics-icons-and-brand-rules"]::before { content: "\f53f"; } /* palette */
 
 .tableofcontents ul ul {
-  margin: 0.35rem 0 0.55rem 1.85rem;
-  padding-left: 0.55rem;
+  margin: 0.2rem 0 0.35rem 1.5rem;
+  padding-left: 0.45rem;
   border-left: 1px solid #d2d2d2;
 }
 
 .tableofcontents ul ul li + li {
-  margin-top: 0.2rem;
+  margin-top: 0.08rem;
 }
 
 .tableofcontents ul ul a {
   display: block;
-  font-size: 0.75rem;
+  font-size: 12px;
   font-weight: 400;
   color: #6a6e73;
-  padding: 0.28rem 0.4rem;
+  padding: 0.22rem 0.35rem;
+  line-height: 1.3;
 }
 
 .tableofcontents ul ul a::before {
@@ -1091,8 +1094,8 @@ class#emea {
   font-weight: 600;
   color: #151515;
   text-decoration: none;
-  line-height: 1.35;
-  margin-bottom: 0.35rem;
+  line-height: 1.3;
+  margin-bottom: 0.15rem;
 }
 
 .highlighttable .bulletin-title:hover {
@@ -1102,8 +1105,8 @@ class#emea {
 
 .highlighttable .bulletin-date {
   display: inline-block;
-  margin: 0 0 0.3rem;
-  padding: 0.12rem 0.45rem;
+  margin: 0 0 0.15rem;
+  padding: 0.1rem 0.4rem;
   font-size: 0.6875rem;
   font-weight: 600;
   letter-spacing: 0.02em;
@@ -1111,15 +1114,15 @@ class#emea {
   background: #f0f0f0;
   border: 1px solid #d2d2d2;
   border-radius: 999px;
-  line-height: 1.3;
+  line-height: 1.25;
 }
 
 .highlighttable .bulletin-note {
   display: block;
-  margin-top: 0.15rem;
+  margin-top: 0.1rem;
   font-size: 0.75rem;
   color: #6a6e73;
-  line-height: 1.35;
+  line-height: 1.3;
 }
 
 .highlighttable .bulletin-kind {
