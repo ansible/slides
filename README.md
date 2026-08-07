@@ -116,11 +116,6 @@
 </thead>
 <tbody>
 <tr>
-<td>What's new in AAP 2.6</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=80736aec-527d-4e43-acf7-7993c7b5ee07&fusionQueryId=0Gmbv4IGzB&query=customer%20deck)%20and%20(undefined">Content Center</a></td>
-</tr>
-<tr>
 <td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Google Source</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">Content Center</a></td>
@@ -210,6 +205,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>AAP 2.7 Overview (May 7, 2026)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1x01wBxJ5gKrya4QxDDWUGldkM0rNYrv0CcnZmtTO0sU/edit?usp=sharing">Google Source</a></td>
 <td>Coming soon!</td>
+</tr>
+<tr>
+<td>AAP 2.6 Overview (Oct 8, 2025)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1UeOGmYRoscmJGEDlePGZ5i8Yd2EcQz_nJk2-Kz2EVbo/edit?usp=sharing">Google Source</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=80736aec-527d-4e43-acf7-7993c7b5ee07&fusionQueryId=0Gmbv4IGzB&query=customer%20deck)%20and%20(undefined">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP 2.5 Overview (Sep 30, 2024)</td>
