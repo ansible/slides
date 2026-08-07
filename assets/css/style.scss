@@ -28,22 +28,14 @@ h4, h5, h6 {
 }
 
 a {
-  color: #0066cc;
+  color: #337ab7;
   font-weight: normal;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-}
-
-a:hover {
-  color: #004080;
 }
 
 // layout tweaks
 
 body {
   padding: 0;
-  color: #151515;
-  background: #fff;
 }
 
 .wrapper {
@@ -55,7 +47,7 @@ section {
   margin: 0 auto;
   width: 100%;
   max-width: 1170px;
-  padding: 0 0 3rem;
+  padding: 0;
   float: initial;
 }
 
@@ -111,103 +103,34 @@ img {
     border: none;
 }
 
-// table tweaks — modern, quieter content tables
-
-.table-scroll {
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-  border: 1px solid #d2d2d2;
-  border-radius: 8px;
-  overflow: hidden;
-  background: #fff;
-  margin: 0 0 1.75rem;
-}
+// table tweaks
 
 table, th, td {
-  border: none;
+  border: 1px solid #999;
+  border-collapse: collapse;
 }
 
-th, td {
-  min-width: 0;
-  padding: 0.85rem 1rem;
-  text-align: left;
-  vertical-align: top;
-  border-bottom: 1px solid #f0f0f0;
-}
-
-tr:last-child td {
-  border-bottom: none;
+td, th {
+  min-width: 100px;
 }
 
 @media screen and (max-width: 550px) {
   td, th {
     min-width: initial;
+    width: 25%;
   }
 }
 
 th {
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: 'Red Hat Display';
   vertical-align: middle;
-  font-weight: 600;
-  font-size: 0.8125rem;
-  letter-spacing: 0.02em;
-  text-transform: none;
-  color: #151515 !important;
-  background: #f5f5f5 !important;
-  border-bottom: 1px solid #d2d2d2;
+  font-weight: 700;
+  font-size: 16px;
 }
 
 td {
-  font-family: 'Red Hat Text', sans-serif;
-  font-size: 0.9375rem;
-  line-height: 1.45;
-  background: #fff !important;
-  color: #151515;
-}
-
-tr:nth-child(even) td {
-  background-color: #f5f5f5 !important;
-}
-
-tr:nth-child(odd) td {
-  background-color: #fff !important;
-}
-
-tr:hover td {
-  background-color: #eeeeee !important;
-}
-
-.row-note {
-  display: block;
-  margin-top: 0.25rem;
-  font-size: 0.8125rem;
-  color: #6a6e73;
-  font-weight: 400;
-}
-
-// Secondary / utility links in tables
-td a[href*="content.redhat.com"],
-td a[href*="docs.google.com"] {
-  color: #6a6e73;
-  font-weight: 500;
-}
-
-td a[href*="content.redhat.com"]:hover,
-td a[href*="docs.google.com"]:hover {
-  color: #151515;
-}
-
-td > a:first-child,
-td a[target="_new"]:not([href*="content.redhat.com"]):not([href*="docs.google.com"]) {
-  color: #0066cc;
-  font-weight: 500;
+  font-family: 'Red Hat Text';
+  background: #f2f2f2;
 }
 
 // codeblock tweaks
@@ -648,28 +571,13 @@ a h3:hover {
 }
 
 .editlink {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.2rem 0.55rem;
-  font-size: 0.75rem;
-  font-weight: 500;
-  color: #6a6e73 !important;
-  text-decoration: none !important;
-  border: 1px solid #d2d2d2;
-  border-radius: 999px;
-  background: #fff;
-}
-
-.editlink:hover {
-  color: #151515 !important;
-  border-color: #8a8d90;
-  background: #f5f5f5;
+  display: inline-block;
+  padding-left: 5px;
+  font-size: 12px;
 }
 
 .editlink a {
-  font-size: inherit;
-  color: inherit !important;
-  text-decoration: none !important;
+  font-size: 12px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap');
@@ -857,39 +765,14 @@ div#cloud-use-cases h2 {
 }
 
 h2 {
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 1.15rem;
-  font-weight: 500;
-  line-height: 1.3;
-  color: #151515;
-  margin: 1.75rem 0 0.85rem;
-  padding-bottom: 0;
-  border-bottom: none;
-  width: 100%;
+  font-size: 18px;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: calc(100% - 60px);
 }
 
-.page-main > h1 {
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 1.5rem !important;
-  font-weight: 500;
-  line-height: 1.25;
-  color: #151515;
-  margin: 2.5rem 0 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #ee0000;
-  width: 100%;
-}
-
-.page-main > h2 {
-  margin-top: 1.75rem;
-  padding-left: 0.15rem;
-  border-left: 3px solid #d2d2d2;
-  padding-left: 0.65rem;
-}
-
-.page-main > h2:first-child,
-.page-main > h1:first-child {
-  margin-top: 0;
+tr:nth-child(odd) td {
+  background-color: #ffffff;
 }
 
 class#financial {
@@ -985,50 +868,33 @@ class#emea {
 }
 
 .tableofcontents {
-  display: block;
-  padding: 0;
+  display: inline-block;
+  padding-right: 150px;
 }
 
 .highlighttable {
-  display: block;
+  display: inline-block;
   vertical-align: top;
-  max-width: none;
+  max-width: 695px;
 }
-
-// ---------------------------------------------------------------------------
-// Slide Finder page redesign (simplified)
-// ---------------------------------------------------------------------------
-
-.page-intro,
-.deck-filter-bar,
-.highlights,
-.secondary-strip,
-.toc-details,
-.page-main {
-  width: calc(100% - 40px);
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
+// Compact page title + language row
 .page-intro {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   gap: 0.5rem 0.85rem;
-  padding: 1rem 0 0.35rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .page-intro h1 {
   margin: 0;
-  font-size: 1.75rem;
-  font-weight: 500;
-  letter-spacing: -0.02em;
-  line-height: 1.15;
+  display: inline;
 }
 
 .page-lang {
-  font-size: 0.8125rem;
-  color: #6a6e73;
+  font-size: 0.875rem;
+  color: #666;
 }
 
 .page-lang img {
@@ -1037,328 +903,20 @@ class#emea {
 }
 
 .page-lang a {
-  color: #6a6e73;
+  color: #666;
   text-decoration: none;
-  font-weight: 500;
 }
 
 .page-lang a:hover {
-  color: #151515;
+  color: #333;
   text-decoration: underline;
 }
 
 .page-meta-sep {
   margin: 0 0.25rem;
-  color: #b8bbbe;
+  color: #bbb;
 }
 
 .page-intro .editlink {
   margin-left: auto;
-}
-
-.deck-filter-bar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.65rem 0.85rem;
-  margin-top: 0.75rem;
-  margin-bottom: 1rem;
-  padding: 0.65rem 0.85rem;
-  background: #f5f5f5;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-}
-
-.deck-filter-label {
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: #151515;
-  margin: 0;
-}
-
-.deck-filter-input {
-  flex: 1 1 220px;
-  min-width: 0;
-  padding: 0.5rem 0.7rem;
-  border: 1px solid #d2d2d2;
-  border-radius: 6px;
-  font-family: 'Red Hat Text', sans-serif;
-  font-size: 0.9375rem;
-  color: #151515;
-  background: #fff;
-}
-
-.deck-filter-input:focus {
-  outline: 2px solid #0066cc;
-  outline-offset: 1px;
-  border-color: #0066cc;
-}
-
-.deck-filter-status {
-  font-size: 0.8125rem;
-  color: #6a6e73;
-  min-height: 1.2em;
-}
-
-.highlights--news-only {
-  display: block;
-  margin-bottom: 0.75rem;
-}
-
-.highlight-panel {
-  background: #fff;
-  border: 1px solid #d2d2d2;
-  border-radius: 8px;
-  padding: 0.75rem 1rem;
-  min-width: 0;
-}
-
-.highlight-title {
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 0.8125rem !important;
-  font-weight: 700 !important;
-  margin: 0 0 0.5rem !important;
-  padding: 0 !important;
-  border-bottom: none !important;
-  width: auto !important;
-  line-height: 1.3 !important;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #6a6e73 !important;
-}
-
-.highlight-news {
-  border-left: 3px solid #ee0000;
-}
-
-.news-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  gap: 0.35rem 1.5rem;
-}
-
-@media screen and (min-width: 800px) {
-  .news-list {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
-.news-list li {
-  padding: 0;
-  border: none;
-  font-size: 0.875rem;
-  line-height: 1.35;
-}
-
-.news-date {
-  display: inline;
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-  color: #6a6e73;
-  margin-right: 0.35rem;
-}
-
-.news-note {
-  color: #6a6e73;
-  font-size: 0.75rem;
-}
-
-.news-list a {
-  font-weight: 600;
-  color: #151515;
-  text-decoration: none;
-}
-
-.news-list a:hover {
-  color: #ee0000;
-  text-decoration: underline;
-}
-
-.secondary-strip {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.75rem 1.5rem;
-  margin-bottom: 0.85rem;
-  padding: 0.65rem 0;
-  border-bottom: 1px solid #f0f0f0;
-}
-
-.secondary-block {
-  min-width: 0;
-}
-
-.secondary-label {
-  display: block;
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 0.6875rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: #6a6e73;
-  margin-bottom: 0.35rem;
-}
-
-.secondary-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.secondary-list li {
-  font-size: 0.8125rem;
-  line-height: 1.35;
-  margin: 0 0 0.25rem;
-}
-
-.secondary-list a {
-  color: #6a6e73;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.secondary-list a:hover {
-  color: #151515;
-  text-decoration: underline;
-}
-
-.secondary-meta {
-  color: #b8bbbe;
-  font-size: 0.75rem;
-  margin-left: 0.25rem;
-}
-
-.toc-details {
-  margin-bottom: 1.25rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  background: #fafafa;
-}
-
-.toc-details > summary {
-  cursor: pointer;
-  list-style: none;
-  padding: 0.55rem 0.85rem;
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: #151515;
-  user-select: none;
-}
-
-.toc-details > summary::-webkit-details-marker {
-  display: none;
-}
-
-.toc-details > summary::before {
-  content: "▸";
-  display: inline-block;
-  margin-right: 0.4rem;
-  color: #6a6e73;
-}
-
-.toc-details[open] > summary::before {
-  content: "▾";
-}
-
-.toc-details .tableofcontents {
-  padding: 0 0.85rem 0.75rem;
-  background: transparent;
-  border: none;
-  border-radius: 0;
-  position: static;
-  max-height: none;
-  overflow: visible;
-}
-
-.tableofcontents ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  columns: 2;
-  column-gap: 1.5rem;
-}
-
-.tableofcontents li {
-  margin: 0;
-  padding: 0;
-  break-inside: avoid;
-}
-
-.tableofcontents li + li {
-  margin-top: 0.1rem;
-}
-
-.tableofcontents a {
-  display: inline-block;
-  padding: 0.15rem 0;
-  color: #151515;
-  text-decoration: none;
-  font-size: 0.8125rem;
-  line-height: 1.35;
-  font-weight: 500;
-}
-
-.tableofcontents a:hover {
-  color: #ee0000;
-}
-
-.tableofcontents ul ul {
-  margin: 0.1rem 0 0.25rem 0.75rem;
-  padding: 0;
-  border: none;
-  columns: 1;
-}
-
-.tableofcontents ul ul a {
-  font-size: 0.75rem;
-  font-weight: 400;
-  color: #6a6e73;
-}
-
-.page-main {
-  min-width: 0;
-  margin-bottom: 2rem;
-}
-
-.page-main > table {
-  width: 100%;
-}
-
-.deck-filter-hidden {
-  display: none !important;
-}
-
-@media screen and (max-width: 700px) {
-  .page-intro h1 {
-    font-size: 1.5rem;
-  }
-
-  .page-intro .editlink {
-    margin-left: 0;
-  }
-
-  .secondary-strip {
-    grid-template-columns: 1fr;
-  }
-
-  .tableofcontents ul {
-    columns: 1;
-  }
-
-  .page-main table,
-  .table-scroll table {
-    display: block;
-    width: 100%;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  th, td {
-    padding: 0.7rem 0.75rem;
-  }
 }

@@ -1,0 +1,20 @@
+---
+description: Work directly on main in this fork; do not create feature branches
+alwaysApply: true
+---
+
+# No feature branches
+
+This repo is already a personal fork of `ansible/slides`. Do **not** create feature or topic branches.
+
+## Workflow
+
+- Commit and push directly to `main` on `origin` (the fork)
+- GitHub Pages for the fork deploys from `main` only — branch pushes will not update the preview site
+- Open a PR from fork `main` → `ansible/slides` `main` when ready to contribute upstream
+- Sync with `upstream/main` on local `main` before starting new work
+
+## Do not
+
+- `git checkout -b …` for routine edits
+- Push changes only to a side branch and expect the fork Pages site to update
