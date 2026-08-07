@@ -951,6 +951,23 @@ class#emea {
   color: #ee0000;
 }
 
+.tableofcontents a.is-active {
+  background: #fff;
+  color: #ee0000;
+  font-weight: 600;
+  box-shadow: inset 3px 0 0 #ee0000;
+}
+
+.tableofcontents > ul > li > a.is-active::before {
+  color: #ee0000;
+}
+
+.tableofcontents ul ul a.is-active {
+  color: #ee0000;
+  font-weight: 600;
+  background: #fff;
+}
+
 /* Icons on top-level sections only */
 .tableofcontents > ul > li > a::before {
   font-family: "Font Awesome 5 Free";
