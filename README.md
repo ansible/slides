@@ -1,9 +1,14 @@
 <div class="page-intro">
   <h1>Ansible Slide Finder</h1>
   <span class="page-lang">
-    <img src="https://raw.githubusercontent.com/ansible/slides/main/images/uk.png" alt="" width="16" height="12"> <a href="README.md">EN</a>
-    <span class="page-meta-sep">·</span>
-    <img src="https://raw.githubusercontent.com/ansible/slides/main/images/japan.png" alt="" width="16" height="12"> <a href="README_jp.md">日本語</a>
+    <a class="lang-btn is-active" href="README.md" hreflang="en" aria-current="page">
+      <img src="https://raw.githubusercontent.com/ansible/slides/main/images/uk.png" alt="" width="16" height="12">
+      <span>EN</span>
+    </a>
+    <a class="lang-btn" href="README_jp.md" hreflang="ja">
+      <img src="https://raw.githubusercontent.com/ansible/slides/main/images/japan.png" alt="" width="16" height="12">
+      <span>日本語</span>
+    </a>
   </span>
   <span class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</span>
 </div>

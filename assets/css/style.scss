@@ -1268,23 +1268,51 @@ class#emea {
 }
 
 .page-lang {
-  font-size: 0.875rem;
-  color: #666;
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
 }
 
 .page-lang img {
-  vertical-align: -1px;
-  margin-right: 2px;
+  display: block;
+  width: 16px;
+  height: 12px;
 }
 
-.page-lang a {
-  color: #666;
-  text-decoration: none;
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 999px;
+  background: #fff;
+  color: #151515 !important;
+  text-decoration: none !important;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.2;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
-.page-lang a:hover {
-  color: #333;
-  text-decoration: underline;
+.lang-btn:hover {
+  background: #f5f5f5;
+  border-color: #8a8d90;
+  color: #151515 !important;
+  text-decoration: none !important;
+}
+
+.lang-btn.is-active {
+  background: #151515;
+  border-color: #151515;
+  color: #fff !important;
+}
+
+.lang-btn.is-active:hover {
+  background: #333;
+  border-color: #333;
+  color: #fff !important;
 }
 
 .page-meta-sep {

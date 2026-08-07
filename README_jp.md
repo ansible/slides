@@ -1,9 +1,17 @@
-**他の言語でもお読みいただけます**:
-<br>![uk](https://raw.githubusercontent.com/ansible/slides/main/images/uk.png) [English](README.md),  ![japan](https://raw.githubusercontent.com/ansible/slides/main/images/japan.png)[日本語](README_jp.md).
-
-
-<h1> Ansible Automation Platform デッキファインダー<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</div></h1>
-<p><a href="https://ansible.github.io/slides">本サイト</a></p>
+<div class="page-intro">
+  <h1>Ansible Automation Platform デッキファインダー</h1>
+  <span class="page-lang">
+    <a class="lang-btn" href="README.md" hreflang="en">
+      <img src="https://raw.githubusercontent.com/ansible/slides/main/images/uk.png" alt="" width="16" height="12">
+      <span>EN</span>
+    </a>
+    <a class="lang-btn is-active" href="README_jp.md" hreflang="ja" aria-current="page">
+      <img src="https://raw.githubusercontent.com/ansible/slides/main/images/japan.png" alt="" width="16" height="12">
+      <span>日本語</span>
+    </a>
+  </span>
+  <span class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</span>
+</div>
 
 <div class='parentsean'>
 <div class='tableofcontents' markdown="1">
