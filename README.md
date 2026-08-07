@@ -39,7 +39,7 @@
 </thead>
 <tbody>
 <tr>
-<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a></td>
+<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a> (major global financial services and insurance company)</td>
 </tr>
 <tr>
 <td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a></td>
