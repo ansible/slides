@@ -1027,6 +1027,17 @@ class#emea {
   vertical-align: top;
 }
 
+.highlighttable td {
+  position: relative;
+}
+
+.highlighttable .bulletin-title::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
 .highlighttable th {
   color: #fff !important;
   border-bottom-color: transparent !important;
