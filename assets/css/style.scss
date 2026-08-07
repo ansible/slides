@@ -870,7 +870,7 @@ class#emea {
 .tableofcontents {
   display: block;
   box-sizing: border-box;
-  padding: 0.85rem 0.9rem;
+  padding: 0.85rem 0.75rem 1rem;
   background: #f5f5f5;
   border: 1px solid #e0e0e0;
   border-radius: 10px;
@@ -879,7 +879,8 @@ class#emea {
 }
 
 .tableofcontents > p {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.75rem;
+  padding: 0 0.35rem;
 }
 
 .tableofcontents > p strong,
@@ -904,19 +905,26 @@ class#emea {
   padding: 0;
 }
 
-.tableofcontents li + li {
-  margin-top: 0.12rem;
+.tableofcontents > ul > li + li {
+  margin-top: 0.35rem;
 }
 
 .tableofcontents a {
-  display: block;
-  padding: 0.28rem 0.4rem;
-  border-radius: 4px;
-  color: #151515;
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.45rem 0.45rem;
+  border-radius: 6px;
+  color: #4a4a4a;
   text-decoration: none;
   font-size: 0.8125rem;
   line-height: 1.35;
-  font-weight: 600;
+  font-weight: 500;
+}
+
+.tableofcontents > ul > li > a {
+  color: #151515;
+  font-weight: 500;
 }
 
 .tableofcontents a:hover {
@@ -924,16 +932,57 @@ class#emea {
   color: #ee0000;
 }
 
+/* Icons on top-level sections only */
+.tableofcontents > ul > li > a::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 0.85rem;
+  width: 1.1rem;
+  flex-shrink: 0;
+  text-align: center;
+  color: #6a6e73;
+  speak: none;
+}
+
+.tableofcontents > ul > li > a:hover::before {
+  color: #ee0000;
+}
+
+.tableofcontents a[href="#general"]::before { content: "\f0ca"; } /* list-ul */
+.tableofcontents a[href="#roi-return-on-investment"]::before { content: "\f201"; } /* chart-line */
+.tableofcontents a[href="#release-information"]::before { content: "\f135"; } /* rocket */
+.tableofcontents a[href="#ai---artificial-intelligence"]::before { content: "\f5dc"; } /* brain */
+.tableofcontents a[href="#eda---event-driven-ansible"]::before { content: "\f0e7"; } /* bolt */
+.tableofcontents a[href="#edge-automation"]::before { content: "\f1eb"; } /* wifi */
+.tableofcontents a[href="#hybrid-cloud-automation"]::before { content: "\f0c2"; } /* cloud */
+.tableofcontents a[href="#network-automation"]::before { content: "\f6ff"; } /* network-wired */
+.tableofcontents a[href="#infrastructure-automation"]::before { content: "\f233"; } /* server */
+.tableofcontents a[href="#policy-enforcement"]::before { content: "\f3ed"; } /* shield-alt */
+.tableofcontents a[href="#security-automation"]::before { content: "\f023"; } /* lock */
+.tableofcontents a[href="#servicenow-itsm-automation"]::before { content: "\f3ff"; } /* ticket-alt */
+.tableofcontents a[href="#reference-architectures"]::before { content: "\f1ad"; } /* building */
+.tableofcontents a[href="#logos-graphics-icons-and-brand-rules"]::before { content: "\f53f"; } /* palette */
+
 .tableofcontents ul ul {
-  margin: 0.15rem 0 0.35rem 0.65rem;
+  margin: 0.35rem 0 0.55rem 1.85rem;
   padding-left: 0.55rem;
   border-left: 1px solid #d2d2d2;
 }
 
+.tableofcontents ul ul li + li {
+  margin-top: 0.2rem;
+}
+
 .tableofcontents ul ul a {
+  display: block;
   font-size: 0.75rem;
   font-weight: 400;
   color: #6a6e73;
+  padding: 0.28rem 0.4rem;
+}
+
+.tableofcontents ul ul a::before {
+  content: none !important;
 }
 
 .highlighttable {
@@ -944,7 +993,7 @@ class#emea {
 
 @media screen and (min-width: 1100px) {
   section {
-    padding-left: 244px;
+    padding-left: 256px;
     box-sizing: border-box;
   }
 
@@ -952,7 +1001,7 @@ class#emea {
     position: fixed;
     top: 6.5rem;
     left: max(16px, calc((100vw - 1170px) / 2 + 20px));
-    width: 220px;
+    width: 232px;
     max-height: calc(100vh - 7.5rem);
     overflow-y: auto;
     z-index: 40;
