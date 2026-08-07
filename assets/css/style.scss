@@ -920,3 +920,48 @@ class#emea {
 .page-intro .editlink {
   margin-left: auto;
 }
+
+.deck-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 0.85rem;
+  width: calc(100% - 40px);
+  margin: 0.5rem 20px 1rem;
+  padding: 0.65rem 0.85rem;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+}
+
+.deck-filter-label {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #151515;
+  margin: 0;
+}
+
+.deck-filter-input {
+  flex: 1 1 220px;
+  min-width: 0;
+  padding: 0.5rem 0.7rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 6px;
+  font-family: 'Red Hat Text', sans-serif;
+  font-size: 0.9375rem;
+  color: #151515;
+  background: #fff;
+}
+
+.deck-filter-input:focus {
+  outline: 2px solid #0066cc;
+  outline-offset: 1px;
+  border-color: #0066cc;
+}
+
+.deck-filter-status {
+  font-size: 0.8125rem;
+  color: #6a6e73;
+  min-height: 1.2em;
+}

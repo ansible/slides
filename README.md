@@ -8,6 +8,12 @@
   <span class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</span>
 </div>
 
+<div class="deck-filter-bar">
+  <label class="deck-filter-label" for="deck-filter">Filter decks</label>
+  <input type="search" id="deck-filter" class="deck-filter-input" placeholder="Search by title, topic, or link text…" autocomplete="off">
+  <span id="deck-filter-status" class="deck-filter-status" aria-live="polite"></span>
+</div>
+
 <div class='parentsean'>
 <div class='tableofcontents' markdown="1">
 
