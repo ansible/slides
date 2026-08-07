@@ -1052,6 +1052,7 @@ class#emea {
   width: 100%;
   min-width: 0;
   height: 100%;
+  background: #fff;
 }
 
 .highlighttable th,
@@ -1059,6 +1060,12 @@ class#emea {
   min-width: 0;
   font-size: 0.875rem;
   vertical-align: top;
+  padding: 0.55rem 0.7rem;
+}
+
+.highlighttable tbody tr,
+.highlighttable tbody td {
+  height: auto;
 }
 
 .highlighttable td {
@@ -1075,6 +1082,7 @@ class#emea {
 .highlighttable th {
   color: #fff !important;
   border-bottom-color: transparent !important;
+  padding: 0.5rem 0.7rem;
 }
 
 .highlighttable .bulletin-new th {
@@ -1094,8 +1102,8 @@ class#emea {
   font-weight: 600;
   color: #151515;
   text-decoration: none;
-  line-height: 1.3;
-  margin-bottom: 0.15rem;
+  line-height: 1.25;
+  margin: 0;
 }
 
 .highlighttable .bulletin-title:hover {
@@ -1103,10 +1111,18 @@ class#emea {
   text-decoration: underline;
 }
 
+.highlighttable .bulletin-meta-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.5rem;
+  margin-top: 0.2rem;
+}
+
 .highlighttable .bulletin-date {
   display: inline-block;
-  margin: 0 0 0.15rem;
-  padding: 0.1rem 0.4rem;
+  margin: 0;
+  padding: 0.08rem 0.4rem;
   font-size: 0.6875rem;
   font-weight: 600;
   letter-spacing: 0.02em;
@@ -1117,9 +1133,16 @@ class#emea {
   line-height: 1.25;
 }
 
+.highlighttable .bulletin-byline {
+  font-size: 0.6875rem;
+  font-weight: 500;
+  color: #6a6e73;
+  line-height: 1.25;
+}
+
 .highlighttable .bulletin-note {
   display: block;
-  margin-top: 0.1rem;
+  margin-top: 0.2rem;
   font-size: 0.75rem;
   color: #6a6e73;
   line-height: 1.3;
