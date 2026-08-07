@@ -105,9 +105,28 @@ img {
 
 // table tweaks
 
-table, th, td {
+table {
+  border-collapse: separate;
+  border-spacing: 0;
   border: 1px solid #999;
-  border-collapse: collapse;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+table th,
+table td {
+  border-right: 1px solid #999;
+  border-bottom: 1px solid #999;
+}
+
+table th:last-child,
+table td:last-child {
+  border-right: none;
+}
+
+table tr:last-child th,
+table tr:last-child td {
+  border-bottom: none;
 }
 
 td, th {
