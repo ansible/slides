@@ -38,8 +38,27 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function updateFromScroll() {
-    var offset = 120;
+    var offset = 140;
     var current = headings[0] ? headings[0].id : null;
+    var scrollBottom =
+      window.scrollY + window.innerHeight;
+    var docHeight = Math.max(
+      document.body.scrollHeight,
+      document.documentElement.scrollHeight
+    );
+
+    // Near page bottom: pick the last heading still above the fold,
+    // so Logos / late sections can become active.
+    if (docHeight - scrollBottom < 120) {
+      for (var j = headings.length - 1; j >= 0; j--) {
+        if (headings[j].getBoundingClientRect().top <= window.innerHeight) {
+          setActive(headings[j].id);
+          return;
+        }
+      }
+      setActive(headings[headings.length - 1].id);
+      return;
+    }
 
     for (var i = 0; i < headings.length; i++) {
       var top = headings[i].getBoundingClientRect().top;

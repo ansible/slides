@@ -180,7 +180,7 @@ Note: A new 2026 Forrester Wave is coming soon, please attend office hours for m
 <tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1BR0wm_QM7IsXQwzjqdQAw4mppLM6WxwbQf36nHmQyJo/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2c001f57-d8ae-49d9-8924-b5b7519e7d56">Content Center</a></td>
 </tr>
 <tr>
 <td>Red Hat Ansible G2 Review Highlights</td>

@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Red+Hat+Text:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
-// Global readability bump (~15%)
+// Global readability bump (~32% from default: 15% then another 15%)
 html {
-  font-size: 115%;
+  font-size: 132%;
 }
 
 // font and color tweaks
@@ -54,6 +54,7 @@ section {
   width: 100%;
   max-width: 1170px;
   padding: 0;
+  padding-bottom: 45vh;
   float: initial;
 }
 
@@ -950,6 +951,7 @@ class#emea {
 .tableofcontents > ul > li > a {
   color: #151515;
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .tableofcontents a:hover {
@@ -960,7 +962,7 @@ class#emea {
 .tableofcontents a.is-active {
   background: #fff;
   color: #ee0000;
-  font-weight: 600;
+  font-weight: 500;
   box-shadow: inset 3px 0 0 #ee0000;
 }
 
@@ -970,7 +972,7 @@ class#emea {
 
 .tableofcontents ul ul a.is-active {
   color: #ee0000;
-  font-weight: 600;
+  font-weight: 500;
   background: #fff;
 }
 
@@ -1166,7 +1168,7 @@ class#emea {
 
 @media screen and (min-width: 1100px) {
   section {
-    padding-left: 280px;
+    padding-left: 310px;
     box-sizing: border-box;
   }
 
@@ -1174,7 +1176,7 @@ class#emea {
     position: fixed;
     top: 6.5rem;
     left: max(16px, calc((100vw - 1170px) / 2 + 20px));
-    width: 250px;
+    width: 280px;
     max-height: calc(100vh - 7.5rem);
     overflow-y: auto;
     z-index: 40;
