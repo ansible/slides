@@ -51,27 +51,26 @@
 <table class="bulletin-new">
 <thead>
 <tr>
-<th>New!</th>
+<th>New</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a>
-<span class="bulletin-meta-row"><span class="bulletin-date">Aug 7, 2026</span></span>
-<span class="bulletin-note">Major global financial services and insurance company</span>
+<span class="bulletin-meta">Aug 7, 2026 · Major global financial services and insurance company</span>
 </td>
 </tr>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a>
-<span class="bulletin-meta-row"><span class="bulletin-date">Aug 7, 2026</span></span>
+<span class="bulletin-meta">Aug 7, 2026</span>
 </td>
 </tr>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour on AAP 2.7</a>
-<span class="bulletin-meta-row"><span class="bulletin-date">Aug 7, 2026</span></span>
+<span class="bulletin-meta">Aug 7, 2026</span>
 </td>
 </tr>
 </tbody>
@@ -80,20 +79,20 @@
 <table class="bulletin-power5">
 <thead>
 <tr>
-<th>Latest Power 5</th>
+<th>Power 5</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Master your AAP 2.7 Pitch</a>
-<span class="bulletin-meta-row"><span class="bulletin-date">Jun 17, 2026</span><span class="bulletin-byline">Tricia McConnell</span></span>
+<span class="bulletin-meta">Jun 17, 2026 · Tricia McConnell</span>
 </td>
 </tr>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Ep 66 — AAP + MetLife Win</a>
-<span class="bulletin-meta-row"><span class="bulletin-date">May 7, 2026</span><span class="bulletin-byline">Harper Buete and Tucker Fisher</span></span>
+<span class="bulletin-meta">May 7, 2026 · Harper Buete and Tucker Fisher</span>
 </td>
 </tr>
 </tbody>
