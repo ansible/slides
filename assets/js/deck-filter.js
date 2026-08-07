@@ -7,9 +7,17 @@ document.addEventListener("DOMContentLoaded", function () {
     return !row.closest(".highlighttable") && !row.closest(".tableofcontents");
   }
 
+  function isCatalogTable(table) {
+    return !table.closest(".highlighttable") && !table.closest(".tableofcontents");
+  }
+
   var rows = Array.prototype.slice
     .call(document.querySelectorAll("section table tbody tr"))
     .filter(isCatalogRow);
+
+  var tables = Array.prototype.slice
+    .call(document.querySelectorAll("section table"))
+    .filter(isCatalogTable);
 
   var sections = Array.prototype.slice.call(
     document.querySelectorAll("section > h1, section > h2")
@@ -29,13 +37,18 @@ document.addEventListener("DOMContentLoaded", function () {
       if (match) visible += 1;
     });
 
+    tables.forEach(function (table) {
+      var visibleRows = table.querySelectorAll("tbody tr:not([hidden])");
+      table.hidden = Boolean(query && visibleRows.length === 0);
+    });
+
     sections.forEach(function (heading) {
       var el = heading.nextElementSibling;
       var hasVisible = false;
       while (el && !/^H[1-2]$/.test(el.tagName)) {
-        if (el.tagName === "TABLE") {
-          var visibleRows = el.querySelectorAll("tbody tr:not([hidden])");
-          if (visibleRows.length) hasVisible = true;
+        if (el.tagName === "TABLE" && !el.hidden) {
+          hasVisible = true;
+          break;
         }
         el = el.nextElementSibling;
       }
