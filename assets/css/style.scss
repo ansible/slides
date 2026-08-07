@@ -11,7 +11,7 @@ html {
 
 :root {
   --content-max: 1600px;
-  --toc-width: 340px;
+  --toc-width: 360px;
   --toc-gap: 24px;
 }
 
@@ -908,7 +908,7 @@ class#emea {
   border-radius: 10px;
   border-left: 3px solid #ee0000;
   margin-bottom: 1rem;
-  font-size: 13px; // keep nav compact even when page type is large
+  font-size: 16px; // left nav readable size
 }
 
 .tableofcontents > p {
@@ -920,7 +920,7 @@ class#emea {
 .tableofcontents strong {
   display: block;
   font-family: 'Red Hat Display', sans-serif;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -950,7 +950,7 @@ class#emea {
   border-radius: 6px;
   color: #4a4a4a;
   text-decoration: none;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 1.3;
   font-weight: 500;
 }
@@ -987,13 +987,13 @@ class#emea {
 .tableofcontents > ul > li > a::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  font-size: 12px;
-  width: 14px;
+  font-size: 14px;
+  width: 16px;
   flex-shrink: 0;
   text-align: center;
   color: #6a6e73;
   speak: none;
-  margin-top: 2px;
+  margin-top: 3px;
 }
 
 .tableofcontents > ul > li > a:hover::before {
@@ -1027,7 +1027,7 @@ class#emea {
 
 .tableofcontents ul ul a {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 400;
   color: #6a6e73;
   padding: 0.22rem 0.35rem;
@@ -1214,8 +1214,16 @@ class#emea {
     width: var(--toc-width);
     max-height: calc(100vh - 7.5rem);
     overflow-y: auto;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE/Edge legacy */
     z-index: 40;
     margin-bottom: 0;
+  }
+
+  .tableofcontents::-webkit-scrollbar {
+    display: none; /* Chrome/Safari */
+    width: 0;
+    height: 0;
   }
 
   .parentsean {
