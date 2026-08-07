@@ -108,20 +108,15 @@ img {
 table {
   border-collapse: separate;
   border-spacing: 0;
-  border: 1px solid #999;
+  border: 1px solid #d2d2d2;
   border-radius: 6px;
   overflow: hidden;
 }
 
 table th,
 table td {
-  border-right: 1px solid #999;
-  border-bottom: 1px solid #999;
-}
-
-table th:last-child,
-table td:last-child {
   border-right: none;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 table tr:last-child th,
@@ -149,7 +144,16 @@ th {
 
 td {
   font-family: 'Red Hat Text';
-  background: #f2f2f2;
+  background: #fff;
+  transition: background-color 0.15s ease;
+}
+
+table tbody tr:nth-child(even) td {
+  background: #f7f7f7;
+}
+
+table tbody tr:hover td {
+  background: #e8f0fe !important;
 }
 
 // codeblock tweaks
@@ -1084,7 +1088,7 @@ class#emea {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  margin: 0 0 0.35rem;
+  margin: 0;
   padding: 0.12rem 0.45rem;
   font-size: 0.6875rem;
   font-weight: 700;
@@ -1095,6 +1099,7 @@ class#emea {
   border: 1px solid #d2d2d2;
   border-radius: 999px;
   line-height: 1.3;
+  flex-shrink: 0;
 }
 
 .highlighttable .bulletin-kind::before {
@@ -1111,8 +1116,16 @@ class#emea {
   content: "\f15c"; /* file-alt */
 }
 
+.highlighttable .bulletin-docs td {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
 .highlighttable .bulletin-docs .bulletin-title {
   margin-bottom: 0;
+  flex: 1;
+  min-width: 0;
 }
 
 @media screen and (min-width: 900px) {
