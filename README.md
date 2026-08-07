@@ -1,11 +1,77 @@
-**Read this in other languages**:
-<br>![uk](https://raw.githubusercontent.com/ansible/slides/main/images/uk.png) [English](README.md),  ![japan](https://raw.githubusercontent.com/ansible/slides/main/images/japan.png)[日本語](README_jp.md).
+<div class="page-intro">
+  <div class="page-intro-meta">
+    <span class="page-lang">
+      <img src="https://raw.githubusercontent.com/ansible/slides/main/images/uk.png" alt="" width="16" height="12"> <a href="README.md">English</a>
+      <span class="page-meta-sep">·</span>
+      <img src="https://raw.githubusercontent.com/ansible/slides/main/images/japan.png" alt="" width="16" height="12"> <a href="README_jp.md">日本語</a>
+    </span>
+    <span class="page-intro-actions">
+      <a class="page-meta-link" href="https://ansible.github.io/slides">ansible.github.io/slides</a>
+      <a class="editlink" target="_new" href="https://github.com/ansible/slides/edit/main/README.md">Edit</a>
+    </span>
+  </div>
+  <h1>Ansible Slide Finder</h1>
+</div>
 
-<h1> Ansible Slide Finder<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README.md">edit</a>]</div></h1>
-<p><a href="https://ansible.github.io/slides">View on website</a></p>
+<div class="deck-filter-bar">
+  <label class="deck-filter-label" for="deck-filter">Filter decks</label>
+  <input type="search" id="deck-filter" class="deck-filter-input" placeholder="Search by title, topic, or link text…" autocomplete="off">
+  <span id="deck-filter-status" class="deck-filter-status" aria-live="polite"></span>
+</div>
 
-<div class='parentsean'>
-<div class='tableofcontents' markdown="1">
+<div class="highlights">
+  <div class="highlight-panel highlight-news">
+    <h2 class="highlight-title">New and recently updated</h2>
+    <ul class="news-list">
+      <li><span class="news-date">August 7th, 2026</span> <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a> <span class="news-note">(major global financial services and insurance company)</span></li>
+      <li><span class="news-date">August 7th, 2026</span> <a target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a></li>
+      <li><span class="news-date">August 7th, 2026</span> <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour on AAP 2.7</a></li>
+    </ul>
+  </div>
+
+  <div class="highlight-panel highlight-power5">
+    <h2 class="highlight-title">Latest Power 5</h2>
+    <p class="highlight-subtitle">Updates for Sales</p>
+    <div class="table-scroll">
+      <table class="table-power5">
+        <thead>
+          <tr>
+            <th>Episode</th>
+            <th>Presenter</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Power 5 - Episode 68 "Master your AAP 2.7 Pitch"</a></td>
+            <td>Tricia McConnell</td>
+            <td>June 17th, 2026</td>
+          </tr>
+          <tr>
+            <td><a target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Power 5 - Episode 66 "Ansible Automation Platform + MetLife Win"</a></td>
+            <td>Harper Buete and Tucker Fisher</td>
+            <td>May 7th, 2026</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="highlight-panel highlight-docs">
+    <h2 class="highlight-title">Important documentation</h2>
+    <ul class="docs-list">
+      <li><span class="docs-tag">KB</span> <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 Aligning Customer Infrastructure to Tested Topologies</a></li>
+      <li><span class="docs-tag">KB</span> <a target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">Red Hat Ansible Automation Platform Life Cycle</a></li>
+      <li><span class="docs-tag">Docs</span> <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models</a></li>
+      <li><span class="docs-tag">Docs</span> <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.7/whats_new-overview_of_redhat_ansible_intro">2.7 Release Notes</a></li>
+    </ul>
+  </div>
+</div>
+
+<div class="page-layout">
+<nav class="tableofcontents" aria-label="On this page" markdown="1">
+
+**On this page**
 
 - [General](#general)
 - [ROI (Return on Investment)](#roi-return-on-investment)
@@ -28,81 +94,9 @@
 - [Reference Architectures](#reference-architectures)
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
-</div>
+</nav>
 
-<div class='highlighttable'>
-<table>
-<thead>
-<tr>
-<th>New and recently updated!</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a> (major global financial services and insurance company)</td>
-</tr>
-<tr>
-<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a></td>
-</tr>
-<tr>
-<td>August 7th, 2026 - <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour on AAP 2.7</a></td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-<table>
-<thead>
-<tr>
-<th>Latest Power 5 (Updates for Sales)</th>
-<th>Presenter</th>
-<th>Date</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Power 5 - Episode 68 "Master your AAP 2.7 Pitch"</a></td>
-<td>Tricia McConnell</td>
-<td>June 17th, 2026</td>
-</tr>
-<tr>
-<td><a target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Power 5 - Episode 66 "Ansible Automation Platform + MetLife Win"</a></td>
-<td>Harper Buete and Tucker Fisher</td>
-<td>May 7th, 2026</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr>
-<th>Important Documentation for the Field</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>KB: <a target="_new" href="https://access.redhat.com/articles/7095801">AAP 2.5 Aligning Customer Infrastructure to Tested Topologies
-</a></td>
-</tr>
-<tr>
-<td>KB: <a target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">Red Hat Ansible Automation Platform Life Cycle
-</a></td>
-</tr>
-<tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models
-</a></td>
-</tr>
-<tr>
-<td>Docs: <a target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/2.7/whats_new-overview_of_redhat_ansible_intro">2.7 Release Notes
-</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-</div>
+<div class="page-main" markdown="1">
 
 # General
 
@@ -774,3 +768,6 @@ href="https://drive.google.com/drive/folders/1mpp-3yhFPttEmtwMSMR2kPM1nQ3-ZVEM?u
 </tr>
 </tbody>
 </table>
+
+</div>
+</div>

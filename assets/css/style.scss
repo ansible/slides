@@ -28,14 +28,22 @@ h4, h5, h6 {
 }
 
 a {
-  color: #337ab7;
+  color: #0066cc;
   font-weight: normal;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+a:hover {
+  color: #004080;
 }
 
 // layout tweaks
 
 body {
   padding: 0;
+  color: #151515;
+  background: #fff;
 }
 
 .wrapper {
@@ -47,7 +55,7 @@ section {
   margin: 0 auto;
   width: 100%;
   max-width: 1170px;
-  padding: 0;
+  padding: 0 0 3rem;
   float: initial;
 }
 
@@ -103,34 +111,91 @@ img {
     border: none;
 }
 
-// table tweaks
+// table tweaks — modern, quieter content tables
 
-table, th, td {
-  border: 1px solid #999;
-  border-collapse: collapse;
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
-td, th {
-  min-width: 100px;
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid #d2d2d2;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  margin: 0 0 1.75rem;
+}
+
+table, th, td {
+  border: none;
+}
+
+th, td {
+  min-width: 0;
+  padding: 0.85rem 1rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+tr:last-child td {
+  border-bottom: none;
 }
 
 @media screen and (max-width: 550px) {
   td, th {
     min-width: initial;
-    width: 25%;
   }
 }
 
 th {
-  font-family: 'Red Hat Display';
+  font-family: 'Red Hat Display', sans-serif;
   vertical-align: middle;
-  font-weight: 700;
-  font-size: 16px;
+  font-weight: 600;
+  font-size: 0.8125rem;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  color: #151515 !important;
+  background: #f5f5f5 !important;
+  border-bottom: 1px solid #d2d2d2;
 }
 
 td {
-  font-family: 'Red Hat Text';
-  background: #f2f2f2;
+  font-family: 'Red Hat Text', sans-serif;
+  font-size: 0.9375rem;
+  line-height: 1.45;
+  background: #fff !important;
+  color: #151515;
+}
+
+tr:nth-child(odd) td {
+  background-color: #fff !important;
+}
+
+tr:hover td {
+  background-color: #fafafa !important;
+}
+
+// Secondary / utility links in tables
+td a[href*="content.redhat.com"],
+td a[href*="docs.google.com"] {
+  color: #6a6e73;
+  font-weight: 500;
+}
+
+td a[href*="content.redhat.com"]:hover,
+td a[href*="docs.google.com"]:hover {
+  color: #151515;
+}
+
+td > a:first-child,
+td a[target="_new"]:not([href*="content.redhat.com"]):not([href*="docs.google.com"]) {
+  color: #0066cc;
+  font-weight: 500;
 }
 
 // codeblock tweaks
@@ -571,13 +636,28 @@ a h3:hover {
 }
 
 .editlink {
-  display: inline-block;
-  padding-left: 5px;
-  font-size: 12px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: #6a6e73 !important;
+  text-decoration: none !important;
+  border: 1px solid #d2d2d2;
+  border-radius: 999px;
+  background: #fff;
+}
+
+.editlink:hover {
+  color: #151515 !important;
+  border-color: #8a8d90;
+  background: #f5f5f5;
 }
 
 .editlink a {
-  font-size: 12px;
+  font-size: inherit;
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap');
@@ -765,14 +845,39 @@ div#cloud-use-cases h2 {
 }
 
 h2 {
-  font-size: 18px;
-  margin-left: 40px;
-  margin-right: 40px;
-  width: calc(100% - 60px);
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1.3;
+  color: #151515;
+  margin: 1.75rem 0 0.85rem;
+  padding-bottom: 0;
+  border-bottom: none;
+  width: 100%;
 }
 
-tr:nth-child(odd) td {
-  background-color: #ffffff;
+.page-main > h1 {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 1.5rem !important;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #151515;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #ee0000;
+  width: 100%;
+}
+
+.page-main > h2 {
+  margin-top: 1.75rem;
+  padding-left: 0.15rem;
+  border-left: 3px solid #d2d2d2;
+  padding-left: 0.65rem;
+}
+
+.page-main > h2:first-child,
+.page-main > h1:first-child {
+  margin-top: 0;
 }
 
 class#financial {
@@ -868,12 +973,431 @@ class#emea {
 }
 
 .tableofcontents {
-  display: inline-block;
-  padding-right: 150px;
+  display: block;
+  padding: 0;
 }
 
 .highlighttable {
-  display: inline-block;
+  display: block;
   vertical-align: top;
-  max-width: 695px;
+  max-width: none;
+}
+
+// ---------------------------------------------------------------------------
+// Slide Finder page redesign
+// ---------------------------------------------------------------------------
+
+.page-intro,
+.deck-filter-bar,
+.highlights,
+.page-layout {
+  width: calc(100% - 40px);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.page-intro {
+  padding: 1.25rem 0 0.5rem;
+}
+
+.page-intro-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  margin-bottom: 0.65rem;
+  font-size: 0.8125rem;
+  color: #6a6e73;
+}
+
+.page-lang img {
+  vertical-align: -1px;
+  margin-right: 2px;
+}
+
+.page-lang a {
+  color: #6a6e73;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.page-lang a:hover {
+  color: #151515;
+  text-decoration: underline;
+}
+
+.page-meta-sep {
+  margin: 0 0.35rem;
+  color: #b8bbbe;
+}
+
+.page-intro-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.page-meta-link {
+  color: #6a6e73 !important;
+  text-decoration: none !important;
+  font-size: 0.75rem;
+}
+
+.page-meta-link:hover {
+  color: #151515 !important;
+  text-decoration: underline !important;
+}
+
+.page-intro h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.deck-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 0.85rem;
+  margin-top: 1rem;
+  margin-bottom: 1.25rem;
+  padding: 0.85rem 1rem;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+}
+
+.deck-filter-label {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: #151515;
+  margin: 0;
+}
+
+.deck-filter-input {
+  flex: 1 1 220px;
+  min-width: 0;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 6px;
+  font-family: 'Red Hat Text', sans-serif;
+  font-size: 0.9375rem;
+  color: #151515;
+  background: #fff;
+}
+
+.deck-filter-input:focus {
+  outline: 2px solid #0066cc;
+  outline-offset: 1px;
+  border-color: #0066cc;
+}
+
+.deck-filter-status {
+  font-size: 0.8125rem;
+  color: #6a6e73;
+  min-height: 1.2em;
+}
+
+.highlights {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.75rem;
+}
+
+.highlight-panel {
+  background: #fff;
+  border: 1px solid #d2d2d2;
+  border-radius: 10px;
+  padding: 1rem 1.1rem 1.1rem;
+  min-width: 0;
+}
+
+.highlight-title {
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  margin: 0 0 0.75rem !important;
+  padding: 0 0 0.5rem !important;
+  border-bottom: none !important;
+  width: auto !important;
+  line-height: 1.3 !important;
+}
+
+.highlight-subtitle {
+  margin: -0.45rem 0 0.75rem;
+  font-size: 0.75rem;
+  color: #6a6e73;
+}
+
+// News: accent bar, list layout, quiet dates
+.highlight-news {
+  border-top: 3px solid #ee0000;
+}
+
+.news-list,
+.docs-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-list li,
+.docs-list li {
+  padding: 0.55rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.news-list li:last-child,
+.docs-list li:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.news-list li:first-child,
+.docs-list li:first-child {
+  padding-top: 0;
+}
+
+.news-date {
+  display: block;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #6a6e73;
+  margin-bottom: 0.15rem;
+}
+
+.news-note {
+  color: #6a6e73;
+  font-size: 0.8125rem;
+}
+
+.news-list a {
+  font-weight: 600;
+  color: #151515;
+  text-decoration: none;
+}
+
+.news-list a:hover {
+  color: #ee0000;
+  text-decoration: underline;
+}
+
+// Power 5: denser data table inside panel
+.highlight-power5 {
+  border-top: 3px solid #151515;
+}
+
+.highlight-power5 .table-scroll {
+  margin: 0 -0.25rem;
+}
+
+.table-power5 {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  font-size: 0.8125rem;
+}
+
+.table-power5 th {
+  background: transparent !important;
+  border-bottom: 1px solid #d2d2d2;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #6a6e73;
+}
+
+.table-power5 td {
+  padding: 0.55rem 0.5rem;
+  font-size: 0.8125rem;
+  background: transparent !important;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.table-power5 tr:last-child td {
+  border-bottom: none;
+}
+
+.table-power5 tr:hover td {
+  background: #fafafa !important;
+}
+
+.table-power5 a {
+  font-weight: 600;
+  color: #151515;
+  text-decoration: none;
+}
+
+.table-power5 a:hover {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+// Docs: quiet list with tags
+.highlight-docs {
+  border-top: 3px solid #6a6e73;
+  background: #fafafa;
+}
+
+.docs-tag {
+  display: inline-block;
+  min-width: 2.4rem;
+  margin-right: 0.35rem;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.625rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6a6e73;
+  background: #fff;
+  border: 1px solid #d2d2d2;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.docs-list a {
+  color: #6a6e73;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.docs-list a:hover {
+  color: #151515;
+  text-decoration: underline;
+}
+
+// Two-column: sticky TOC + main catalog
+.page-layout {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 1.75rem;
+  align-items: start;
+  margin-bottom: 2rem;
+}
+
+.tableofcontents {
+  position: sticky;
+  top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  padding: 0.85rem 0.9rem;
+  background: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  border-left: 3px solid #ee0000;
+}
+
+.tableofcontents p,
+.tableofcontents > p {
+  margin: 0 0 0.5rem;
+}
+
+.tableofcontents strong,
+.tableofcontents > p strong {
+  display: block;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6a6e73;
+}
+
+.tableofcontents ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tableofcontents li {
+  margin: 0;
+  padding: 0;
+}
+
+.tableofcontents li + li {
+  margin-top: 0.15rem;
+}
+
+.tableofcontents a {
+  display: block;
+  padding: 0.28rem 0.4rem;
+  border-radius: 4px;
+  color: #151515;
+  text-decoration: none;
+  font-size: 0.8125rem;
+  line-height: 1.35;
+  font-weight: 500;
+}
+
+.tableofcontents a:hover {
+  background: #fff;
+  color: #ee0000;
+}
+
+.tableofcontents ul ul {
+  margin: 0.15rem 0 0.35rem 0.65rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid #d2d2d2;
+}
+
+.tableofcontents ul ul a {
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #6a6e73;
+}
+
+.page-main {
+  min-width: 0;
+}
+
+.page-main > table {
+  width: 100%;
+}
+
+.deck-filter-hidden {
+  display: none !important;
+}
+
+@media screen and (max-width: 960px) {
+  .highlights {
+    grid-template-columns: 1fr;
+  }
+
+  .page-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .tableofcontents {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .page-intro h1 {
+    font-size: 1.65rem;
+  }
+
+  .page-main table,
+  .table-scroll table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  th, td {
+    padding: 0.7rem 0.75rem;
+  }
 }
