@@ -31,8 +31,15 @@ document.addEventListener("DOMContentLoaded", function () {
       link.classList.toggle("is-active", link === linkById[id]);
     });
 
+    // Only adjust scroll inside a fixed TOC panel.
+    // On mobile the TOC is in normal document flow, so scrollIntoView
+    // would yank the whole page back to the menu.
     var activeLink = linkById[id];
-    if (activeLink && typeof activeLink.scrollIntoView === "function") {
+    if (
+      activeLink &&
+      window.getComputedStyle(toc).position === "fixed" &&
+      typeof activeLink.scrollIntoView === "function"
+    ) {
       activeLink.scrollIntoView({ block: "nearest", inline: "nearest" });
     }
   }
