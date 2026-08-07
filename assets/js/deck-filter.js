@@ -3,21 +3,26 @@ document.addEventListener("DOMContentLoaded", function () {
   var status = document.getElementById("deck-filter-status");
   if (!input) return;
 
-  function isCatalogRow(row) {
-    return !row.closest(".highlighttable") && !row.closest(".tableofcontents");
+  function isFilterableRow(row) {
+    return !row.closest(".tableofcontents");
   }
 
-  function isCatalogTable(table) {
-    return !table.closest(".highlighttable") && !table.closest(".tableofcontents");
+  function isFilterableTable(table) {
+    return !table.closest(".tableofcontents");
   }
 
   var rows = Array.prototype.slice
     .call(document.querySelectorAll("section table tbody tr"))
-    .filter(isCatalogRow);
+    .filter(isFilterableRow);
 
   var tables = Array.prototype.slice
     .call(document.querySelectorAll("section table"))
-    .filter(isCatalogTable);
+    .filter(isFilterableTable);
+
+  var highlightWrap = document.querySelector(".highlighttable");
+  var bulletinTables = highlightWrap
+    ? Array.prototype.slice.call(highlightWrap.querySelectorAll("table"))
+    : [];
 
   var sections = Array.prototype.slice.call(
     document.querySelectorAll("section > h1, section > h2")
@@ -41,6 +46,13 @@ document.addEventListener("DOMContentLoaded", function () {
       var visibleRows = table.querySelectorAll("tbody tr:not([hidden])");
       table.hidden = Boolean(query && visibleRows.length === 0);
     });
+
+    if (highlightWrap) {
+      var anyBulletinVisible = bulletinTables.some(function (table) {
+        return !table.hidden;
+      });
+      highlightWrap.hidden = Boolean(query && !anyBulletinVisible);
+    }
 
     sections.forEach(function (heading) {
       var el = heading.nextElementSibling;
