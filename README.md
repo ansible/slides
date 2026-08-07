@@ -39,13 +39,13 @@
 </thead>
 <tbody>
 <tr>
-<td>June 12th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1HElTQjvI0HEP2U0Y4mY2-WwC175ywwa_lc3rWp8lT0U/edit?usp=sharing">AI + Ansible - 301</a></td>
+<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a></td>
 </tr>
 <tr>
-<td>May 7th, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1x01wBxJ5gKrya4QxDDWUGldkM0rNYrv0CcnZmtTO0sU/edit?usp=sharing">Ansible Automation Platform 2.7</a></td>
+<td>August 7th, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Master your AAP 2.7 Pitch</a></td>
 </tr>
 <tr>
-<td>May 7th, 2026 - Know Before You Go — ABU/HCE/Edge @ Summit: <a target="_new" href="https://docs.google.com/presentation/d/1vhInhJ-nw8gthnULSizRt4PeJXVBhV95MV398-i4dGk/edit?usp=sharing">Slides</a> | <a target="_new" href="https://docs.google.com/document/d/1065PsGzneyksGnc4U-mrAS6-OLq78Z2EQJThKRfATr0/edit?usp=sharing">Google Doc</a></td>
+<td>August 7th, 2026 - <a target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour on AAP 2.7</a></td>
 </tr>
 </tbody>
 </table>
