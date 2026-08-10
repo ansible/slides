@@ -9,6 +9,10 @@
       <img src="https://raw.githubusercontent.com/ansible/slides/main/images/japan.png" alt="" width="16" height="12">
       <span>日本語</span>
     </a>
+    <a class="lang-btn" href="README_es.html" hreflang="es">
+      <img src="assets/images/spain.png" alt="" width="16" height="12">
+      <span>ES</span>
+    </a>
   </span>
   <span class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/README_jp.md">編集</a>]</span>
 </div>
