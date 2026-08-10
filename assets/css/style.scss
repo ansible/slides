@@ -1386,6 +1386,9 @@ section > h2 + .deck-list {
 
 .deck-list {
   list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
   margin: 0.85rem 20px 2.5rem !important;
   padding: 0;
   width: calc(100% - 40px) !important;
@@ -1395,15 +1398,24 @@ section > h2 + .deck-list {
 }
 
 .deck-item {
-  margin: 0 0 1.35rem;
-  padding: 0 0 1.35rem;
-  border-bottom: 1px solid #e6e6e6;
+  margin: 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: #fff;
+  box-sizing: border-box;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.deck-item:hover {
+  background: #fafafa;
+  border-color: #c8c8c8;
 }
 
 .deck-item:last-child {
   margin-bottom: 0;
-  padding-bottom: 0.15rem;
-  border-bottom: none;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid #e0e0e0;
 }
 
 .deck-title {
@@ -1416,7 +1428,7 @@ section > h2 + .deck-list {
 }
 
 .deck-access {
-  margin-top: 0.2rem;
+  margin-top: 0.25rem;
   font-size: 0.8125rem;
   line-height: 1.45;
   color: #6a6e73;
