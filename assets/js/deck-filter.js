@@ -7,17 +7,21 @@ document.addEventListener("DOMContentLoaded", function () {
     return !row.closest(".tableofcontents");
   }
 
-  function isFilterableTable(table) {
-    return !table.closest(".tableofcontents");
+  function isFilterableGroup(el) {
+    return !el.closest(".tableofcontents") && !el.closest(".highlighttable");
   }
 
   var rows = Array.prototype.slice
-    .call(document.querySelectorAll("section table tbody tr"))
+    .call(
+      document.querySelectorAll(
+        "section table tbody tr, section .deck-list > .deck-item"
+      )
+    )
     .filter(isFilterableRow);
 
-  var tables = Array.prototype.slice
-    .call(document.querySelectorAll("section table"))
-    .filter(isFilterableTable);
+  var groups = Array.prototype.slice
+    .call(document.querySelectorAll("section table, section .deck-list"))
+    .filter(isFilterableGroup);
 
   var highlightWrap = document.querySelector(".highlighttable");
   var bulletinTables = highlightWrap
@@ -45,6 +49,15 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   }
 
+  function visibleCountInGroup(group) {
+    if (group.classList.contains("deck-list")) {
+      return Array.prototype.filter.call(group.children, function (child) {
+        return child.classList.contains("deck-item") && !child.hidden;
+      }).length;
+    }
+    return group.querySelectorAll("tbody tr:not([hidden])").length;
+  }
+
   function applyFilter() {
     var queryTokens = tokens(input.value);
     var query = queryTokens.join(" ");
@@ -56,9 +69,8 @@ document.addEventListener("DOMContentLoaded", function () {
       if (match) visible += 1;
     });
 
-    tables.forEach(function (table) {
-      var visibleRows = table.querySelectorAll("tbody tr:not([hidden])");
-      table.hidden = Boolean(query && visibleRows.length === 0);
+    groups.forEach(function (group) {
+      group.hidden = Boolean(query && visibleCountInGroup(group) === 0);
     });
 
     if (highlightWrap) {
@@ -72,7 +84,10 @@ document.addEventListener("DOMContentLoaded", function () {
       var el = heading.nextElementSibling;
       var hasVisible = false;
       while (el && !/^H[1-2]$/.test(el.tagName)) {
-        if (el.tagName === "TABLE" && !el.hidden) {
+        var isGroup =
+          el.tagName === "TABLE" ||
+          (el.classList && el.classList.contains("deck-list"));
+        if (isGroup && !el.hidden) {
           hasVisible = true;
           break;
         }

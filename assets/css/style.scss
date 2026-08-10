@@ -1381,14 +1381,43 @@ class#emea {
   font-weight: 500;
 }
 
-/* Single-column catalog rows */
-section > table thead th:only-child,
-section > table tbody td:only-child {
-  width: 100%;
+.deck-list {
+  list-style: none;
+  margin: 0.65rem 20px 1.75rem !important;
+  padding: 0;
+  width: calc(100% - 40px) !important;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+  box-sizing: border-box;
 }
 
-section > table td > ul {
-  margin: 0.4rem 0 0;
+.deck-item {
+  margin: 0;
+  padding: 0.9rem 1rem;
+  border-bottom: 1px solid #ececec;
+}
+
+.deck-item:last-child {
+  border-bottom: none;
+}
+
+.deck-title {
+  display: block;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.35;
+  color: #151515;
+}
+
+.deck-item > .info-bubble {
+  margin-top: 0.55rem;
+}
+
+.deck-item > ul {
+  margin: 0.45rem 0 0;
   padding-left: 1.15rem;
   font-size: 0.875rem;
 }

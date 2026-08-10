@@ -134,512 +134,350 @@
 
 # プラットフォーム
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible Automation Platform ピッチデッキfor AE (2023 Version)
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform ピッチデッキfor AE (2023 Version)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
 <ul><li><a href="https://videos.learning.redhat.com/media/1_0dz25zji" target="_blank">How to use this deck (Video)</a></li></ul>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Automation Platform テクニカルデッキ for SSP &amp; SA
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform テクニカルデッキ for SSP &amp; SA</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1269W26vOjapyDnPIYcmBX0eif6Y1HpTxeV6wmSNfpXQ" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Automation Platform Strategy &amp; Roadmap
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform Strategy &amp; Roadmap</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)
+</li>
+<li class="deck-item">
+<strong class="deck-title">Red Hat Ansible Automation Platform: プラットフォームセキュリティの価値提案 (Internal Only)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1KHgotpBYHjwf6XLkyNfbyx_DSit9vllBfyAZZW0cIBE/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Automation Platform: セキュリティの自動化 (External OK)
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform: セキュリティの自動化 (External OK)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1oRvMn_ig2mTAcSPSPwZbHa7q3QbWm5k4U_YBrRBpP-I/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Validated Content
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Validated Content</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1ERBB6kR8SSybR1AsopcCSkXgwIi8HzGJ-5lCFWZDwts" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # アナリスト - マーケットリサーチ
 
-<table>
-<tbody>
-<tr>
-<td>
-ABU | 2024 Forrester Wave for Infrastructure Automation Slide (英語版)
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">ABU | 2024 Forrester Wave for Infrastructure Automation Slide (英語版)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-IDC 2024: Unlock the Business Value of IT Automation
+</li>
+<li class="deck-item">
+<strong class="deck-title">IDC 2024: Unlock the Business Value of IT Automation</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1cSAE2CbJ5ICJSzLJSTb5HCtFBrOxYex5FJ7YJv2QIfk/edit#slide=id.g127818c861e_0_1300" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Red Hat Ansible G2 Review Highlights
+</li>
+<li class="deck-item">
+<strong class="deck-title">Red Hat Ansible G2 Review Highlights</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=61aad783-0421-440b-b959-b73efc586502" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # ROI (Return on Investment)
 
-<table>
-<tbody>
-<tr>
-<td>
-Red Hat Ansible Automation Platform by the numbers
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Red Hat Ansible Automation Platform by the numbers</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/" target="_new">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較 （RHCCは英語版）
+</li>
+<li class="deck-item">
+<strong class="deck-title">コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較 （RHCCは英語版）</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-ROI 計算ツール (IDC 製作) : 
-AAP によるITオートメーションのビジネス価値とインパクトの特定と算出
+</li>
+<li class="deck-item">
+<strong class="deck-title">ROI 計算ツール (IDC 製作) : 
+AAP によるITオートメーションのビジネス価値とインパクトの特定と算出</strong>
 <div class="deck-access"><a href="https://redhatansibleroi.com/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://docs.google.com/presentation/d/1dIze8IHgspD2PT-yaTpzPuYxfk3ZoeZZUgqZ2DDUbKM/edit?usp=sharing" target="_blank">デッキ</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-簡易 Ansible 時間/コストセービングツール: 
-Red Hatポータルツールを使用したハイレベルな時間およびコストの削減
+</li>
+<li class="deck-item">
+<strong class="deck-title">簡易 Ansible 時間/コストセービングツール: 
+Red Hatポータルツールを使用したハイレベルな時間およびコストの削減</strong>
 <div class="deck-access"><a href="https://www.redhat.com/savetime" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4/edit?usp=sharing" target="_blank">デッキ</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-洗練されたコストセービングスプレッドシート: 
-スプレッドシートを使用したハイレベルな時間およびコスト削減
+</li>
+<li class="deck-item">
+<strong class="deck-title">洗練されたコストセービングスプレッドシート: 
+スプレッドシートを使用したハイレベルな時間およびコスト削減</strong>
 <div class="deck-access"><a href="https://docs.google.com/spreadsheets/d/1XI3zKIAI4uvLY0rbYDeacatSFj38mIwjng4ZN3Wwvyg/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://docs.google.com/presentation/d/190gZ4Eej2M5x6y373G18FB99Tqn3hcyhOBHSAp8BwL4" target="_blank">デッキ</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Tech Target: Economic Benefits of AAP key takeaways
+</li>
+<li class="deck-item">
+<strong class="deck-title">Tech Target: Economic Benefits of AAP key takeaways</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1biZaJfCjpAS2QYL_xpp96lNNcUN8N8whLDHEUohxOBc/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # Release information
 
-<table>
-<tbody>
-<tr>
-<td>
-AAP 2.5 Overview (Sep 30, 2024)
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">AAP 2.5 Overview (Sep 30, 2024)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Ax-XpRn9L4Afbk4JiBkehlVm9QVJ-x-WXG36on1GMls/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=3c0b14ee-9cf5-4a85-9b7d-10a53cd44390" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-AAP 2.4 Overview (Jun 27, 2023)
+</li>
+<li class="deck-item">
+<strong class="deck-title">AAP 2.4 Overview (Jun 27, 2023)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1JKvNpY4OEM2-gSZtxhciaBdkteMK2KoNNs05MP764Rc/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=9640db7b-064c-4074-8b76-6b7df5bf8cfe" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # EDA - Event-Driven Ansible
 
-<table>
-<tbody>
-<tr>
-<td>
-Event-Driven Ansible - 101
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Event-Driven Ansible - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1hr2ocZPAQC8KzFyo5_ugxe9tfdiBnjZlcCGs8krST5A/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=9d0fa55f-d100-4497-9572-0150eb2470d8" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Event-Driven Ansible - 201
+</li>
+<li class="deck-item">
+<strong class="deck-title">Event-Driven Ansible - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/128f9ropoc2IgD4AFPelQRR3axv6T8Wn6FezxjYUEzeE/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=699ef55b-e0a9-4351-8e1d-b0614e5e93ec" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Event-Driven Ansible - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Event-Driven Ansible - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=44938f0c-c48e-4353-9782-fe8e48d3a0ce" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # エッジの自動化
 
-<table>
-<tbody>
-<tr>
-<td>
-AAP Edge Collateral
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">AAP Edge Collateral</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Rn1sw75wfoMm1bCT-Gn5XKUPjaSvwv2FW5-m81cuj4g/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">—</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible エッジ自動化 - 101
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible エッジ自動化 - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1hx648sSdFQ5OpSsbg6bA1lx25aZxQnUY21BsZofqYco/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=9ed45b8b-c813-4836-a303-f2c59f63a756" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible エッジ自動化 - 201
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible エッジ自動化 - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/17wWU9J3SIWbK6lqIj-ntlRNj4PH08DN22iR3OWILsrk/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=fdc49113-f050-4fb3-bb41-8cb15a76526e" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible エッジ自動化 - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible エッジ自動化 - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Buhzk4XGPBbaGFQTq6Ohl2iUzUCi_7BsLE6nAAKVg0k/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=b0373c76-8685-4a13-afed-8427d88fe589" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # ハイブリッドクラウドの自動化
 
-<table>
-<tbody>
-<tr>
-<td>
-Hybrid Cloud Automation 101 - Introduction
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Hybrid Cloud Automation 101 - Introduction</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/18GNw9U2iEqS1YyiqgFSOvTxnWGuybQrbOmoWumJpt-U/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f567f2e9-a82b-46e8-8b75-b95277a2e987" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 
 ## パブリッククラウド
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible Public Cloud  - 201
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Public Cloud  - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fwiRitEGIoiv5acYtg49lBhmMXl8ZZNaUlpvudjM_2I/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e08128c8-c26c-43ea-81e0-5e29bf1f69af" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Public Cloud  - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Public Cloud  - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e6eae1f-d1fb-4da1-9fc4-c35aab2bcfb6" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Terraform Collection とプロバーダーの概要
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Terraform Collection とプロバーダーの概要</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1o8NuU3pJJZvXXFH8Tmc6HI6ZcwZs-IhC2B9pvCbdLAs/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 ## オンクラウド
 
-<table>
-<tbody>
-<tr>
-<td>
-AAP on AWS - Tech deck
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">AAP on AWS - Tech deck</strong>
 <div class="deck-access"><span class="cell-status">—</span><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">—</span></div>
-</td>
-</tr>
-<tr>
-<td>
-AAP on Azure - Tech deck
+</li>
+<li class="deck-item">
+<strong class="deck-title">AAP on Azure - Tech deck</strong>
 <div class="deck-access"><span class="cell-status">—</span><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">—</span></div>
-</td>
-</tr>
-<tr>
-<td>
-AAP on Google Cloud - Tech deck
+</li>
+<li class="deck-item">
+<strong class="deck-title">AAP on Google Cloud - Tech deck</strong>
 <div class="deck-access"><span class="cell-status">—</span><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">—</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 ## クラウドネイティブ
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible クラウドネイティブ - 201
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible クラウドネイティブ - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1mr6DwUMlvh13Lk9Ruh_-ILANIPFNXIjZ9kR7shdThhI/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a48744c9-c3f0-46f7-a518-21ba5f4329f2" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible クラウドネイティブ - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible クラウドネイティブ - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/17irXtCOCmZg9bvhNj1N-XAUlHcl9ea7I9O56sS0UHLU/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b9012cfb-df25-4185-8c06-bd9c95d25f7d" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 ## OpenShift Virtualization
 
-<table>
-<tbody>
-<tr>
-<td>
-Content Kit
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Content Kit</strong>
 <div class="deck-access"><a href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/" target="_new">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible OpenShift Virtualization - 101
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible OpenShift Virtualization - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/14Lgwf7Df1CPRFPMgankaoCvvcWslMzdZhFoTPSe580A/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=vrxZX1c31D&amp;id=f1e0f500-5814-4b62-a74f-d6689c62441b&amp;query=ABU%20%7C%20AVA%20%7C%20101%20-%20Ansible%20OpenShift%20Virtualization%20Automation%20-%20Introduction_ja" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible OpenShift Virtualization - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible OpenShift Virtualization - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/19T6tSiNSha846_-6oGXpgNbewCy95p7DEjnaXCfNdss/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=Q2KFZaCWEn&amp;id=08c67177-0266-4353-8738-a58d06f59a6e&amp;query=ABU%20%7C%20AVA%20%7C%20301%20-%20Ansible%20OpenShift%20Virtualization%20Automation_ja" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-OpenShift Virtualization Migration Factory Ansible Collection
+</li>
+<li class="deck-item">
+<strong class="deck-title">OpenShift Virtualization Migration Factory Ansible Collection</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1lrqhXmnrdbdZmGG9xT17xQQMtp33LkGFu2gl4BTrtxI/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?fusionQueryId=jPilscC7zl&amp;id=3ca8b1dd-5138-4398-bf7d-e3d097dd37b9&amp;query=OpenShift%20Virtualization%20Ansible%20Migration%20Factory%20Collection_ja" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 ## プライベートクラウド - VMware
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible プライベートクラウド - 201
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible プライベートクラウド - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1G0N2gcprR_SVKZJk6dBCs5nelBq-nAkOeAHuWVmix0w/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ab4c475f-2434-4924-b927-b9f083d4108f" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible プライベートクラウド - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible プライベートクラウド - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1rNDTUJaQ0fozuLqIeDEr4BuF1yXpNvqSwXalrV4WO90/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c2611445-31cc-45a1-b332-c394d7a45c34" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # Lightspeed AI
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible Lightspeed with IBM Watson Code Assistant 101
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Lightspeed with IBM Watson Code Assistant 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/15S-ls1E-HFeDPUXDWCojmYzzN2dcrSNxV2vW46NxdTk/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Lightspeed Sales Enablement Overview
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Lightspeed Sales Enablement Overview</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/10pwzJmYaWUQVzfOWwrrTB5e08ymUoUWvLG1PPVaFgYo/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Lightspeed with IBM Watson Code Assistant Technical Preview Overview (Jun 26, 2023)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1kp3neTC9DRShtGM43LQ9nE-wZZOcfY7hXV0UdNx8QSc/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # Middleware
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible for Middleware
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible for Middleware</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/166VOoOEIJrdA_PfmcDOp6o_181KleybPbWNYweakUPk/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 
 # ネットワークの自動化
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible ネットワーク自動化 - 101
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible ネットワーク自動化 - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible ネットワーク自動化 - 201
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible ネットワーク自動化 - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1cHAuyt4p4r0vKmoi5w2svnI0GGyjRkTycjgwY_uFPJs/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8dde1a1a-e829-49b0-a7dd-91c5d75e321e" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible ネットワーク自動化 - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible ネットワーク自動化 - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1KIwPMXy8fKFkoB0kyXj_yQpVkYDcNuwNKz66Ldf_8BA/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c0f2b12-abef-4e44-8b12-c0d1e1328046" target="_blank">パートナー</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # インフラの自動化
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible インフラ自動化 - 101
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible インフラ自動化 - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1yb-Z6nGDDHXWWLPEkk_67jXhdIx5ZF23hkMhtYa9p4Y/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c1799f02-9704-468d-80bc-5060acd51162" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible インフラ自動化 - 201
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible インフラ自動化 - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1yVG58w4Iq2Py3don2sc3gHXAv1bA-mn1GGsijukqAT0/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e72899a-59d7-4ef7-a461-026175c24f01" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible インフラ自動化 - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible インフラ自動化 - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c6560bf-50b6-4ce0-97b5-8bbe1dbb96e9" target="_blank">パートナー</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Windows Automation
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Windows Automation</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1kWyvZwdzhDug1MzXM6cdtRQurohSY9HHlLTtegSir0M/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">近日公開</span></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # セキュリティの自動化
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible セキュリティ自動化 - 101
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible セキュリティ自動化 - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1eHZOCBOIj2XoY9zXfqtYjvWsl_WBmqldMpzk4boeJ0I/" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible セキュリティ自動化 - 201
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible セキュリティ自動化 - 201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1OGJqp3e-_ET_1N_e-wNWu03drKQ17s47UQeGmfWHa80/" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible セキュリティ自動化 - 301
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible セキュリティ自動化 - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1XxqBZAAno7IidQRacxSMXVrvhYegKNtwuK6YMXMQRtw/" target="_blank">社員</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # ServiceNow ITSM Automation
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible Automation Platform for ServiceNow ITSM
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform for ServiceNow ITSM</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1CrjQzOsPCfcq4RgzQBYQw1h-1Y2oqslsqJiSUe52Vxo/" target="_blank">社員</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # リファレンスアーキテクチャー
 
-<table>
-<tbody>
-<tr>
-<td>
-Ansible Automation Platform 2.1 の導入
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform 2.1 の導入</strong>
 <div class="deck-access"><a href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Red Hat OpenShift への Ansible Automation Platform 2 のデプロイ
+</li>
+<li class="deck-item">
+<strong class="deck-title">Red Hat OpenShift への Ansible Automation Platform 2 のデプロイ</strong>
 <div class="deck-access"><a href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Ansible Automation Platform 1.2 から 2 への移行ガイド
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Automation Platform 1.2 から 2 への移行ガイド</strong>
 <div class="deck-access"><a href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index" target="_blank">社員</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
 
 # Logos, Graphics, Icons and Brand Rules
 
-<table>
-<tbody>
-<tr>
-<td>
-Product component icon library
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Product component icon library</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1LkMrfvfOrZ8JJD8tm1PhSTIru20MkNiH0H7J8Jz8VXY/edit?usp=sharing" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Red Hat Ansible Automation Platform: technology icons - Design Guidelines
+</li>
+<li class="deck-item">
+<strong class="deck-title">Red Hat Ansible Automation Platform: technology icons - Design Guidelines</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/17yXBuN5WOw8BL0-FTFGCcRG8HqIii3rR25-s9Qe_IBc/edit?usp=sharing" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Red Hat Icon Repository
+</li>
+<li class="deck-item">
+<strong class="deck-title">Red Hat Icon Repository</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1SRhy8-bYBgaA3Jsi1t_Fxz-Yo9ORgdRy5Kec9hg_wSM/edit?usp=sharing" target="_blank">社員</a></div>
-</td>
-</tr>
-<tr>
-<td>
-Red Hat Ansible Automation Platform - Logos
+</li>
+<li class="deck-item">
+<strong class="deck-title">Red Hat Ansible Automation Platform - Logos</strong>
 <div class="deck-access"><a href="https://drive.google.com/drive/folders/1mpp-3yhFPttEmtwMSMR2kPM1nQ3-ZVEM?usp=drive_link" target="_blank">社員</a></div>
-</td>
-</tr>
-</tbody>
-</table>
+</li>
+</ul>
