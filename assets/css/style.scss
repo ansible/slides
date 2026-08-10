@@ -152,7 +152,12 @@ th {
   font-family: 'Red Hat Display';
   vertical-align: middle;
   font-weight: 700;
-  font-size: 1rem; // was 16px
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  background: #f4f4f4 !important;
+  color: #151515 !important;
+  border-bottom: 1px solid #e0e0e0 !important;
 }
 
 td {
@@ -1139,29 +1144,33 @@ class#emea {
   line-height: 1.35;
 }
 
+.highlighttable tbody tr:nth-child(even) td,
+.highlighttable tbody tr:hover td {
+  background: #fff !important;
+}
+
 .highlighttable .bulletin-kind {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3rem;
-  margin: 0 0.45rem 0 0;
-  padding: 0.08rem 0.4rem;
-  font-size: 0.625rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  display: block;
+  margin: 0.15rem 0 0;
+  padding: 0;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
   color: #6a6e73;
-  background: #f0f0f0;
-  border: 1px solid #d2d2d2;
-  border-radius: 999px;
-  line-height: 1.3;
-  vertical-align: middle;
+  background: none;
+  border: none;
+  border-radius: 0;
+  line-height: 1.35;
   white-space: nowrap;
 }
 
 .highlighttable .bulletin-kind::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  font-size: 0.65rem;
+  font-size: 0.7rem;
+  margin-right: 0.35rem;
+  color: #8a8d90;
 }
 
 .highlighttable .bulletin-kind--kb::before {
@@ -1172,16 +1181,8 @@ class#emea {
   content: "\f15c"; /* file-alt */
 }
 
-.highlighttable .bulletin-docs td {
-  word-break: normal;
-  overflow-wrap: anywhere;
-}
-
 .highlighttable .bulletin-docs .bulletin-title {
-  display: inline;
-  margin-bottom: 0;
-  word-break: normal;
-  overflow-wrap: anywhere;
+  display: block;
 }
 
 .highlighttable td,
@@ -1345,33 +1346,62 @@ class#emea {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.65rem 0.85rem;
+  gap: 0.5rem 0.85rem;
   width: calc(100% - 40px);
-  margin: 0.5rem 20px 1rem;
-  padding: 0.65rem 0.85rem;
-  background: #f5f5f5;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
+  margin: 0.35rem 20px 1.15rem;
+  padding: 0;
+  background: transparent;
+  border: none;
+}
+
+.deck-filter-field {
+  position: relative;
+  flex: 1 1 280px;
+  min-width: 0;
 }
 
 .deck-filter-label {
-  font-family: 'Red Hat Display', sans-serif;
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: #151515;
-  margin: 0;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.deck-filter-icon {
+  position: absolute;
+  left: 0.85rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #6a6e73;
+  pointer-events: none;
+  line-height: 1;
+  z-index: 1;
+}
+
+.deck-filter-icon::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f002"; /* search */
+  font-size: 0.875rem;
 }
 
 .deck-filter-input {
-  flex: 1 1 220px;
+  width: 100%;
+  box-sizing: border-box;
   min-width: 0;
-  padding: 0.5rem 0.7rem;
+  padding: 0.7rem 0.9rem 0.7rem 2.35rem;
   border: 1px solid #d2d2d2;
-  border-radius: 6px;
+  border-radius: 999px;
   font-family: 'Red Hat Text', sans-serif;
   font-size: 0.9375rem;
   color: #151515;
   background: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
 }
 
 .deck-filter-input:focus {
@@ -1384,4 +1414,21 @@ class#emea {
   font-size: 0.8125rem;
   color: #6a6e73;
   min-height: 1.2em;
+}
+
+.catalog-lede {
+  margin-top: 1.75rem !important;
+  margin-bottom: 0.85rem !important;
+  padding-top: 1.35rem;
+  border-top: 1px solid #e6e6e6;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #6a6e73;
+}
+
+section > h1#general {
+  margin-top: 0.35rem;
 }
