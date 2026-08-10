@@ -1449,6 +1449,108 @@ section > h2 + .deck-list {
   font-weight: 500;
 }
 
+.deck-partners-pending {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  vertical-align: baseline;
+}
+
+.deck-partners-label {
+  color: #6a6e73;
+  font-weight: 500;
+}
+
+.deck-partners-help {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.deck-partners-info-btn {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.05rem;
+  height: 1.05rem;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #6a6e73;
+  border-radius: 50%;
+  background: transparent;
+  color: #6a6e73;
+  cursor: help;
+  line-height: 1;
+}
+
+.deck-partners-info-btn:hover,
+.deck-partners-info-btn:focus {
+  border-color: #0066cc;
+  color: #0066cc;
+  outline: none;
+}
+
+.deck-partners-info-btn:focus-visible {
+  outline: 2px solid #0066cc;
+  outline-offset: 2px;
+}
+
+.deck-partners-info-icon::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f129"; /* info */
+  font-size: 0.55rem;
+  line-height: 1;
+}
+
+.deck-partners-tip {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 0.45rem);
+  transform: translateX(-50%);
+  z-index: 20;
+  width: max-content;
+  max-width: min(18.5rem, 70vw);
+  padding: 0.55rem 0.7rem;
+  border: 1px solid #d2d2d2;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  color: #151515;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.4;
+  text-align: left;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.12s ease, visibility 0.12s ease;
+}
+
+.deck-partners-tip::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border: 5px solid transparent;
+  border-top-color: #fff;
+  filter: drop-shadow(0 1px 0 #d2d2d2);
+}
+
+.deck-partners-help:hover .deck-partners-tip,
+.deck-partners-help:focus-within .deck-partners-tip {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.deck-partners-tip a {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 .deck-item > .info-bubble {
   margin-top: 0.55rem;
 }
