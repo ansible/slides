@@ -36,8 +36,24 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{ '/assets/css/prism-vsc-dark-plus.css' | relative_url}}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% assign slides_ux_mode = nil %}
+    {% if page.name == 'README.md' %}
+      {% assign slides_ux_mode = 'classic' %}
+    {% elsif page.name == 'ux.md' or page.url contains '/ux' %}
+      {% assign slides_ux_mode = 'new' %}
+    {% endif %}
+    {% if slides_ux_mode %}
+    <script>
+      window.__SLIDES_UX__ = {
+        mode: {{ slides_ux_mode | jsonify }},
+        classicUrl: {{ '/' | relative_url | jsonify }},
+        newUrl: {{ '/ux/' | relative_url | jsonify }}
+      };
+    </script>
+    <script src="{{ '/assets/js/ux-switcher.js' | relative_url }}"></script>
+    {% endif %}
   </head>
-  <body>
+  <body{% if slides_ux_mode %} class="ux-{{ slides_ux_mode }}"{% endif %}>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRJNCH95"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -54,6 +70,10 @@
     </div>
     <script src="{{ '/assets/prism.js' | relative_url }}"></script>
     <script src="{{ '/assets/tablelink.js' | relative_url }}"></script>
+    {% if slides_ux_mode == 'new' %}
+    <script src="{{ '/assets/js/deck-filter.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/toc-spy.js' | relative_url }}"></script>
+    {% endif %}
 
     <div class="wrapper">
       <header>
@@ -95,6 +115,20 @@
           </div>
         </div>
       </header>
+
+      {% if slides_ux_mode %}
+      <div id="ux-switcher" class="ux-switcher" role="region" aria-label="Layout preference">
+        <div class="ux-switcher-inner">
+          {% if slides_ux_mode == 'classic' %}
+          <p class="ux-switcher-text">You're viewing the classic layout.</p>
+          <button type="button" class="ux-switcher-btn" data-ux-target="new">Try the new UX</button>
+          {% else %}
+          <p class="ux-switcher-text">You're previewing the new layout.</p>
+          <button type="button" class="ux-switcher-btn" data-ux-target="classic">Back to classic</button>
+          {% endif %}
+        </div>
+      </div>
+      {% endif %}
 
       <section>
         {{ content }}
