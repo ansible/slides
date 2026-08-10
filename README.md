@@ -148,11 +148,6 @@
 # Platform
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -179,11 +174,6 @@ Ansible Automation Platform Strategy &amp; Roadmap
 # Analysts - Market research
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -210,11 +200,6 @@ Red Hat Ansible G2 Review Highlights
 # ROI (Return on Investment)
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -253,11 +238,6 @@ Tech Target: Economic Benefits of AAP key takeaways
 # Release information
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -289,11 +269,6 @@ AAP 2.4 Overview (Jun 27, 2023)
 # AI - Artificial Intelligence
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -331,11 +306,6 @@ ABU | Automation Coding Assistant w/ WCA (formerly Ansible Lightspeed)
 # EDA - Event-Driven Ansible
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -361,11 +331,6 @@ Event-Driven Ansible - Splunk Integration
 # Edge Automation
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -397,11 +362,6 @@ Ansible Edge Automation - 301
 # Hybrid Cloud Automation
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -418,11 +378,6 @@ Hybrid Cloud Automation 101 - Introduction
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -446,11 +401,6 @@ Ansible Public Cloud  - 301
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -492,11 +442,6 @@ Ansible + Vault 201 (includes Roadmap)
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -544,11 +489,6 @@ AAP on Google Cloud - Tech deck
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -571,11 +511,6 @@ Ansible Cloud Native - 301
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -616,11 +551,6 @@ OpenShift Virtualization Migration Factory Ansible Collection
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -642,11 +572,6 @@ Ansible Private Cloud - 301
 # Network Automation
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -678,11 +603,6 @@ Cisco Enterprise Networking + AAP - Content Kit
 # Infrastructure Automation
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -726,11 +646,6 @@ Red Hat Enterprise Linux Automation  101/102
 # Policy Enforcement
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -744,11 +659,6 @@ Intro Policy Enforcement - 101
 # Security Automation
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -780,11 +690,6 @@ Security Content kit
 # ServiceNow ITSM Automation
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -798,11 +703,6 @@ Ansible Automation Platform for ServiceNow ITSM
 # Reference Architectures
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -828,11 +728,6 @@ Ansible Automation Platform 1.2 to 2 Migration Guide
 # Logos, Graphics, Icons and Brand Rules
 
 <table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>

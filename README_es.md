@@ -147,11 +147,6 @@
 
 <h1 id="platform">Plataforma</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -177,11 +172,6 @@ Ansible Automation Platform Strategy &amp; Roadmap
 
 <h1 id="analysts---market-research">Analistas - Investigación de mercado</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -207,11 +197,6 @@ Aspectos destacados de reseñas G2 de Red Hat Ansible
 
 <h1 id="roi-return-on-investment">ROI (retorno de la inversión)</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -249,11 +234,6 @@ Tech Target: conclusiones clave sobre los beneficios económicos de AAP
 
 <h1 id="release-information">Información de versiones</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -284,11 +264,6 @@ Descripción general de AAP 2.4 (27 jun 2023)
 
 <h1 id="ai---artificial-intelligence">IA - Inteligencia artificial</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -325,11 +300,6 @@ ABU | Automation Coding Assistant con WCA (antes Ansible Lightspeed)
 
 <h1 id="eda---event-driven-ansible">EDA - Event-Driven Ansible</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -354,11 +324,6 @@ Event-Driven Ansible — integración con Splunk
 
 <h1 id="edge-automation">Automatización edge</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -389,11 +354,6 @@ Automatización Ansible Edge - 301
 
 <h1 id="hybrid-cloud-automation">Automatización de nube híbrida</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -409,11 +369,6 @@ Automatización de nube híbrida 101 — introducción
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -436,11 +391,6 @@ Ansible Public Cloud - 301
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -481,11 +431,6 @@ Ansible + Vault 201 (incluye hoja de ruta)
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -532,11 +477,6 @@ AAP en Google Cloud — presentación técnica
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -558,11 +498,6 @@ Ansible Cloud Native - 301
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -602,11 +537,6 @@ Colección Ansible Migration Factory para OpenShift Virtualization
 <div id="cloud-use-cases">
 
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -627,11 +557,6 @@ Ansible Private Cloud - 301
 
 <h1 id="network-automation">Automatización de red</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -662,11 +587,6 @@ Cisco Enterprise Networking + AAP — kit de contenido
 
 <h1 id="infrastructure-automation">Automatización de infraestructura</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -709,11 +629,6 @@ Automatización de Red Hat Enterprise Linux 101/102
 
 <h1 id="policy-enforcement">Cumplimiento de políticas</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -726,11 +641,6 @@ Introducción al cumplimiento de políticas - 101
 
 <h1 id="security-automation">Automatización de seguridad</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -761,11 +671,6 @@ Kit de contenido de seguridad
 
 <h1 id="servicenow-itsm-automation">Automatización ServiceNow ITSM</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -778,11 +683,6 @@ Ansible Automation Platform para ServiceNow ITSM
 
 <h1 id="reference-architectures">Arquitecturas de referencia</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
@@ -807,11 +707,6 @@ Guía de migración de Ansible Automation Platform 1.2 a 2
 
 <h1 id="logos-graphics-icons-and-brand-rules">Logos, gráficos, iconos y reglas de marca</h1>
 <table>
-<thead>
-<tr>
-<th>Presentación</th>
-</tr>
-</thead>
 <tbody>
 <tr>
 <td>
