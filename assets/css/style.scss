@@ -1361,6 +1361,39 @@ class#emea {
   font-weight: 500;
 }
 
+.deck-access {
+  margin-top: 0.35rem;
+  font-size: 0.875rem;
+  line-height: 1.45;
+}
+
+.deck-access a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.deck-access a:hover {
+  text-decoration: underline;
+}
+
+.deck-access-sep {
+  color: #8a8d90;
+  font-weight: 500;
+}
+
+/* Single-column catalog rows */
+section > table thead th:only-child,
+section > table tbody td:only-child {
+  width: 100%;
+}
+
+section > table td > ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.15rem;
+  font-size: 0.875rem;
+}
+
+
 .deck-filter-bar {
   display: flex;
   flex-wrap: wrap;
