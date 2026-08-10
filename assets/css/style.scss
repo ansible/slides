@@ -1392,6 +1392,7 @@ section > h2 + .deck-list {
   margin: 0.85rem 20px 2.5rem !important;
   padding: 0;
   width: calc(100% - 40px) !important;
+  max-width: 44rem;
   border: none;
   background: transparent;
   box-sizing: border-box;
