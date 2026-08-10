@@ -1006,8 +1006,12 @@ class#emea {
 }
 
 .tableofcontents a[href="#general"]::before { content: "\f0ca"; } /* list-ul */
+.tableofcontents a[href="#platform"]::before { content: "\f233"; } /* server */
+.tableofcontents a[href="#プラットフォーム"]::before { content: "\f233"; }
+.tableofcontents a[href="#analysts---market-research"]::before { content: "\f201"; } /* chart-line */
+.tableofcontents a[href="#アナリスト---マーケットリサーチ"]::before { content: "\f201"; }
 .tableofcontents a[href="#一般"]::before { content: "\f0ca"; }
-.tableofcontents a[href="#roi-return-on-investment"]::before { content: "\f201"; } /* chart-line */
+.tableofcontents a[href="#roi-return-on-investment"]::before { content: "\f155"; } /* dollar-sign */
 .tableofcontents a[href="#release-information"]::before { content: "\f135"; } /* rocket */
 .tableofcontents a[href="#ai---artificial-intelligence"]::before { content: "\f5dc"; } /* brain */
 .tableofcontents a[href="#lightspeed-ai"]::before { content: "\f5dc"; }
@@ -1438,6 +1442,6 @@ class#emea {
   color: #6a6e73;
 }
 
-section > h1#general {
+section > h1#platform {
   margin-top: 0.35rem;
 }

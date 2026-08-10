@@ -31,7 +31,8 @@
 
 **On this page**
 
-- [General](#general)
+- [Platform](#platform)
+- [Analysts - Market research](#analysts---market-research)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [AI - Artificial Intelligence](#ai---artificial-intelligence)
@@ -144,7 +145,37 @@
 
 <p class="catalog-lede">Browse by topic</p>
 
-# General
+# Platform
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal</th>
+<th>RHCC Link (Partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Automation Platform Pitch Deck for AEs (2024 version)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Slides</a><br>
+<ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
+<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334">RHCC</a></td>
+</tr>
+<tr>
+<td>Ansible Automation Platform Technical Deck for SSPs and SAs</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Slides</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">RHCC</a></td>
+</tr>
+<tr>
+<td>Technical Roadmap 2026</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1UUIG4j4C6Gb2el80BnCIw4MlChv7Nj7FX9K_MHUJPmI/edit?slide=id.g3ebe50672aa_0_0#slide=id.g3ebe50672aa_0_0">Slides</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=167d5ee4-2634-4e30-b53e-6c326443c82b">RHCC</a></td>
+</tr>
+</tbody>
+</table>
+
+# Analysts - Market research
 
 <table>
 <thead>
@@ -162,32 +193,6 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">RHCC</a></td>
 </tr>
 <tr>
-<td>Ansible Automation Platform Pitch Deck for AEs (2024 version)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing">Slides</a><br>
-<ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
-<td><a target="_new" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334">RHCC</a></td>
-</tr>
-<tr>
-<td>Red Hat Ansible Automation Platform by the numbers (FY26)</td>
-<td><a target="_new" href="https://docs.google.com/presentation/d/1R4PXvhNOOEX9QUURHluPVdGP0anNbZHXBUBuiG96jOo/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Slides</a></td>
-<td>N/A - Red Hat only</td>
-</tr>
-<tr>
-<td>Ansible Automation Platform Technical Deck for SSPs and SAs</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1sa_O12EIRG-fdChArYJf9HZe6wKDfqjnIAiH3udL39s/edit?usp=sharing">Slides</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">RHCC</a></td>
-</tr>
-<tr>
-<td>Technical Roadmap 2026</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1UUIG4j4C6Gb2el80BnCIw4MlChv7Nj7FX9K_MHUJPmI/edit?slide=id.g3ebe50672aa_0_0#slide=id.g3ebe50672aa_0_0">Slides</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=167d5ee4-2634-4e30-b53e-6c326443c82b">RHCC</a></td>
-</tr>
-<tr>
-<td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Slides</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">RHCC</a></td>
-</tr>
-<tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1BR0wm_QM7IsXQwzjqdQAw4mppLM6WxwbQf36nHmQyJo/edit?usp=sharing">Slides</a></td>
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2c001f57-d8ae-49d9-8924-b5b7519e7d56">RHCC</a></td>
@@ -196,11 +201,6 @@
 <td>Red Hat Ansible G2 Review Highlights</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1n8oYeaIlThs71BLeEYIRfHQfefVY_H-zgYaQTrGsVyY/edit?usp=sharing">Slides</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=61aad783-0421-440b-b959-b73efc586502">RHCC</a></td>
-</tr>
-<tr>
-<td>Metrics Utility & Node Counting - Enablement Deck</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Slides</a></td>
-<td>N/A</td>
 </tr>
 </tbody>
 </table>
@@ -212,10 +212,25 @@
 <tr>
 <th>Slide Deck</th>
 <th>Red Hat Internal</th>
-<th>External or RHCC Link</th>
+<th>RHCC Link (Partners)</th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Red Hat Ansible Automation Platform by the numbers (FY26)</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1R4PXvhNOOEX9QUURHluPVdGP0anNbZHXBUBuiG96jOo/edit?slide=id.gbcf8801439_1_0#slide=id.gbcf8801439_1_0">Slides</a></td>
+<td>N/A - Red Hat only</td>
+</tr>
+<tr>
+<td>Comparing Community Ansible and Red Hat Ansible Automation Platform</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1x79L1K3EnaIscRRUvHO8uZwns8dvJ1ctYu_1k73w2-Q/edit?usp=sharing">Slides</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">RHCC</a></td>
+</tr>
+<tr>
+<td>Metrics Utility & Node Counting - Enablement Deck</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1ixeP9hzCxZ5elv41ULlG3--RRjSKChrCNtndnJESB68/edit?slide=id.g3ccf2ab1ef4_0_1918#slide=id.g3ccf2ab1ef4_0_1918">Slides</a></td>
+<td>N/A</td>
+</tr>
 <tr>
 <td>Simple Ansible Time/Cost Saving Tool:
 Use the Red Hat portal tooling to determine high level time and cost savings</td>

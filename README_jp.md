@@ -31,7 +31,8 @@
 
 **このページ**
 
-- [一般](#一般)
+- [プラットフォーム](#プラットフォーム)
+- [アナリスト - マーケットリサーチ](#アナリスト---マーケットリサーチ)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
@@ -131,7 +132,7 @@
 
 <p class="catalog-lede">トピックから探す</p>
 
-# 一般
+# プラットフォーム
 
 <table>
 <thead>
@@ -143,19 +144,9 @@
 </thead>
 <tbody>
 <tr>
-<td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide (英語版)</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Slides</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">RHCC</a></td>
-</tr>
-<tr>
 <td>Ansible Automation Platform ピッチデッキfor AE (2023 Version)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8">Slides</a><br>
 <ul><li><a target="_blank" href="https://videos.learning.redhat.com/media/1_0dz25zji">How to use this deck (Video)</a></li></ul></td>
-<td>Coming soon!</td>
-</tr>
-<tr>
-<td>Red Hat Ansible Automation Platform by the numbers</td>
-<td><a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Slides</a></td>
 <td>Coming soon!</td>
 </tr>
 <tr>
@@ -179,14 +170,28 @@
 <td>Coming soon!</td>
 </tr>
 <tr>
-<td>コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較 （RHCCは英語版）</td>
-<td><a target="_blank" href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/">Slides</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">RHCC</a></td>
-</tr>
-<tr>
 <td>Ansible Validated Content</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1ERBB6kR8SSybR1AsopcCSkXgwIi8HzGJ-5lCFWZDwts">Slides</a></td>
 <td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
+
+# アナリスト - マーケットリサーチ
+
+<table>
+<thead>
+<tr>
+<th>スライドデッキ</th>
+<th>Red Hat Internal</th>
+<th>RHCC リンク (パートナー)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ABU | 2024 Forrester Wave for Infrastructure Automation Slide (英語版)</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1lwGlHO21R42ov1SmNQTfuIEj7QiUAbwkKxiCsJtDIx8/edit?usp=sharing">Slides</a></td>
+<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=0191e421-44b8-4266-b513-4f16854c87cf">RHCC</a></td>
 </tr>
 <tr>
 <td>IDC 2024: Unlock the Business Value of IT Automation</td>
@@ -212,6 +217,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Red Hat Ansible Automation Platform by the numbers</td>
+<td><a target="_new" href="https://docs.google.com/presentation/d/1IyLTqzL9bTkAVuuJYXq3cHoqSnQOG9IVauhbHi-i-VU/">Slides</a></td>
+<td>Coming soon!</td>
+</tr>
+<tr>
+<td>コミュニティ版の Ansible と Red Hat Ansible Automation Platform の比較 （RHCCは英語版）</td>
+<td><a target="_blank" href="https://docs.google.com/presentation/d/1JWnt3OphoFGfxW4k1M0SciVIgm1gTnNE1UpABBKrKG0/">Slides</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=05b5b5a7-e405-42c7-8e39-e787f61c656a">RHCC</a></td>
+</tr>
 <tr>
 <td>ROI 計算ツール (IDC 製作) : 
 AAP によるITオートメーションのビジネス価値とインパクトの特定と算出</td>
