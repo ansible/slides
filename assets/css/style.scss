@@ -1545,3 +1545,55 @@ section > h2 + .deck-list {
   text-transform: uppercase;
   color: #6a6e73;
 }
+
+.ux-switcher {
+  width: 100%;
+  background: #f0f0f0;
+  border-bottom: 1px solid #d2d2d2;
+}
+
+.ux-switcher-inner {
+  max-width: var(--content-max);
+  margin: 0 auto;
+  padding: 0.65rem 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem 1rem;
+}
+
+.ux-switcher-text {
+  margin: 0;
+  font-family: 'Red Hat Text', sans-serif;
+  font-size: 0.875rem;
+  color: #151515;
+}
+
+.ux-switcher-btn {
+  appearance: none;
+  border: 1px solid #151515;
+  background: #fff;
+  color: #151515;
+  font-family: 'Red Hat Text', sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  line-height: 1.2;
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
+}
+
+.ux-switcher-btn:hover,
+.ux-switcher-btn:focus {
+  background: #151515;
+  color: #fff;
+}
+
+.ux-switcher-btn:focus {
+  outline: 2px solid #0066cc;
+  outline-offset: 2px;
+}
+
+body.ux-new .ux-switcher {
+  background: #e7f1fa;
+  border-bottom-color: #bee1f4;
+}
