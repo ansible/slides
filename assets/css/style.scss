@@ -902,29 +902,28 @@ class#emea {
 .tableofcontents {
   display: block;
   box-sizing: border-box;
-  padding: 0.7rem 0.65rem 0.85rem;
-  background: #f5f5f5;
-  border: 1px solid #e0e0e0;
-  border-radius: 10px;
-  border-left: 3px solid #ee0000;
+  padding: 0.15rem 0.25rem;
+  background: transparent;
+  border: none;
+  border-radius: 0;
   margin-bottom: 1rem;
-  font-size: 16px; // left nav readable size
+  font-size: 15px;
 }
 
 .tableofcontents > p {
-  margin: 0 0 0.55rem;
-  padding: 0 0.3rem;
+  margin: 0 0 0.75rem;
+  padding: 0 0.55rem;
 }
 
 .tableofcontents > p strong,
 .tableofcontents strong {
   display: block;
   font-family: 'Red Hat Display', sans-serif;
-  font-size: 12px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  color: #6a6e73;
+  color: #8a8d90;
 }
 
 .tableofcontents ul {
@@ -939,20 +938,21 @@ class#emea {
 }
 
 .tableofcontents > ul > li + li {
-  margin-top: 0.12rem;
+  margin-top: 0.05rem;
 }
 
 .tableofcontents a {
   display: flex;
   align-items: flex-start;
-  gap: 0.45rem;
-  padding: 0.35rem 0.4rem;
-  border-radius: 6px;
+  gap: 0.5rem;
+  padding: 0.4rem 0.55rem;
+  border-radius: 8px;
   color: #4a4a4a;
   text-decoration: none;
-  font-size: 16px;
-  line-height: 1.3;
+  font-size: 15px;
+  line-height: 1.35;
   font-weight: 500;
+  transition: background-color 0.12s ease, color 0.12s ease;
 }
 
 .tableofcontents > ul > li > a {
@@ -962,15 +962,15 @@ class#emea {
 }
 
 .tableofcontents a:hover {
-  background: #fff;
-  color: #ee0000;
+  background: #f0f0f0;
+  color: #151515;
 }
 
 .tableofcontents a.is-active {
-  background: #fff;
-  color: #ee0000;
-  font-weight: 500;
-  box-shadow: inset 3px 0 0 #ee0000;
+  background: #eeeeee;
+  color: #151515;
+  font-weight: 600;
+  box-shadow: none;
 }
 
 .tableofcontents > ul > li > a.is-active::before {
@@ -978,26 +978,26 @@ class#emea {
 }
 
 .tableofcontents ul ul a.is-active {
-  color: #ee0000;
-  font-weight: 500;
-  background: #fff;
+  background: #eeeeee;
+  color: #151515;
+  font-weight: 600;
 }
 
 /* Icons on top-level sections only */
 .tableofcontents > ul > li > a::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
-  font-size: 14px;
+  font-size: 13px;
   width: 16px;
   flex-shrink: 0;
   text-align: center;
-  color: #6a6e73;
+  color: #8a8d90;
   speak: none;
   margin-top: 3px;
 }
 
 .tableofcontents > ul > li > a:hover::before {
-  color: #ee0000;
+  color: #6a6e73;
 }
 
 .tableofcontents a[href="#general"]::before { content: "\f0ca"; } /* list-ul */
@@ -1016,26 +1016,32 @@ class#emea {
 .tableofcontents a[href="#logos-graphics-icons-and-brand-rules"]::before { content: "\f53f"; } /* palette */
 
 .tableofcontents ul ul {
-  margin: 0.2rem 0 0.35rem 1.5rem;
-  padding-left: 0.45rem;
-  border-left: 1px solid #d2d2d2;
+  margin: 0.15rem 0 0.3rem 1.65rem;
+  padding-left: 0;
+  border-left: none;
 }
 
 .tableofcontents ul ul li + li {
-  margin-top: 0.08rem;
+  margin-top: 0.05rem;
 }
 
 .tableofcontents ul ul a {
   display: block;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 400;
   color: #6a6e73;
-  padding: 0.22rem 0.35rem;
+  padding: 0.28rem 0.55rem;
   line-height: 1.3;
+  border-radius: 6px;
 }
 
 .tableofcontents ul ul a::before {
   content: none !important;
+}
+
+.tableofcontents ul ul a:hover {
+  background: #f0f0f0;
+  color: #151515;
 }
 
 .highlighttable {
