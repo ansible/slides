@@ -123,7 +123,12 @@ img {
     border: none;
 }
 
-// table tweaks (classic / default)
+// table tweaks (classic / default — match upstream ansible/slides)
+
+table, th, td {
+  border: 1px solid #999;
+  border-collapse: collapse;
+}
 
 td, th {
   min-width: 100px;
@@ -148,6 +153,11 @@ td {
   background: #f2f2f2;
 }
 
+// Upstream zebra: gray base (#f2f2f2) with white odd rows
+tr:nth-child(odd) td {
+  background-color: #ffffff;
+}
+
 // Quieter catalog tables (new UX only)
 body.ux-new {
   table {
@@ -160,6 +170,7 @@ body.ux-new {
 
   table th,
   table td {
+    border: none;
     border-right: none;
     border-bottom: 1px solid #e8e8e8;
   }
@@ -181,6 +192,11 @@ body.ux-new {
   td {
     background: #fff;
     transition: background-color 0.15s ease;
+  }
+
+  // Override classic zebra on the new UX
+  tr:nth-child(odd) td {
+    background-color: #fff;
   }
 
   table tbody tr:nth-child(even) td {
@@ -924,8 +940,8 @@ class#emea {
 }
 
 // Classic Slide Finder chrome (default / body.ux-classic)
-// Flex keeps TOC + bulletin tables side-by-side (inline-block wraps once
-// theme `table { width: 100% }` makes the highlight column prefer full width).
+// Flex keeps TOC + bulletin tables side-by-side (theme `table { width: 100% }`
+// otherwise makes the highlight column prefer full width and wrap).
 body.ux-classic .parentsean {
   display: flex;
   flex-direction: row;
@@ -941,10 +957,16 @@ body.ux-classic .parentsean {
 
 body.ux-classic .tableofcontents {
   display: block;
-  flex: 0 1 auto;
-  max-width: 22rem;
-  padding-right: 2.5rem;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none;
+  padding-right: 150px;
   box-sizing: border-box;
+}
+
+body.ux-classic .tableofcontents > ul {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .highlighttable {
@@ -955,14 +977,16 @@ body.ux-classic .tableofcontents {
 
 body.ux-classic .highlighttable {
   display: block;
-  flex: 1 1 695px;
+  flex: 0 1 695px;
   max-width: 695px;
   min-width: 0;
-  width: auto;
+  width: 695px;
+  margin-top: 0;
 }
 
 body.ux-classic .highlighttable > table {
   width: 100%;
+  margin-top: 0;
   margin-bottom: 1rem;
 }
 
