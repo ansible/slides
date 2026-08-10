@@ -267,6 +267,12 @@ Descripción general de AAP 2.4 (27 jun 2023)
 <tbody>
 <tr>
 <td>
+Presentación de cliente AIOps
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1bL0u8fLRbJP6YpArwpR1KyonII_rtJd2wtlYlDHDQeQ/edit?slide=id.g3a9447748b7_1_4#slide=id.g3a9447748b7_1_4" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> · </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f9d63734-2b18-4316-8907-68b3c5e20728&fusionQueryId=vNUOmSEnTI&query=aiops" target="_blank">Partners</a></div>
+</td>
+</tr>
+<tr>
+<td>
 Kit de contenido
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> · </span><span class="cell-status">—</span></div>
 </td>
