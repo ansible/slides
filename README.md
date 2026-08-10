@@ -168,7 +168,7 @@
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f07af1ec-7fe9-42ef-9cae-bc6bb651ea1d">RHCC</a></td>
 </tr>
 <tr>
-<td>Technical Roadmap 2026</td>
+<td>Ansible Automation Platform Strategy & Roadmap</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1UUIG4j4C6Gb2el80BnCIw4MlChv7Nj7FX9K_MHUJPmI/edit?slide=id.g3ebe50672aa_0_0#slide=id.g3ebe50672aa_0_0">Slides</a></td>
 <td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=167d5ee4-2634-4e30-b53e-6c326443c82b">RHCC</a></td>
 </tr>

@@ -155,7 +155,7 @@
 <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">RHCC</a></td>
 </tr>
 <tr>
-<td>テクニカルロードマップ</td>
+<td>Ansible Automation Platform Strategy & Roadmap</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1dLazOkQZjhIIL29zrTHCw41rlh9m2fOuFOZi6Cz3bXo">Slides</a></td>
 <td>Coming soon!</td>
 </tr>
