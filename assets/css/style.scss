@@ -1361,8 +1361,37 @@ class#emea {
   font-weight: 500;
 }
 
+.deck-list {
+  list-style: none;
+  margin: 0.15rem 20px 2.25rem !important;
+  padding: 0;
+  width: calc(100% - 40px) !important;
+  border: none;
+  background: transparent;
+  box-sizing: border-box;
+}
+
+.deck-item {
+  margin: 0;
+  padding: 1.15rem 0;
+  border-bottom: none;
+}
+
+.deck-item + .deck-item {
+  border-top: 1px solid #e8e8e8;
+}
+
+.deck-title {
+  display: block;
+  font-family: 'Red Hat Display', sans-serif;
+  font-weight: 600;
+  font-size: 1.0625rem;
+  line-height: 1.35;
+  color: #151515;
+}
+
 .deck-access {
-  margin-top: 0.35rem;
+  margin-top: 0.4rem;
   font-size: 0.875rem;
   line-height: 1.45;
 }
@@ -1381,43 +1410,12 @@ class#emea {
   font-weight: 500;
 }
 
-.deck-list {
-  list-style: none;
-  margin: 0.65rem 20px 1.75rem !important;
-  padding: 0;
-  width: calc(100% - 40px) !important;
-  border: 1px solid #e6e6e6;
-  border-radius: 8px;
-  background: #fff;
-  overflow: hidden;
-  box-sizing: border-box;
-}
-
-.deck-item {
-  margin: 0;
-  padding: 0.9rem 1rem;
-  border-bottom: 1px solid #ececec;
-}
-
-.deck-item:last-child {
-  border-bottom: none;
-}
-
-.deck-title {
-  display: block;
-  font-family: 'Red Hat Display', sans-serif;
-  font-weight: 600;
-  font-size: 1rem;
-  line-height: 1.35;
-  color: #151515;
-}
-
 .deck-item > .info-bubble {
-  margin-top: 0.55rem;
+  margin-top: 0.6rem;
 }
 
 .deck-item > ul {
-  margin: 0.45rem 0 0;
+  margin: 0.5rem 0 0;
   padding-left: 1.15rem;
   font-size: 0.875rem;
 }
