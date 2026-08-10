@@ -32,12 +32,26 @@ document.addEventListener("DOMContentLoaded", function () {
     return (text || "").toLowerCase().replace(/\s+/g, " ").trim();
   }
 
+  function tokens(text) {
+    var normalized = normalize(text);
+    return normalized ? normalized.split(" ") : [];
+  }
+
+  function rowMatches(rowText, queryTokens) {
+    if (!queryTokens.length) return true;
+    var haystack = normalize(rowText);
+    return queryTokens.every(function (token) {
+      return haystack.indexOf(token) !== -1;
+    });
+  }
+
   function applyFilter() {
-    var query = normalize(input.value);
+    var queryTokens = tokens(input.value);
+    var query = queryTokens.join(" ");
     var visible = 0;
 
     rows.forEach(function (row) {
-      var match = !query || normalize(row.textContent).indexOf(query) !== -1;
+      var match = rowMatches(row.textContent, queryTokens);
       row.hidden = !match;
       if (match) visible += 1;
     });
