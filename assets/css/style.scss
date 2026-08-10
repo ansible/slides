@@ -924,15 +924,46 @@ class#emea {
 }
 
 // Classic Slide Finder chrome (default / body.ux-classic)
+// Flex keeps TOC + bulletin tables side-by-side (inline-block wraps once
+// theme `table { width: 100% }` makes the highlight column prefer full width).
+body.ux-classic .parentsean {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 0;
+}
+
 .tableofcontents {
   display: inline-block;
   padding-right: 150px;
+}
+
+body.ux-classic .tableofcontents {
+  display: block;
+  flex: 0 1 auto;
+  max-width: 22rem;
+  padding-right: 2.5rem;
+  box-sizing: border-box;
 }
 
 .highlighttable {
   display: inline-block;
   vertical-align: top;
   max-width: 695px;
+}
+
+body.ux-classic .highlighttable {
+  display: block;
+  flex: 1 1 695px;
+  max-width: 695px;
+  min-width: 0;
+  width: auto;
+}
+
+body.ux-classic .highlighttable > table {
+  width: 100%;
+  margin-bottom: 1rem;
 }
 
 // New Slide Finder chrome (body.ux-new only)
