@@ -1006,18 +1006,27 @@ class#emea {
 }
 
 .tableofcontents a[href="#general"]::before { content: "\f0ca"; } /* list-ul */
+.tableofcontents a[href="#一般"]::before { content: "\f0ca"; }
 .tableofcontents a[href="#roi-return-on-investment"]::before { content: "\f201"; } /* chart-line */
 .tableofcontents a[href="#release-information"]::before { content: "\f135"; } /* rocket */
 .tableofcontents a[href="#ai---artificial-intelligence"]::before { content: "\f5dc"; } /* brain */
+.tableofcontents a[href="#lightspeed-ai"]::before { content: "\f5dc"; }
 .tableofcontents a[href="#eda---event-driven-ansible"]::before { content: "\f0e7"; } /* bolt */
 .tableofcontents a[href="#edge-automation"]::before { content: "\f1eb"; } /* wifi */
+.tableofcontents a[href="#エッジの自動化"]::before { content: "\f1eb"; }
 .tableofcontents a[href="#hybrid-cloud-automation"]::before { content: "\f0c2"; } /* cloud */
+.tableofcontents a[href="#ハイブリッドクラウドの自動化"]::before { content: "\f0c2"; }
 .tableofcontents a[href="#network-automation"]::before { content: "\f6ff"; } /* network-wired */
+.tableofcontents a[href="#ネットワークの自動化"]::before { content: "\f6ff"; }
 .tableofcontents a[href="#infrastructure-automation"]::before { content: "\f233"; } /* server */
+.tableofcontents a[href="#インフラの自動化"]::before { content: "\f233"; }
+.tableofcontents a[href="#middleware"]::before { content: "\f233"; }
 .tableofcontents a[href="#policy-enforcement"]::before { content: "\f3ed"; } /* shield-alt */
 .tableofcontents a[href="#security-automation"]::before { content: "\f023"; } /* lock */
+.tableofcontents a[href="#セキュリティの自動化"]::before { content: "\f023"; }
 .tableofcontents a[href="#servicenow-itsm-automation"]::before { content: "\f3ff"; } /* ticket-alt */
 .tableofcontents a[href="#reference-architectures"]::before { content: "\f1ad"; } /* building */
+.tableofcontents a[href="#リファレンスアーキテクチャー"]::before { content: "\f1ad"; }
 .tableofcontents a[href="#logos-graphics-icons-and-brand-rules"]::before { content: "\f53f"; } /* palette */
 
 .tableofcontents ul ul {
