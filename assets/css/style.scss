@@ -4,15 +4,19 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Red+Hat+Text:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
 
-// Global readability bump (~25% from default)
-html {
+// Global readability bump (~25% from default) — new UX only
+html:has(body.ux-new) {
   font-size: 125%;
 }
 
 :root {
-  --content-max: 1600px;
+  --content-max: 1170px;
   --toc-width: 360px;
   --toc-gap: 24px;
+}
+
+body.ux-new {
+  --content-max: 1600px;
 }
 
 // font and color tweaks
@@ -60,8 +64,11 @@ section {
   width: 100%;
   max-width: var(--content-max);
   padding: 0;
-  padding-bottom: 45vh;
   float: initial;
+}
+
+body.ux-new section {
+  padding-bottom: 45vh;
 }
 
 section * {
@@ -116,26 +123,7 @@ img {
     border: none;
 }
 
-// table tweaks
-
-table {
-  border-collapse: separate;
-  border-spacing: 0;
-  border: 1px solid #d2d2d2;
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-table th,
-table td {
-  border-right: none;
-  border-bottom: 1px solid #e8e8e8;
-}
-
-table tr:last-child th,
-table tr:last-child td {
-  border-bottom: none;
-}
+// table tweaks (classic / default)
 
 td, th {
   min-width: 100px;
@@ -152,27 +140,58 @@ th {
   font-family: 'Red Hat Display';
   vertical-align: middle;
   font-weight: 700;
-  font-size: 0.75rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  background: #151515 !important;
-  color: #fff !important;
-  border-bottom: 1px solid #151515 !important;
+  font-size: 16px;
 }
 
 td {
   font-family: 'Red Hat Text';
-  background: #fff;
-  transition: background-color 0.15s ease;
+  background: #f2f2f2;
 }
 
-table tbody tr:nth-child(even) td {
-  background: #f7f7f7;
+// Quieter catalog tables (new UX only)
+body.ux-new {
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #d2d2d2;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  table th,
+  table td {
+    border-right: none;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  table tr:last-child th,
+  table tr:last-child td {
+    border-bottom: none;
+  }
+
+  th {
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    background: #151515 !important;
+    color: #fff !important;
+    border-bottom: 1px solid #151515 !important;
+  }
+
+  td {
+    background: #fff;
+    transition: background-color 0.15s ease;
+  }
+
+  table tbody tr:nth-child(even) td {
+    background: #f7f7f7;
+  }
+
+  table tbody tr:hover td {
+    background: #e8f0fe !important;
+  }
 }
 
-table tbody tr:hover td {
-  background: #e8f0fe !important;
-}
 
 // codeblock tweaks
 
@@ -904,7 +923,21 @@ class#emea {
   border-radius: 5px;
 }
 
+// Classic Slide Finder chrome (default / body.ux-classic)
 .tableofcontents {
+  display: inline-block;
+  padding-right: 150px;
+}
+
+.highlighttable {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 695px;
+}
+
+// New Slide Finder chrome (body.ux-new only)
+
+body.ux-new .tableofcontents {
   display: block;
   box-sizing: border-box;
   padding: 0.15rem 0.25rem;
@@ -915,13 +948,13 @@ class#emea {
   font-size: 15px;
 }
 
-.tableofcontents > p {
+body.ux-new .tableofcontents > p {
   margin: 0 0 0.75rem;
   padding: 0 0.55rem;
 }
 
-.tableofcontents > p strong,
-.tableofcontents strong {
+body.ux-new .tableofcontents > p strong,
+body.ux-new .tableofcontents strong {
   display: block;
   font-family: 'Red Hat Display', sans-serif;
   font-size: 11px;
@@ -931,22 +964,22 @@ class#emea {
   color: #8a8d90;
 }
 
-.tableofcontents ul {
+body.ux-new .tableofcontents ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.tableofcontents li {
+body.ux-new .tableofcontents li {
   margin: 0;
   padding: 0;
 }
 
-.tableofcontents > ul > li + li {
+body.ux-new .tableofcontents > ul > li + li {
   margin-top: 0.05rem;
 }
 
-.tableofcontents a {
+body.ux-new .tableofcontents a {
   display: flex;
   align-items: flex-start;
   gap: 0.5rem;
@@ -960,36 +993,36 @@ class#emea {
   transition: background-color 0.12s ease, color 0.12s ease;
 }
 
-.tableofcontents > ul > li > a {
+body.ux-new .tableofcontents > ul > li > a {
   color: #151515;
   font-weight: 500;
   white-space: normal;
 }
 
-.tableofcontents a:hover {
+body.ux-new .tableofcontents a:hover {
   background: #f0f0f0;
   color: #151515;
 }
 
-.tableofcontents a.is-active {
+body.ux-new .tableofcontents a.is-active {
   background: #eeeeee;
   color: #151515;
   font-weight: 600;
   box-shadow: none;
 }
 
-.tableofcontents > ul > li > a.is-active::before {
+body.ux-new .tableofcontents > ul > li > a.is-active::before {
   color: #ee0000;
 }
 
-.tableofcontents ul ul a.is-active {
+body.ux-new .tableofcontents ul ul a.is-active {
   background: #eeeeee;
   color: #151515;
   font-weight: 600;
 }
 
 /* Icons on top-level sections only */
-.tableofcontents > ul > li > a::before {
+body.ux-new .tableofcontents > ul > li > a::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   font-size: 13px;
@@ -1001,49 +1034,49 @@ class#emea {
   margin-top: 3px;
 }
 
-.tableofcontents > ul > li > a:hover::before {
+body.ux-new .tableofcontents > ul > li > a:hover::before {
   color: #6a6e73;
 }
 
-.tableofcontents a[href="#general"]::before { content: "\f0ca"; } /* list-ul */
-.tableofcontents a[href="#platform"]::before { content: "\f233"; } /* server */
-.tableofcontents a[href="#プラットフォーム"]::before { content: "\f233"; }
-.tableofcontents a[href="#analysts---market-research"]::before { content: "\f201"; } /* chart-line */
-.tableofcontents a[href="#アナリスト---マーケットリサーチ"]::before { content: "\f201"; }
-.tableofcontents a[href="#一般"]::before { content: "\f0ca"; }
-.tableofcontents a[href="#roi-return-on-investment"]::before { content: "\f155"; } /* dollar-sign */
-.tableofcontents a[href="#release-information"]::before { content: "\f135"; } /* rocket */
-.tableofcontents a[href="#ai---artificial-intelligence"]::before { content: "\f5dc"; } /* brain */
-.tableofcontents a[href="#lightspeed-ai"]::before { content: "\f5dc"; }
-.tableofcontents a[href="#eda---event-driven-ansible"]::before { content: "\f0e7"; } /* bolt */
-.tableofcontents a[href="#edge-automation"]::before { content: "\f1eb"; } /* wifi */
-.tableofcontents a[href="#エッジの自動化"]::before { content: "\f1eb"; }
-.tableofcontents a[href="#hybrid-cloud-automation"]::before { content: "\f0c2"; } /* cloud */
-.tableofcontents a[href="#ハイブリッドクラウドの自動化"]::before { content: "\f0c2"; }
-.tableofcontents a[href="#network-automation"]::before { content: "\f6ff"; } /* network-wired */
-.tableofcontents a[href="#ネットワークの自動化"]::before { content: "\f6ff"; }
-.tableofcontents a[href="#infrastructure-automation"]::before { content: "\f233"; } /* server */
-.tableofcontents a[href="#インフラの自動化"]::before { content: "\f233"; }
-.tableofcontents a[href="#middleware"]::before { content: "\f233"; }
-.tableofcontents a[href="#policy-enforcement"]::before { content: "\f3ed"; } /* shield-alt */
-.tableofcontents a[href="#security-automation"]::before { content: "\f023"; } /* lock */
-.tableofcontents a[href="#セキュリティの自動化"]::before { content: "\f023"; }
-.tableofcontents a[href="#servicenow-itsm-automation"]::before { content: "\f3ff"; } /* ticket-alt */
-.tableofcontents a[href="#reference-architectures"]::before { content: "\f1ad"; } /* building */
-.tableofcontents a[href="#リファレンスアーキテクチャー"]::before { content: "\f1ad"; }
-.tableofcontents a[href="#logos-graphics-icons-and-brand-rules"]::before { content: "\f53f"; } /* palette */
+body.ux-new .tableofcontents a[href="#general"]::before { content: "\f0ca"; } /* list-ul */
+body.ux-new .tableofcontents a[href="#platform"]::before { content: "\f233"; } /* server */
+body.ux-new .tableofcontents a[href="#プラットフォーム"]::before { content: "\f233"; }
+body.ux-new .tableofcontents a[href="#analysts---market-research"]::before { content: "\f201"; } /* chart-line */
+body.ux-new .tableofcontents a[href="#アナリスト---マーケットリサーチ"]::before { content: "\f201"; }
+body.ux-new .tableofcontents a[href="#一般"]::before { content: "\f0ca"; }
+body.ux-new .tableofcontents a[href="#roi-return-on-investment"]::before { content: "\f155"; } /* dollar-sign */
+body.ux-new .tableofcontents a[href="#release-information"]::before { content: "\f135"; } /* rocket */
+body.ux-new .tableofcontents a[href="#ai---artificial-intelligence"]::before { content: "\f5dc"; } /* brain */
+body.ux-new .tableofcontents a[href="#lightspeed-ai"]::before { content: "\f5dc"; }
+body.ux-new .tableofcontents a[href="#eda---event-driven-ansible"]::before { content: "\f0e7"; } /* bolt */
+body.ux-new .tableofcontents a[href="#edge-automation"]::before { content: "\f1eb"; } /* wifi */
+body.ux-new .tableofcontents a[href="#エッジの自動化"]::before { content: "\f1eb"; }
+body.ux-new .tableofcontents a[href="#hybrid-cloud-automation"]::before { content: "\f0c2"; } /* cloud */
+body.ux-new .tableofcontents a[href="#ハイブリッドクラウドの自動化"]::before { content: "\f0c2"; }
+body.ux-new .tableofcontents a[href="#network-automation"]::before { content: "\f6ff"; } /* network-wired */
+body.ux-new .tableofcontents a[href="#ネットワークの自動化"]::before { content: "\f6ff"; }
+body.ux-new .tableofcontents a[href="#infrastructure-automation"]::before { content: "\f233"; } /* server */
+body.ux-new .tableofcontents a[href="#インフラの自動化"]::before { content: "\f233"; }
+body.ux-new .tableofcontents a[href="#middleware"]::before { content: "\f233"; }
+body.ux-new .tableofcontents a[href="#policy-enforcement"]::before { content: "\f3ed"; } /* shield-alt */
+body.ux-new .tableofcontents a[href="#security-automation"]::before { content: "\f023"; } /* lock */
+body.ux-new .tableofcontents a[href="#セキュリティの自動化"]::before { content: "\f023"; }
+body.ux-new .tableofcontents a[href="#servicenow-itsm-automation"]::before { content: "\f3ff"; } /* ticket-alt */
+body.ux-new .tableofcontents a[href="#reference-architectures"]::before { content: "\f1ad"; } /* building */
+body.ux-new .tableofcontents a[href="#リファレンスアーキテクチャー"]::before { content: "\f1ad"; }
+body.ux-new .tableofcontents a[href="#logos-graphics-icons-and-brand-rules"]::before { content: "\f53f"; } /* palette */
 
-.tableofcontents ul ul {
+body.ux-new .tableofcontents ul ul {
   margin: 0.15rem 0 0.3rem 1.65rem;
   padding-left: 0;
   border-left: none;
 }
 
-.tableofcontents ul ul li + li {
+body.ux-new .tableofcontents ul ul li + li {
   margin-top: 0.05rem;
 }
 
-.tableofcontents ul ul a {
+body.ux-new .tableofcontents ul ul a {
   display: block;
   font-size: 13px;
   font-weight: 400;
@@ -1053,16 +1086,16 @@ class#emea {
   border-radius: 6px;
 }
 
-.tableofcontents ul ul a::before {
+body.ux-new .tableofcontents ul ul a::before {
   content: none !important;
 }
 
-.tableofcontents ul ul a:hover {
+body.ux-new .tableofcontents ul ul a:hover {
   background: #f0f0f0;
   color: #151515;
 }
 
-.highlighttable {
+body.ux-new .highlighttable {
   display: grid;
   grid-template-columns: 1fr;
   gap: 0.75rem;
@@ -1071,7 +1104,7 @@ class#emea {
   width: 100%;
 }
 
-.highlighttable > table {
+body.ux-new .highlighttable > table {
   margin: 0;
   width: 100%;
   min-width: 0;
@@ -1079,31 +1112,31 @@ class#emea {
   background: #fff;
 }
 
-.highlighttable th,
-.highlighttable td {
+body.ux-new .highlighttable th,
+body.ux-new .highlighttable td {
   min-width: 0;
   font-size: 0.875rem;
   vertical-align: top;
   padding: 0.45rem 0.7rem;
 }
 
-.highlighttable tbody tr,
-.highlighttable tbody td {
+body.ux-new .highlighttable tbody tr,
+body.ux-new .highlighttable tbody td {
   height: auto;
 }
 
-.highlighttable td {
+body.ux-new .highlighttable td {
   position: relative;
 }
 
-.highlighttable .bulletin-title::after {
+body.ux-new .highlighttable .bulletin-title::after {
   content: "";
   position: absolute;
   inset: 0;
   z-index: 1;
 }
 
-.highlighttable th {
+body.ux-new .highlighttable th {
   background: #fafafa !important;
   color: #151515 !important;
   border-bottom: 1px solid #ececec !important;
@@ -1116,25 +1149,25 @@ class#emea {
   text-transform: uppercase;
 }
 
-.highlighttable .bulletin-new th {
+body.ux-new .highlighttable .bulletin-new th {
   border-left-color: #ee0000;
   color: #6b0000 !important;
   background: #ecc4c4 !important;
 }
 
-.highlighttable .bulletin-power5 th {
+body.ux-new .highlighttable .bulletin-power5 th {
   border-left-color: #5e40be;
   color: #2a1a5c !important;
   background: #cfc4e8 !important;
 }
 
-.highlighttable .bulletin-docs th {
+body.ux-new .highlighttable .bulletin-docs th {
   border-left-color: #3d8635;
   color: #1e4a1a !important;
   background: #c5dbc2 !important;
 }
 
-.highlighttable .bulletin-title {
+body.ux-new .highlighttable .bulletin-title {
   display: block;
   font-weight: 600;
   color: #151515;
@@ -1143,12 +1176,12 @@ class#emea {
   margin: 0;
 }
 
-.highlighttable .bulletin-title:hover {
+body.ux-new .highlighttable .bulletin-title:hover {
   color: #ee0000;
   text-decoration: underline;
 }
 
-.highlighttable .bulletin-meta {
+body.ux-new .highlighttable .bulletin-meta {
   display: block;
   margin-top: 0.15rem;
   font-size: 0.75rem;
@@ -1157,12 +1190,12 @@ class#emea {
   line-height: 1.35;
 }
 
-.highlighttable tbody tr:nth-child(even) td,
-.highlighttable tbody tr:hover td {
+body.ux-new .highlighttable tbody tr:nth-child(even) td,
+body.ux-new .highlighttable tbody tr:hover td {
   background: #fff !important;
 }
 
-.highlighttable .bulletin-kind {
+body.ux-new .highlighttable .bulletin-kind {
   display: block;
   margin: 0.15rem 0 0;
   padding: 0;
@@ -1178,7 +1211,7 @@ class#emea {
   white-space: nowrap;
 }
 
-.highlighttable .bulletin-kind::before {
+body.ux-new .highlighttable .bulletin-kind::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   font-size: 0.7rem;
@@ -1186,38 +1219,38 @@ class#emea {
   color: #8a8d90;
 }
 
-.highlighttable .bulletin-kind--kb::before {
+body.ux-new .highlighttable .bulletin-kind--kb::before {
   content: "\f02d"; /* book */
 }
 
-.highlighttable .bulletin-kind--docs::before {
+body.ux-new .highlighttable .bulletin-kind--docs::before {
   content: "\f15c"; /* file-alt */
 }
 
-.highlighttable .bulletin-docs .bulletin-title {
+body.ux-new .highlighttable .bulletin-docs .bulletin-title {
   display: block;
 }
 
-.highlighttable td,
-.highlighttable a,
-.highlighttable span {
+body.ux-new .highlighttable td,
+body.ux-new .highlighttable a,
+body.ux-new .highlighttable span {
   word-break: normal;
   overflow-wrap: break-word;
 }
 
 @media screen and (min-width: 900px) {
-  .highlighttable {
+  body.ux-new .highlighttable {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 
 @media screen and (min-width: 1100px) {
-  section {
+  body.ux-new section {
     padding-left: calc(var(--toc-width) + var(--toc-gap) + 20px);
     box-sizing: border-box;
   }
 
-  .tableofcontents {
+  body.ux-new .tableofcontents {
     position: fixed;
     top: 6.5rem;
     left: max(16px, calc((100vw - min(100vw, var(--content-max))) / 2 + 20px));
@@ -1230,24 +1263,24 @@ class#emea {
     margin-bottom: 0;
   }
 
-  .tableofcontents::-webkit-scrollbar {
+  body.ux-new .tableofcontents::-webkit-scrollbar {
     display: none; /* Chrome/Safari */
     width: 0;
     height: 0;
   }
 
-  .parentsean {
+  body.ux-new .parentsean {
     display: block;
   }
 
-  .highlighttable {
+  body.ux-new .highlighttable {
     max-width: none;
     width: 100%;
   }
 }
 
 @media screen and (max-width: 1099px) {
-  .tableofcontents {
+  body.ux-new .tableofcontents {
     position: static;
     max-height: none;
     overflow: visible;
@@ -1255,7 +1288,7 @@ class#emea {
 }
 
 // Compact page title + language row
-.page-intro {
+body.ux-new .page-intro {
   display: flex;
   flex-wrap: wrap;
   align-items: baseline;
@@ -1264,25 +1297,25 @@ class#emea {
   margin-bottom: 0.5rem;
 }
 
-.page-intro h1 {
+body.ux-new .page-intro h1 {
   margin: 0;
   display: inline;
 }
 
-.page-lang {
+body.ux-new .page-lang {
   display: inline-flex;
   align-items: center;
   flex-wrap: wrap;
   gap: 0.4rem;
 }
 
-.page-lang img {
+body.ux-new .page-lang img {
   display: block;
   width: 16px;
   height: 12px;
 }
 
-.lang-btn {
+body.ux-new .lang-btn {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
@@ -1298,35 +1331,35 @@ class#emea {
   transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
-.lang-btn:hover {
+body.ux-new .lang-btn:hover {
   background: #f5f5f5;
   border-color: #8a8d90;
   color: #151515 !important;
   text-decoration: none !important;
 }
 
-.lang-btn.is-active {
+body.ux-new .lang-btn.is-active {
   background: #151515;
   border-color: #151515;
   color: #fff !important;
 }
 
-.lang-btn.is-active:hover {
+body.ux-new .lang-btn.is-active:hover {
   background: #333;
   border-color: #333;
   color: #fff !important;
 }
 
-.page-meta-sep {
+body.ux-new .page-meta-sep {
   margin: 0 0.25rem;
   color: #bbb;
 }
 
-.page-intro .editlink {
+body.ux-new .page-intro .editlink {
   margin-left: auto;
 }
 
-.info-bubble {
+body.ux-new .info-bubble {
   display: flex;
   align-items: flex-start;
   gap: 0.45rem;
@@ -1341,7 +1374,7 @@ class#emea {
   line-height: 1.4;
 }
 
-.info-bubble-icon::before {
+body.ux-new .info-bubble-icon::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f05a"; /* circle-info */
@@ -1350,41 +1383,41 @@ class#emea {
   line-height: 1.3;
 }
 
-.info-bubble-text {
+body.ux-new .info-bubble-text {
   flex: 1;
   min-width: 0;
 }
 
-.cell-status {
+body.ux-new .cell-status {
   color: #6a6e73;
   font-size: 0.875em;
   font-weight: 500;
 }
 
 /* Catalog topic headings sit clearly above deck lists */
-section > h1 {
+body.ux-new section > h1 {
   font-weight: 700;
   margin-top: 2.35rem;
   margin-bottom: 0.25rem;
   padding-bottom: 0.6rem;
 }
 
-section > h2 {
+body.ux-new section > h2 {
   font-weight: 700;
   margin-top: 1.75rem;
   margin-bottom: 0.35rem;
 }
 
-section > h1#platform {
+body.ux-new section > h1#platform {
   margin-top: 0.45rem;
 }
 
-section > h1 + .deck-list,
-section > h2 + .deck-list {
+body.ux-new section > h1 + .deck-list,
+body.ux-new section > h2 + .deck-list {
   margin-top: 0.85rem !important;
 }
 
-.deck-list {
+body.ux-new .deck-list {
   list-style: none;
   display: flex;
   flex-direction: column;
@@ -1398,7 +1431,7 @@ section > h2 + .deck-list {
   box-sizing: border-box;
 }
 
-.deck-item {
+body.ux-new .deck-item {
   margin: 0;
   padding: 0.85rem 1rem;
   border: 1px solid #e0e0e0;
@@ -1408,18 +1441,18 @@ section > h2 + .deck-list {
   transition: background-color 0.15s ease, border-color 0.15s ease;
 }
 
-.deck-item:hover {
+body.ux-new .deck-item:hover {
   background: #fafafa;
   border-color: #c8c8c8;
 }
 
-.deck-item:last-child {
+body.ux-new .deck-item:last-child {
   margin-bottom: 0;
   padding-bottom: 0.85rem;
   border-bottom: 1px solid #e0e0e0;
 }
 
-.deck-title {
+body.ux-new .deck-title {
   display: block;
   font-family: 'Red Hat Display', sans-serif;
   font-weight: 700;
@@ -1428,46 +1461,46 @@ section > h2 + .deck-list {
   color: #151515;
 }
 
-.deck-access {
+body.ux-new .deck-access {
   margin-top: 0.25rem;
   font-size: 0.8125rem;
   line-height: 1.45;
   color: #6a6e73;
 }
 
-.deck-access a {
+body.ux-new .deck-access a {
   font-weight: 500;
   text-decoration: none;
 }
 
-.deck-access a:hover {
+body.ux-new .deck-access a:hover {
   text-decoration: underline;
 }
 
-.deck-access-sep {
+body.ux-new .deck-access-sep {
   color: #b1b1b1;
   font-weight: 500;
 }
 
-.deck-partners-pending {
+body.ux-new .deck-partners-pending {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
   vertical-align: baseline;
 }
 
-.deck-partners-label {
+body.ux-new .deck-partners-label {
   color: #6a6e73;
   font-weight: 500;
 }
 
-.deck-partners-help {
+body.ux-new .deck-partners-help {
   position: relative;
   display: inline-flex;
   align-items: center;
 }
 
-.deck-partners-info-btn {
+body.ux-new .deck-partners-info-btn {
   appearance: none;
   display: inline-flex;
   align-items: center;
@@ -1484,19 +1517,19 @@ section > h2 + .deck-list {
   line-height: 1;
 }
 
-.deck-partners-info-btn:hover,
-.deck-partners-info-btn:focus {
+body.ux-new .deck-partners-info-btn:hover,
+body.ux-new .deck-partners-info-btn:focus {
   border-color: #0066cc;
   color: #0066cc;
   outline: none;
 }
 
-.deck-partners-info-btn:focus-visible {
+body.ux-new .deck-partners-info-btn:focus-visible {
   outline: 2px solid #0066cc;
   outline-offset: 2px;
 }
 
-.deck-partners-info-icon::before {
+body.ux-new .deck-partners-info-icon::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f129"; /* info */
@@ -1504,7 +1537,7 @@ section > h2 + .deck-list {
   line-height: 1;
 }
 
-.deck-partners-tip {
+body.ux-new .deck-partners-tip {
   position: absolute;
   left: 50%;
   bottom: calc(100% + 0.45rem);
@@ -1528,7 +1561,7 @@ section > h2 + .deck-list {
   transition: opacity 0.12s ease, visibility 0.12s ease;
 }
 
-.deck-partners-tip::after {
+body.ux-new .deck-partners-tip::after {
   content: "";
   position: absolute;
   top: 100%;
@@ -1539,29 +1572,29 @@ section > h2 + .deck-list {
   filter: drop-shadow(0 1px 0 #d2d2d2);
 }
 
-.deck-partners-help:hover .deck-partners-tip,
-.deck-partners-help:focus-within .deck-partners-tip {
+body.ux-new .deck-partners-help:hover .deck-partners-tip,
+body.ux-new .deck-partners-help:focus-within .deck-partners-tip {
   visibility: visible;
   opacity: 1;
   pointer-events: auto;
 }
 
-.deck-partners-tip a {
+body.ux-new .deck-partners-tip a {
   font-weight: 600;
   text-decoration: underline;
 }
 
-.deck-item > .info-bubble {
+body.ux-new .deck-item > .info-bubble {
   margin-top: 0.55rem;
 }
 
-.deck-item > ul {
+body.ux-new .deck-item > ul {
   margin: 0.4rem 0 0;
   padding-left: 1.15rem;
   font-size: 0.8125rem;
 }
 
-.deck-filter-bar {
+body.ux-new .deck-filter-bar {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -1573,13 +1606,13 @@ section > h2 + .deck-list {
   border: none;
 }
 
-.deck-filter-field {
+body.ux-new .deck-filter-field {
   position: relative;
   flex: 1 1 280px;
   min-width: 0;
 }
 
-.deck-filter-label {
+body.ux-new .deck-filter-label {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -1591,7 +1624,7 @@ section > h2 + .deck-list {
   border: 0;
 }
 
-.deck-filter-icon {
+body.ux-new .deck-filter-icon {
   position: absolute;
   left: 0.85rem;
   top: 50%;
@@ -1602,14 +1635,14 @@ section > h2 + .deck-list {
   z-index: 1;
 }
 
-.deck-filter-icon::before {
+body.ux-new .deck-filter-icon::before {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f002"; /* search */
   font-size: 0.875rem;
 }
 
-.deck-filter-input {
+body.ux-new .deck-filter-input {
   width: 100%;
   box-sizing: border-box;
   min-width: 0;
@@ -1623,19 +1656,19 @@ section > h2 + .deck-list {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
 }
 
-.deck-filter-input:focus {
+body.ux-new .deck-filter-input:focus {
   outline: 2px solid #0066cc;
   outline-offset: 1px;
   border-color: #0066cc;
 }
 
-.deck-filter-status {
+body.ux-new .deck-filter-status {
   font-size: 0.8125rem;
   color: #6a6e73;
   min-height: 1.2em;
 }
 
-.catalog-lede {
+body.ux-new .catalog-lede {
   margin-top: 1.75rem !important;
   margin-bottom: 0.85rem !important;
   padding-top: 1.35rem;

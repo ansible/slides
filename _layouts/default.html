@@ -70,8 +70,10 @@
     </div>
     <script src="{{ '/assets/prism.js' | relative_url }}"></script>
     <script src="{{ '/assets/tablelink.js' | relative_url }}"></script>
+    {% if slides_ux_mode == 'new' %}
     <script src="{{ '/assets/js/deck-filter.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/toc-spy.js' | relative_url }}"></script>
+    {% endif %}
 
     <div class="wrapper">
       <header>
