@@ -266,6 +266,10 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 
 <ul class="deck-list">
 <li class="deck-item">
+<strong class="deck-title">2026 Cloud Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+<li class="deck-item">
 <strong class="deck-title">Hybrid Cloud Automation 101 - Introduction</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/18GNw9U2iEqS1YyiqgFSOvTxnWGuybQrbOmoWumJpt-U/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f567f2e9-a82b-46e8-8b75-b95277a2e987" target="_blank">パートナー</a></div>
 </li>
