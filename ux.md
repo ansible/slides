@@ -304,6 +304,10 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 
 <ul class="deck-list">
 <li class="deck-item">
+<strong class="deck-title">2026 Cloud Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-22" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-22" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%202026%20Cloud%20Content%20Kit&amp;body=%23%23%20Deck%0A2026%20Cloud%20Content%20Kit%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
+</li>
+<li class="deck-item">
 <strong class="deck-title">Hybrid Cloud Automation 101 - Introduction</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1JVXGf23MXoRH3jn7OMHoNp7whBs4q-Tm9CzlRnXracA/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3a2738a8-f69b-42b3-bf55-e24b2df1d7ca" target="_blank">Partners</a></div>
 </li>

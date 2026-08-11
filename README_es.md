@@ -291,6 +291,10 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <h1 id="hybrid-cloud-automation">Automatización de nube híbrida</h1>
 <ul class="deck-list">
 <li class="deck-item">
+<strong class="deck-title">2026 Cloud Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+<li class="deck-item">
 <strong class="deck-title">Automatización de nube híbrida 101 — introducción</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1JVXGf23MXoRH3jn7OMHoNp7whBs4q-Tm9CzlRnXracA/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3a2738a8-f69b-42b3-bf55-e24b2df1d7ca" target="_blank">Partners</a></div>
 </li>

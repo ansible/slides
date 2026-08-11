@@ -351,6 +351,11 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
+<td>2026 Cloud Content Kit</td>
+<td><a href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td>N/A</td>
+</tr>
+<tr>
 <td>Hybrid Cloud Automation 101 - Introduction</td>
 <td><a href="https://docs.google.com/presentation/d/1JVXGf23MXoRH3jn7OMHoNp7whBs4q-Tm9CzlRnXracA/edit?usp=sharing" target="_blank">Google Source</a></td>
 <td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3a2738a8-f69b-42b3-bf55-e24b2df1d7ca" target="_blank">Content Center</a></td>
