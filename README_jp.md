@@ -36,6 +36,7 @@
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
+- [Automation Orchestrator](#automation-orchestrator)
 - [エッジの自動化](#エッジの自動化)
 - [ハイブリッドクラウドの自動化](#ハイブリッドクラウドの自動化)
   - [パブリッククラウド](#パブリッククラウド)
@@ -62,6 +63,12 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
+<span class="bulletin-meta">2026年8月24日</span>
+</td>
+</tr>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
@@ -244,6 +251,19 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 <li class="deck-item">
 <strong class="deck-title">Event-Driven Ansible - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=44938f0c-c48e-4353-9782-fe8e48d3a0ce" target="_blank">パートナー</a></div>
+</li>
+</ul>
+
+# Automation Orchestrator
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
 </li>
 </ul>
 

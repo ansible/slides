@@ -37,6 +37,7 @@
 - [Información de versiones](#release-information)
 - [IA - Inteligencia artificial](#ai---artificial-intelligence)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
+- [Automation Orchestrator](#automation-orchestrator)
 - [Automatización edge](#edge-automation)
 - [Automatización de nube híbrida](#hybrid-cloud-automation)
   - [Nube pública](#public-cloud)
@@ -63,6 +64,12 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
+<span class="bulletin-meta">24 ago 2026</span>
+</td>
+</tr>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
@@ -271,6 +278,18 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <li class="deck-item">
 <strong class="deck-title">Event-Driven Ansible — integración con Splunk</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&amp;fusionQueryId=3tFUfGcDml&amp;query=splunk" target="_new">Partners</a></div>
+</li>
+</ul>
+
+<h1 id="automation-orchestrator">Automation Orchestrator</h1>
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
 </li>
 </ul>
 

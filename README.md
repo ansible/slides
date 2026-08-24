@@ -13,6 +13,7 @@
 - [Release information](#release-information)
 - [AI - Artificial Intelligence](#ai---artificial-intelligence)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
+- [Automation Orchestrator](#automation-orchestrator)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
@@ -39,6 +40,9 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Aug 24, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a></td>
+</tr>
 <tr>
 <td>Aug 24, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a></td>
 </tr>
@@ -304,6 +308,30 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Event-Driven Ansible - Splunk Integration</td>
 <td><a href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing" target="_blank">Google Source</a></td>
 <td><a href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&amp;fusionQueryId=3tFUfGcDml&amp;query=splunk" target="_new">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Automation Orchestrator
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automation Orchestrator Content Kit</td>
+<td><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Automation Orchestrator 101</td>
+<td><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td>N/A</td>
 </tr>
 </tbody>
 </table>

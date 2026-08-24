@@ -42,6 +42,7 @@ permalink: /ux/
 - [Release information](#release-information)
 - [AI - Artificial Intelligence](#ai---artificial-intelligence)
 - [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
+- [Automation Orchestrator](#automation-orchestrator)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
   - [Public Cloud](#public-cloud)
@@ -68,6 +69,12 @@ permalink: /ux/
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
+<span class="bulletin-meta">Aug 24, 2026</span>
+</td>
+</tr>
 <tr>
 <td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
@@ -282,6 +289,19 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 <li class="deck-item">
 <strong class="deck-title">Event-Driven Ansible - Splunk Integration</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&amp;fusionQueryId=3tFUfGcDml&amp;query=splunk" target="_new">Partners</a></div>
+</li>
+</ul>
+
+# Automation Orchestrator
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-23" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-23" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Automation%20Orchestrator%20Content%20Kit&amp;body=%23%23%20Deck%0AAutomation%20Orchestrator%20Content%20Kit%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-24" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-24" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Automation%20Orchestrator%20101&amp;body=%23%23%20Deck%0AAutomation%20Orchestrator%20101%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
 </li>
 </ul>
 
