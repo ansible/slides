@@ -93,6 +93,12 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Securtiy + Lightwell</a>
+<span class="bulletin-meta">2026年8月14日 · Chad Ferman</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Master your AAP 2.7 Pitch</a>
 <span class="bulletin-meta">2026年6月17日 · Tricia McConnell</span>
 </td>
