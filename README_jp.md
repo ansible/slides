@@ -35,19 +35,19 @@
 - [アナリスト - マーケットリサーチ](#アナリスト---マーケットリサーチ)
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
-- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Automation Orchestrator](#automation-orchestrator)
+- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [エッジの自動化](#エッジの自動化)
 - [ハイブリッドクラウドの自動化](#ハイブリッドクラウドの自動化)
-  - [パブリッククラウド](#パブリッククラウド)
   - [オンクラウド](#オンクラウド)
   - [クラウドネイティブ](#クラウドネイティブ)
   - [OpenShift Virtualization](#openshift-virtualization)
   - [プライベートクラウド - VMware](#プライベートクラウド---vmware)
+  - [パブリッククラウド](#パブリッククラウド)
+- [インフラの自動化](#インフラの自動化)
 - [Lightspeed AI](#lightspeed-ai)
 - [Middleware](#middleware)
 - [ネットワークの自動化](#ネットワークの自動化)
-- [インフラの自動化](#インフラの自動化)
 - [セキュリティの自動化](#セキュリティの自動化)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
 - [リファレンスアーキテクチャー](#リファレンスアーキテクチャー)
@@ -243,6 +243,19 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 </li>
 </ul>
 
+# Automation Orchestrator
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+</ul>
+
 # EDA - Event-Driven Ansible
 
 <ul class="deck-list">
@@ -257,19 +270,6 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 <li class="deck-item">
 <strong class="deck-title">Event-Driven Ansible - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=44938f0c-c48e-4353-9782-fe8e48d3a0ce" target="_blank">パートナー</a></div>
-</li>
-</ul>
-
-# Automation Orchestrator
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Automation Orchestrator Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Automation Orchestrator 101</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
 </li>
 </ul>
 
@@ -307,23 +307,6 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 </li>
 </ul>
 
-
-## パブリッククラウド
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Ansible Public Cloud  - 201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1fwiRitEGIoiv5acYtg49lBhmMXl8ZZNaUlpvudjM_2I/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e08128c8-c26c-43ea-81e0-5e29bf1f69af" target="_blank">パートナー</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Public Cloud  - 301</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e6eae1f-d1fb-4da1-9fc4-c35aab2bcfb6" target="_blank">パートナー</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Terraform Collection とプロバーダーの概要</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1o8NuU3pJJZvXXFH8Tmc6HI6ZcwZs-IhC2B9pvCbdLAs/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
-</li>
-</ul>
 
 ## オンクラウド
 
@@ -389,6 +372,44 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 </li>
 </ul>
 
+## パブリッククラウド
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Public Cloud  - 201</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1fwiRitEGIoiv5acYtg49lBhmMXl8ZZNaUlpvudjM_2I/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e08128c8-c26c-43ea-81e0-5e29bf1f69af" target="_blank">パートナー</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Public Cloud  - 301</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e6eae1f-d1fb-4da1-9fc4-c35aab2bcfb6" target="_blank">パートナー</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Terraform Collection とプロバーダーの概要</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1o8NuU3pJJZvXXFH8Tmc6HI6ZcwZs-IhC2B9pvCbdLAs/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
+</li>
+</ul>
+
+# インフラの自動化
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible インフラ自動化 - 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1yb-Z6nGDDHXWWLPEkk_67jXhdIx5ZF23hkMhtYa9p4Y/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c1799f02-9704-468d-80bc-5060acd51162" target="_blank">パートナー</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible インフラ自動化 - 201</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1yVG58w4Iq2Py3don2sc3gHXAv1bA-mn1GGsijukqAT0/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e72899a-59d7-4ef7-a461-026175c24f01" target="_blank">パートナー</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible インフラ自動化 - 301</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c6560bf-50b6-4ce0-97b5-8bbe1dbb96e9" target="_blank">パートナー</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Windows Automation</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1kWyvZwdzhDug1MzXM6cdtRQurohSY9HHlLTtegSir0M/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
+</li>
+</ul>
+
 # Lightspeed AI
 
 <ul class="deck-list">
@@ -430,27 +451,6 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 <li class="deck-item">
 <strong class="deck-title">Ansible ネットワーク自動化 - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1KIwPMXy8fKFkoB0kyXj_yQpVkYDcNuwNKz66Ldf_8BA/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c0f2b12-abef-4e44-8b12-c0d1e1328046" target="_blank">パートナー</a></div>
-</li>
-</ul>
-
-# インフラの自動化
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Ansible インフラ自動化 - 101</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1yb-Z6nGDDHXWWLPEkk_67jXhdIx5ZF23hkMhtYa9p4Y/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c1799f02-9704-468d-80bc-5060acd51162" target="_blank">パートナー</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible インフラ自動化 - 201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1yVG58w4Iq2Py3don2sc3gHXAv1bA-mn1GGsijukqAT0/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e72899a-59d7-4ef7-a461-026175c24f01" target="_blank">パートナー</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible インフラ自動化 - 301</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c6560bf-50b6-4ce0-97b5-8bbe1dbb96e9" target="_blank">パートナー</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Windows Automation</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1kWyvZwdzhDug1MzXM6cdtRQurohSY9HHlLTtegSir0M/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
 </li>
 </ul>
 

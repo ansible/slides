@@ -36,18 +36,18 @@
 - [ROI (retorno de la inversión)](#roi-return-on-investment)
 - [Información de versiones](#release-information)
 - [IA - Inteligencia artificial](#ai---artificial-intelligence)
-- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Automation Orchestrator](#automation-orchestrator)
+- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Automatización edge](#edge-automation)
 - [Automatización de nube híbrida](#hybrid-cloud-automation)
-  - [Nube pública](#public-cloud)
   - [HashiCorp + Ansible](#hashicorp--ansible)
   - [On Cloud](#on-cloud)
   - [OpenShift Cloud Native](#openshift-cloud-native)
   - [OpenShift Virtualization](#openshift-virtualization)
   - [Nube privada - VMware](#private-cloud---vmware)
-- [Automatización de red](#network-automation)
+  - [Nube pública](#public-cloud)
 - [Automatización de infraestructura](#infrastructure-automation)
+- [Automatización de red](#network-automation)
 - [Cumplimiento de políticas](#policy-enforcement)
 - [Automatización de seguridad](#security-automation)
 - [Automatización ServiceNow ITSM](#servicenow-itsm-automation)
@@ -271,6 +271,18 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 </li>
 </ul>
 
+<h1 id="automation-orchestrator">Automation Orchestrator</h1>
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
+</ul>
+
 <h1 id="eda---event-driven-ansible">EDA - Event-Driven Ansible</h1>
 <ul class="deck-list">
 <li class="deck-item">
@@ -284,18 +296,6 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <li class="deck-item">
 <strong class="deck-title">Event-Driven Ansible — integración con Splunk</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&amp;fusionQueryId=3tFUfGcDml&amp;query=splunk" target="_new">Partners</a></div>
-</li>
-</ul>
-
-<h1 id="automation-orchestrator">Automation Orchestrator</h1>
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Automation Orchestrator Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Automation Orchestrator 101</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
 </li>
 </ul>
 
@@ -331,22 +331,6 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 </li>
 </ul>
 
-
-<h2 id="public-cloud">Nube pública</h2>
-<div id="cloud-use-cases">
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Ansible Public Cloud - 201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Public Cloud - 301</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc" target="_blank">Partners</a></div>
-</li>
-</ul>
-
-</div>
 
 <h2 id="hashicorp--ansible">HashiCorp + Ansible</h2>
 <div id="cloud-use-cases">
@@ -466,25 +450,21 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 </div>
 
-<h1 id="network-automation">Automatización de red</h1>
+<h2 id="public-cloud">Nube pública</h2>
+<div id="cloud-use-cases">
+
 <ul class="deck-list">
 <li class="deck-item">
-<strong class="deck-title">Automatización de red con Ansible - 101</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Partners</a></div>
+<strong class="deck-title">Ansible Public Cloud - 201</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a" target="_blank">Partners</a></div>
 </li>
 <li class="deck-item">
-<strong class="deck-title">Automatización de red con Ansible - 201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit#slide=id.g29bcdc10752_0_6" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=ef06199f-0551-47d3-9fe3-b9d1a6d76260" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Automatización de red con Ansible - 301</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Cisco Enterprise Networking + AAP — kit de contenido</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<strong class="deck-title">Ansible Public Cloud - 301</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc" target="_blank">Partners</a></div>
 </li>
 </ul>
+
+</div>
 
 <h1 id="infrastructure-automation">Automatización de infraestructura</h1>
 <ul class="deck-list">
@@ -511,6 +491,26 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <li class="deck-item">
 <strong class="deck-title">Automatización de Red Hat Enterprise Linux 101/102</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
+</li>
+</ul>
+
+<h1 id="network-automation">Automatización de red</h1>
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automatización de red con Ansible - 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Partners</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automatización de red con Ansible - 201</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit#slide=id.g29bcdc10752_0_6" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=ef06199f-0551-47d3-9fe3-b9d1a6d76260" target="_blank">Partners</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automatización de red con Ansible - 301</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Partners</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Cisco Enterprise Networking + AAP — kit de contenido</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
 </li>
 </ul>
 
