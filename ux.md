@@ -70,6 +70,12 @@ permalink: /ux/
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
+<span class="bulletin-meta">Aug 24, 2026</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a>
 <span class="bulletin-meta">Aug 7, 2026 · Major global financial services and insurance company</span>
 </td>

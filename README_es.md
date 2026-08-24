@@ -65,6 +65,12 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
+<span class="bulletin-meta">24 ago 2026</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + victoria de cliente</a>
 <span class="bulletin-meta">7 ago 2026 · Gran empresa global de servicios financieros y seguros</span>
 </td>

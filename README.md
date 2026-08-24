@@ -40,6 +40,9 @@
 </thead>
 <tbody>
 <tr>
+<td>Aug 24, 2026 - <a target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a></td>
+</tr>
+<tr>
 <td>Aug 7, 2026 - <a target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + Customer Win</a> (Major global financial services and insurance company)</td>
 </tr>
 <tr>

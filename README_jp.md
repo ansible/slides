@@ -64,6 +64,12 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
+<span class="bulletin-meta">2026年8月24日</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/">Red Hat Ansible G2 Review Highlights</a>
 <span class="bulletin-meta">2025年2月3日</span>
 </td>
