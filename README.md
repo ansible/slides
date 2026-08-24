@@ -68,6 +68,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Power 5 - Episode 80 "Ansible Securtiy + Lightwell"</a></td>
+<td>Chad Ferman</td>
+<td>Aug 14, 2026</td>
+</tr>
+<tr>
 <td><a target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Power 5 - Episode 68 "Master your AAP 2.7 Pitch"</a></td>
 <td>Tricia McConnell</td>
 <td>Jun 17, 2026</td>
