@@ -41,18 +41,18 @@ permalink: /ux/
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [AI - Artificial Intelligence](#ai---artificial-intelligence)
-- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Automation Orchestrator](#automation-orchestrator)
+- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
-  - [Public Cloud](#public-cloud)
   - [Hashicorp + Ansible](#hashicorp--ansible)
   - [On Cloud](#on-cloud)
   - [OpenShift Cloud Native](#openshift-cloud-native)
   - [OpenShift Virtualization](#openshift-virtualization)
   - [Private Cloud - VMware](#private-cloud---vmware)
-- [Network Automation](#network-automation)
+  - [Public Cloud](#public-cloud)
 - [Infrastructure Automation](#infrastructure-automation)
+- [Network Automation](#network-automation)
 - [Policy Enforcement](#policy-enforcement)
 - [Security Automation](#security-automation)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
@@ -281,6 +281,19 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 </li>
 </ul>
 
+# Automation Orchestrator
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-23" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-23" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Automation%20Orchestrator%20Content%20Kit&amp;body=%23%23%20Deck%0AAutomation%20Orchestrator%20Content%20Kit%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Automation Orchestrator 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-24" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-24" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Automation%20Orchestrator%20101&amp;body=%23%23%20Deck%0AAutomation%20Orchestrator%20101%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
+</li>
+</ul>
+
 # EDA - Event-Driven Ansible
 
 <ul class="deck-list">
@@ -295,19 +308,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 <li class="deck-item">
 <strong class="deck-title">Event-Driven Ansible - Splunk Integration</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&amp;fusionQueryId=3tFUfGcDml&amp;query=splunk" target="_new">Partners</a></div>
-</li>
-</ul>
-
-# Automation Orchestrator
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Automation Orchestrator Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-23" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-23" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Automation%20Orchestrator%20Content%20Kit&amp;body=%23%23%20Deck%0AAutomation%20Orchestrator%20Content%20Kit%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Automation Orchestrator 101</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-24" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-24" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Automation%20Orchestrator%20101&amp;body=%23%23%20Deck%0AAutomation%20Orchestrator%20101%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
 </li>
 </ul>
 
@@ -345,23 +345,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 </li>
 </ul>
 
-
-## Public Cloud
-
-<div id="cloud-use-cases">
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Ansible Public Cloud  - 201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Public Cloud  - 301</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc" target="_blank">Partners</a></div>
-</li>
-</ul>
-
-</div>
 
 ## Hashicorp + Ansible
 
@@ -486,26 +469,22 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 
 </div>
 
-# Network Automation
+## Public Cloud
+
+<div id="cloud-use-cases">
 
 <ul class="deck-list">
 <li class="deck-item">
-<strong class="deck-title">Ansible Network Automation - 101</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Partners</a></div>
+<strong class="deck-title">Ansible Public Cloud  - 201</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a" target="_blank">Partners</a></div>
 </li>
 <li class="deck-item">
-<strong class="deck-title">Ansible Network Automation - 201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit#slide=id.g29bcdc10752_0_6" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=ef06199f-0551-47d3-9fe3-b9d1a6d76260" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Network Automation - 301</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Cisco Enterprise Networking + AAP - Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-15" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-15" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Cisco%20Enterprise%20Networking%20%2B%20AAP%20-%20Content%20Kit&amp;body=%23%23%20Deck%0ACisco%20Enterprise%20Networking%20%2B%20AAP%20-%20Content%20Kit%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
+<strong class="deck-title">Ansible Public Cloud  - 301</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc" target="_blank">Partners</a></div>
 </li>
 </ul>
+
+</div>
 
 # Infrastructure Automation
 
@@ -533,6 +512,27 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 <li class="deck-item">
 <strong class="deck-title">Red Hat Enterprise Linux Automation  101/102</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-16" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-16" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Red%20Hat%20Enterprise%20Linux%20Automation%20101/102&amp;body=%23%23%20Deck%0ARed%20Hat%20Enterprise%20Linux%20Automation%20101/102%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
+</li>
+</ul>
+
+# Network Automation
+
+<ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Ansible Network Automation - 101</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Partners</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Network Automation - 201</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit#slide=id.g29bcdc10752_0_6" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=ef06199f-0551-47d3-9fe3-b9d1a6d76260" target="_blank">Partners</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Ansible Network Automation - 301</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Partners</a></div>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Cisco Enterprise Networking + AAP - Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-15" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-15" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Cisco%20Enterprise%20Networking%20%2B%20AAP%20-%20Content%20Kit&amp;body=%23%23%20Deck%0ACisco%20Enterprise%20Networking%20%2B%20AAP%20-%20Content%20Kit%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
 </li>
 </ul>
 

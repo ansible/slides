@@ -12,18 +12,18 @@
 - [ROI (Return on Investment)](#roi-return-on-investment)
 - [Release information](#release-information)
 - [AI - Artificial Intelligence](#ai---artificial-intelligence)
-- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Automation Orchestrator](#automation-orchestrator)
+- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [Edge Automation](#edge-automation)
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
-  - [Public Cloud](#public-cloud)
   - [Hashicorp + Ansible](#hashicorp--ansible)
   - [On Cloud](#on-cloud)
   - [OpenShift Cloud Native](#openshift-cloud-native)
   - [OpenShift Virtualization](#openshift-virtualization)
   - [Private Cloud - VMware](#private-cloud---vmware)
-- [Network Automation](#network-automation)
+  - [Public Cloud](#public-cloud)
 - [Infrastructure Automation](#infrastructure-automation)
+- [Network Automation](#network-automation)
 - [Policy Enforcement](#policy-enforcement)
 - [Security Automation](#security-automation)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
@@ -288,6 +288,30 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </tbody>
 </table>
 
+# Automation Orchestrator
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Automation Orchestrator Content Kit</td>
+<td><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Automation Orchestrator 101</td>
+<td><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td>N/A</td>
+</tr>
+</tbody>
+</table>
+
 # EDA - Event-Driven Ansible
 
 <table>
@@ -313,30 +337,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Event-Driven Ansible - Splunk Integration</td>
 <td><a href="https://docs.google.com/presentation/d/1fxPvQuNm6Kty1H2oArnbo1uAfpybwyz7H6hnN_Yt_yQ/edit?usp=sharing" target="_blank">Google Source</a></td>
 <td><a href="https://content.redhat.com/us/en/assets/display.html?id=c6341dd2-4288-4f91-a797-af86d6710c4f&amp;fusionQueryId=3tFUfGcDml&amp;query=splunk" target="_new">Content Center</a></td>
-</tr>
-</tbody>
-</table>
-
-# Automation Orchestrator
-
-<table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Automation Orchestrator Content Kit</td>
-<td><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Google Source</a></td>
-<td>N/A</td>
-</tr>
-<tr>
-<td>Automation Orchestrator 101</td>
-<td><a href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing" target="_blank">Google Source</a></td>
-<td>N/A</td>
 </tr>
 </tbody>
 </table>
@@ -399,32 +399,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </tbody>
 </table>
 
-
-## Public Cloud
-
-<div id="cloud-use-cases">
-<table>
-<thead>
-<tr>
-<th>Slide Deck</th>
-<th>Red Hat Internal Link</th>
-<th>RHCC Link (employees and partners)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Ansible Public Cloud  - 201</td>
-<td><a href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link" target="_blank">Google Source</a></td>
-<td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a" target="_blank">Content Center</a></td>
-</tr>
-<tr>
-<td>Ansible Public Cloud  - 301</td>
-<td><a href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link" target="_blank">Google Source</a></td>
-<td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc" target="_blank">Content Center</a></td>
-</tr>
-</tbody>
-</table>
-</div>
 
 ## Hashicorp + Ansible
 
@@ -606,8 +580,9 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </table>
 </div>
 
-# Network Automation
+## Public Cloud
 
+<div id="cloud-use-cases">
 <table>
 <thead>
 <tr>
@@ -618,27 +593,18 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 </thead>
 <tbody>
 <tr>
-<td>Ansible Network Automation - 101</td>
-<td><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Google Source</a></td>
-<td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Content Center</a></td>
+<td>Ansible Public Cloud  - 201</td>
+<td><a href="https://docs.google.com/presentation/d/1zZC6L-leuVAlwhwrnc8iUdqb0lKuqVh3F4I2oBINgAA/edit?usp=share_link" target="_blank">Google Source</a></td>
+<td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a" target="_blank">Content Center</a></td>
 </tr>
 <tr>
-<td>Ansible Network Automation - 201</td>
-<td><a href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit#slide=id.g29bcdc10752_0_6" target="_blank">Google Source</a></td>
-<td><a href="https://content.redhat.com/us/en/assets/display.html?id=ef06199f-0551-47d3-9fe3-b9d1a6d76260" target="_blank">Content Center</a></td>
-</tr>
-<tr>
-<td>Ansible Network Automation - 301</td>
-<td><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Google Source</a></td>
-<td><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Content Center</a></td>
-</tr>
-<tr>
-<td>Cisco Enterprise Networking + AAP - Content Kit</td>
-<td><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Google Source</a></td>
-<td>N/A</td>
+<td>Ansible Public Cloud  - 301</td>
+<td><a href="https://docs.google.com/presentation/d/1Z_hG_XCMZiOmytyV4q4v2rncuf2KNH8OFdi1wwdkmiE/edit?usp=share_link" target="_blank">Google Source</a></td>
+<td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc" target="_blank">Content Center</a></td>
 </tr>
 </tbody>
 </table>
+</div>
 
 # Infrastructure Automation
 
@@ -680,6 +646,40 @@ Use the Red Hat portal tooling to determine high level time and cost savings</td
 <td>Red Hat Enterprise Linux Automation  101/102</td>
 <td><a href="https://docs.google.com/presentation/d/1Uat6WAuNB2wAMjSwvvi0cQzbb_D8V8HOnLc_rvEm0C4/edit?usp=sharing" target="_blank">Google Source</a></td>
 <td>Coming soon!</td>
+</tr>
+</tbody>
+</table>
+
+# Network Automation
+
+<table>
+<thead>
+<tr>
+<th>Slide Deck</th>
+<th>Red Hat Internal Link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansible Network Automation - 101</td>
+<td><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Google Source</a></td>
+<td><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible Network Automation - 201</td>
+<td><a href="https://docs.google.com/presentation/d/1GhYnnw9ESdIUIKinHFnHt-vmVJVdyf-Uld1X5sQJWTE/edit#slide=id.g29bcdc10752_0_6" target="_blank">Google Source</a></td>
+<td><a href="https://content.redhat.com/us/en/assets/display.html?id=ef06199f-0551-47d3-9fe3-b9d1a6d76260" target="_blank">Content Center</a></td>
+</tr>
+<tr>
+<td>Ansible Network Automation - 301</td>
+<td><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Content Center</a></td>
+</tr>
+<tr>
+<td>Cisco Enterprise Networking + AAP - Content Kit</td>
+<td><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Google Source</a></td>
+<td>N/A</td>
 </tr>
 </tbody>
 </table>
