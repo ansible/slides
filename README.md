@@ -256,13 +256,13 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 # AI - Artificial Intelligence
 
 <ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">AIOps Customer deck</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1bL0u8fLRbJP6YpArwpR1KyonII_rtJd2wtlYlDHDQeQ/edit?slide=id.g3a9447748b7_1_4#slide=id.g3a9447748b7_1_4" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f9d63734-2b18-4316-8907-68b3c5e20728&amp;fusionQueryId=vNUOmSEnTI&amp;query=aiops" target="_blank">Partners</a></div>
-</li>
 <li class="deck-item deck-item--kit">
 <strong class="deck-title">Content Kit</strong>
 <a class="deck-kit-pill" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6" target="_blank">Open content kit</a>
+</li>
+<li class="deck-item">
+<strong class="deck-title">AIOps Customer deck</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1bL0u8fLRbJP6YpArwpR1KyonII_rtJd2wtlYlDHDQeQ/edit?slide=id.g3a9447748b7_1_4#slide=id.g3a9447748b7_1_4" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f9d63734-2b18-4316-8907-68b3c5e20728&amp;fusionQueryId=vNUOmSEnTI&amp;query=aiops" target="_blank">Partners</a></div>
 </li>
 <li class="deck-item">
 <strong class="deck-title">AI + Ansible - 101/201</strong>
@@ -549,6 +549,10 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 # Security Automation
 
 <ul class="deck-list">
+<li class="deck-item deck-item--kit">
+<strong class="deck-title">Security Content kit</strong>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing" target="_blank">Open content kit</a>
+</li>
 <li class="deck-item">
 <strong class="deck-title">Ansible Security Automation - 101/201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=97d129d2-7752-4a8f-9730-b39754e75888&amp;fusionQueryId=POMvjp8OJn&amp;query=security%20automation%20101" target="_blank">Partners</a></div>
@@ -560,10 +564,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform - Mythos</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1-ZgLAyKVx3ccHyJB-eGaozMpNGq3AjFOfoAK9YZfl1Y/edit?slide=id.g3e8ae193bf2_4_199#slide=id.g3e8ae193bf2_4_199" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-19" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-19" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Ansible%20Automation%20Platform%20-%20Mythos&amp;body=%23%23%20Deck%0AAnsible%20Automation%20Platform%20-%20Mythos%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
-</li>
-<li class="deck-item deck-item--kit">
-<strong class="deck-title">Security Content kit</strong>
-<a class="deck-kit-pill" href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing" target="_blank">Open content kit</a>
 </li>
 </ul>
 

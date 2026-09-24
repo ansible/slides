@@ -251,13 +251,13 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 <h1 id="ai---artificial-intelligence">IA - Inteligencia artificial</h1>
 <ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Presentación de cliente AIOps</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1bL0u8fLRbJP6YpArwpR1KyonII_rtJd2wtlYlDHDQeQ/edit?slide=id.g3a9447748b7_1_4#slide=id.g3a9447748b7_1_4" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f9d63734-2b18-4316-8907-68b3c5e20728&amp;fusionQueryId=vNUOmSEnTI&amp;query=aiops" target="_blank">Partners</a></div>
-</li>
 <li class="deck-item deck-item--kit">
 <strong class="deck-title">Kit de contenido</strong>
 <a class="deck-kit-pill" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6" target="_blank">Abrir kit de contenido</a>
+</li>
+<li class="deck-item">
+<strong class="deck-title">Presentación de cliente AIOps</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1bL0u8fLRbJP6YpArwpR1KyonII_rtJd2wtlYlDHDQeQ/edit?slide=id.g3a9447748b7_1_4#slide=id.g3a9447748b7_1_4" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f9d63734-2b18-4316-8907-68b3c5e20728&amp;fusionQueryId=vNUOmSEnTI&amp;query=aiops" target="_blank">Partners</a></div>
 </li>
 <li class="deck-item">
 <strong class="deck-title">IA + Ansible - 101/201</strong>
@@ -530,6 +530,10 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 <h1 id="security-automation">Automatización de seguridad</h1>
 <ul class="deck-list">
+<li class="deck-item deck-item--kit">
+<strong class="deck-title">Kit de contenido de seguridad</strong>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
+</li>
 <li class="deck-item">
 <strong class="deck-title">Automatización de seguridad con Ansible - 101/201</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=97d129d2-7752-4a8f-9730-b39754e75888&amp;fusionQueryId=POMvjp8OJn&amp;query=security%20automation%20101" target="_blank">Partners</a></div>
@@ -541,10 +545,6 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform — Mythos</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1-ZgLAyKVx3ccHyJB-eGaozMpNGq3AjFOfoAK9YZfl1Y/edit?slide=id.g3e8ae193bf2_4_199#slide=id.g3e8ae193bf2_4_199" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
-</li>
-<li class="deck-item deck-item--kit">
-<strong class="deck-title">Kit de contenido de seguridad</strong>
-<a class="deck-kit-pill" href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 </ul>
 
