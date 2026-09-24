@@ -255,9 +255,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <strong class="deck-title">Presentación de cliente AIOps</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1bL0u8fLRbJP6YpArwpR1KyonII_rtJd2wtlYlDHDQeQ/edit?slide=id.g3a9447748b7_1_4#slide=id.g3a9447748b7_1_4" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=f9d63734-2b18-4316-8907-68b3c5e20728&amp;fusionQueryId=vNUOmSEnTI&amp;query=aiops" target="_blank">Partners</a></div>
 </li>
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Kit de contenido</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/presentation/d/1tlV6CV1SZl01j3lKNRr2qD5dVNinIDnEVCegD7B_dsY/edit?slide=id.g3a047feee7c_0_6#slide=id.g3a047feee7c_0_6" target="_blank">Abrir kit de contenido</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">IA + Ansible - 101/201</strong>
@@ -279,9 +279,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 <h1 id="automation-orchestrator">Automation Orchestrator</h1>
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Automation Orchestrator Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Automation Orchestrator 101</strong>
@@ -327,9 +327,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 <h1 id="hybrid-cloud-automation">Automatización de nube híbrida</h1>
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">2026 Cloud Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Automatización de nube híbrida 101 — introducción</strong>
@@ -342,9 +342,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <div id="cloud-use-cases">
 
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Kit de contenido</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/presentation/d/1EwTvqHDd2nLugntB-qQssWOS3I_11ReQ04zd3k5X_SU/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Ansible + Terraform 101</strong>
@@ -417,9 +417,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <div id="cloud-use-cases">
 
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Kit de contenido</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing" target="_new">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1XXsxYuckRt7IlFAKJ9vq3CpmKt3fRW_IeVODaTx78dQ/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">OpenShift Virtualization - 101/201</strong>
@@ -502,9 +502,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 <h1 id="network-automation">Automatización de red</h1>
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Network Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Automatización de red con Ansible - 101</strong>
@@ -517,10 +517,6 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <li class="deck-item">
 <strong class="deck-title">Automatización de red con Ansible - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1h21-kuaMuo6jRtfsDkldgCeQnXx1NNgx2MWBk_fvjgQ/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=433463ff-1c70-4861-bc49-6dee7cdeda52" target="_blank">Partners</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Cisco Enterprise Networking + AAP — kit de contenido</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1NeQukF5hWiSaYZqscfRhG9tkh5QDMjbFNu6b2utQt8s/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
 </li>
 </ul>
 
@@ -546,9 +542,9 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <strong class="deck-title">Ansible Automation Platform — Mythos</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1-ZgLAyKVx3ccHyJB-eGaozMpNGq3AjFOfoAK9YZfl1Y/edit?slide=id.g3e8ae193bf2_4_199#slide=id.g3e8ae193bf2_4_199" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
 </li>
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Kit de contenido de seguridad</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1LoMUaQYuiU_0a2AVNqfk2s4c3WsNuz0nGqcQ53MSXHU/edit?usp=sharing" target="_blank">Abrir kit de contenido</a>
 </li>
 </ul>
 

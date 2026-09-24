@@ -252,9 +252,9 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 # Automation Orchestrator
 
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Automation Orchestrator Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1e1sSAbyWp1pfNEWTxlPs2d6vGqx9Gq59oLEefYOhcpk/edit?usp=sharing" target="_blank">コンテンツキットを開く</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Automation Orchestrator 101</strong>
@@ -303,9 +303,9 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 # ハイブリッドクラウドの自動化
 
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">2026 Cloud Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing" target="_blank">コンテンツキットを開く</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Hybrid Cloud Automation 101 - Introduction</strong>
@@ -347,9 +347,9 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 ## OpenShift Virtualization
 
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/" target="_new">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/document/d/11Of3-qBQlG4-edrtJejIXmq98Zo9S6SVaIsD05UrWlw/" target="_blank">コンテンツキットを開く</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Ansible OpenShift Virtualization - 101</strong>
@@ -446,9 +446,9 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 # ネットワークの自動化
 
 <ul class="deck-list">
-<li class="deck-item">
+<li class="deck-item deck-item--kit">
 <strong class="deck-title">Network Content Kit</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+<a class="deck-kit-pill" href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing" target="_blank">コンテンツキットを開く</a>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Ansible ネットワーク自動化 - 101</strong>
