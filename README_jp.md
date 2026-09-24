@@ -65,6 +65,12 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing">Network Content Kit</a>
+<span class="bulletin-meta">2026年9月24日</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
 <span class="bulletin-meta">2026年8月24日</span>
 </td>
@@ -440,6 +446,10 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 # ネットワークの自動化
 
 <ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Network Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
 <li class="deck-item">
 <strong class="deck-title">Ansible ネットワーク自動化 - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/114_nyRhafsL5o7D8ADawHJKgvy7IpSFf3eVLRWNV5gU/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>

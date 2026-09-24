@@ -66,6 +66,12 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing">Network Content Kit</a>
+<span class="bulletin-meta">24 sep 2026</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
 <span class="bulletin-meta">24 ago 2026</span>
 </td>
@@ -496,6 +502,10 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 
 <h1 id="network-automation">Automatización de red</h1>
 <ul class="deck-list">
+<li class="deck-item">
+<strong class="deck-title">Network Content Kit</strong>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">—</span></div>
+</li>
 <li class="deck-item">
 <strong class="deck-title">Automatización de red con Ansible - 101</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1g9T0QwgAzhmBiZHZ3HLmL1fZLqFwNsD21xODjWt_KqQ" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4b2712e3-0cd2-4dfa-a166-eebcce7e65ee" target="_blank">Partners</a></div>
