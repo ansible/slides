@@ -47,11 +47,11 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
-    <!-- AWS re:Invent 2025 Banner -->
-    <div id="reinvent-banner" class="reinvent-banner">
+    <!-- Upcoming event banner -->
+    <div id="reinvent-banner" class="reinvent-banner hidden">
       <div class="reinvent-banner-content">
         <div class="reinvent-banner-text">
-          <strong><a href="https://ansible-tmm.github.io/ansible-f1" target="_blank" rel="noopener" style="color: white; text-decoration: underline;">Built to Automate - Ansible F1 Racer</a> - Live at Summit May 11-14, 2026</strong>
+          <strong id="event-banner-text"></strong>
         </div>
         <button id="close-reinvent-banner" class="reinvent-banner-close" aria-label="Close banner">&times;</button>
       </div>
@@ -172,43 +172,66 @@
       });
     </script>
 
-    <!-- AWS re:Invent Banner JavaScript -->
+    <!-- Upcoming event banner JavaScript -->
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         const banner = document.getElementById('reinvent-banner');
+        const bannerText = document.getElementById('event-banner-text');
         const closeButton = document.getElementById('close-reinvent-banner');
+        const now = new Date();
 
-        // Check if banner was previously dismissed (localStorage)
-        // Using dated key to allow resetting banner for new events
-        const bannerDismissed = localStorage.getItem('reinvent-banner-dismissed-2026-05');
+        // Oct 15 EDB webinar through end of Oct 15 ET; then Nov 3 partner webinar through end of Nov 4 ET
+        const events = [
+          {
+            id: 'edb-2026-10-15',
+            href: 'https://event.on24.com/wcc/r/5490615/F99B8235699C91DD3779CE9E96EF9A0E',
+            label: 'Governing EDB Postgres AI at Scale with Red Hat Ansible',
+            detail: 'Live webinar Oct 15, 11:00 AM ET',
+            start: new Date('2026-10-14T00:00:00-04:00'),
+            end: new Date('2026-10-15T23:59:59-04:00')
+          },
+          {
+            id: 'edb-2026-11-03',
+            href: 'https://www.brighttalk.com/webcast/18106/677521?utm_source=RedHatPartnerProgram&utm_medium=brighttalk&utm_campaign=677521',
+            label: 'Governing EDB Postgres AI at Scale with Red Hat Ansible',
+            detail: 'Ansible-led partner webinar Nov 3',
+            start: new Date('2026-10-16T00:00:00-04:00'),
+            end: new Date('2026-11-04T23:59:59-05:00')
+          }
+        ];
 
-        if (bannerDismissed === 'true') {
+        const activeEvent = events.find(function(event) {
+          return now >= event.start && now <= event.end;
+        });
+
+        if (!activeEvent) {
           banner.classList.add('hidden');
+          return;
         }
 
-        // Handle close button click
+        const dismissKey = 'reinvent-banner-dismissed-' + activeEvent.id;
+        if (localStorage.getItem(dismissKey) === 'true') {
+          banner.classList.add('hidden');
+          return;
+        }
+
+        bannerText.innerHTML =
+          '<a href="' + activeEvent.href + '" target="_blank" rel="noopener" style="color: white; text-decoration: underline;">' +
+          activeEvent.label +
+          '</a> — ' + activeEvent.detail;
+        banner.classList.remove('hidden');
+
         if (closeButton) {
           closeButton.addEventListener('click', function() {
-            // Add smooth transition before hiding
             banner.style.transition = 'transform 0.3s ease-out, opacity 0.3s ease-out';
             banner.style.transform = 'translateY(-100%)';
             banner.style.opacity = '0';
 
-            // Hide banner after animation completes
             setTimeout(function() {
               banner.classList.add('hidden');
-              // Remember user's preference
-              localStorage.setItem('reinvent-banner-dismissed-2026-05', 'true');
+              localStorage.setItem(dismissKey, 'true');
             }, 300);
           });
-        }
-
-        // Auto-hide banner after end of next week (May 16, 2026)
-        const currentDate = new Date();
-        const eventEndDate = new Date('2026-05-16');
-
-        if (currentDate > eventEndDate) {
-          banner.classList.add('hidden');
         }
       });
     </script>
