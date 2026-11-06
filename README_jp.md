@@ -88,35 +88,6 @@
 </tr>
 </tbody>
 </table>
-
-<table class="bulletin-power5">
-<thead>
-<tr>
-<th>Power 5</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Securtiy + Lightwell</a>
-<span class="bulletin-meta">2026年8月14日 · Chad Ferman</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Master your AAP 2.7 Pitch</a>
-<span class="bulletin-meta">2026年6月17日 · Tricia McConnell</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Ep 66 — AAP + MetLife Win</a>
-<span class="bulletin-meta">2026年5月7日 · Harper Buete and Tucker Fisher</span>
-</td>
-</tr>
-</tbody>
-</table>
-
 <table class="bulletin-docs">
 <thead>
 <tr>
@@ -156,7 +127,6 @@
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform ピッチデッキfor AE (2023 Version)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1lcy0P8f5WBwKJeLtXrscKcGSc262N14MFqtGdJNfot8" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
-<ul><li><a href="https://videos.learning.redhat.com/media/1_0dz25zji" target="_blank">How to use this deck (Video)</a></li></ul>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform テクニカルデッキ for SSP &amp; SA</strong>
@@ -306,7 +276,6 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 </li>
 </ul>
 
-
 ## オンクラウド
 
 <ul class="deck-list">
@@ -434,7 +403,6 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/166VOoOEIJrdA_PfmcDOp6o_181KleybPbWNYweakUPk/" target="_blank">社員</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">近日公開</span></div>
 </li>
 </ul>
-
 
 # ネットワークの自動化
 
