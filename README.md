@@ -101,35 +101,6 @@
 </tr>
 </tbody>
 </table>
-
-<table class="bulletin-power5">
-<thead>
-<tr>
-<th>Power 5</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Securtiy + Lightwell</a>
-<span class="bulletin-meta">Aug 14, 2026 · Chad Ferman</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Master your AAP 2.7 Pitch</a>
-<span class="bulletin-meta">Jun 17, 2026 · Tricia McConnell</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Ep 66 — AAP + MetLife Win</a>
-<span class="bulletin-meta">May 7, 2026 · Harper Buete and Tucker Fisher</span>
-</td>
-</tr>
-</tbody>
-</table>
-
 <table class="bulletin-docs">
 <thead>
 <tr>
@@ -169,7 +140,6 @@
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform Pitch Deck for AEs (2024 version)</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1QYQL6A0AalmVQ-woZhMkXovFTLcdjQzY4s4lYJkMDpQ/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a8196555-1175-48b1-83df-171aa6697334" target="_new">Partners</a></div>
-<ul><li><a href="https://videos.learning.redhat.com/media/1_0dz25zji" target="_blank">How to use this deck (Video)</a></li></ul>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform Technical Deck for SSPs and SAs</strong>
@@ -338,7 +308,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1JVXGf23MXoRH3jn7OMHoNp7whBs4q-Tm9CzlRnXracA/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3a2738a8-f69b-42b3-bf55-e24b2df1d7ca" target="_blank">Partners</a></div>
 </li>
 </ul>
-
 
 ## Hashicorp + Ansible
 
