@@ -50,7 +50,6 @@
 - [ネットワークの自動化](#ネットワークの自動化)
 - [セキュリティの自動化](#セキュリティの自動化)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
-- [リファレンスアーキテクチャー](#リファレンスアーキテクチャー)
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </nav>
@@ -135,12 +134,6 @@
 <td>
 <a class="bulletin-title" target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">AAP life cycle</a>
 <span class="bulletin-kind bulletin-kind--kb">KB</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models</a>
-<span class="bulletin-kind bulletin-kind--docs">Docs</span>
 </td>
 </tr>
 <tr>
@@ -487,23 +480,6 @@ Red Hatポータルツールを使用したハイレベルな時間およびコ�
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform for ServiceNow ITSM</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1CrjQzOsPCfcq4RgzQBYQw1h-1Y2oqslsqJiSUe52Vxo/" target="_blank">社員</a></div>
-</li>
-</ul>
-
-# リファレンスアーキテクチャー
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Ansible Automation Platform 2.1 の導入</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index" target="_blank">社員</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Red Hat OpenShift への Ansible Automation Platform 2 のデプロイ</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index" target="_blank">社員</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Automation Platform 1.2 から 2 への移行ガイド</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/ja-jp/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index" target="_blank">社員</a></div>
 </li>
 </ul>
 

@@ -51,7 +51,6 @@
 - [Policy Enforcement](#policy-enforcement)
 - [Security Automation](#security-automation)
 - [ServiceNow ITSM Automation](#servicenow-itsm-automation)
-- [Reference Architectures](#reference-architectures)
 - [Logos, Graphics, Icons and Brand Rules](#logos-graphics-icons-and-brand-rules)
 
 </nav>
@@ -148,12 +147,6 @@
 <td>
 <a class="bulletin-title" target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">AAP life cycle</a>
 <span class="bulletin-kind bulletin-kind--kb">KB</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Tested deployment models</a>
-<span class="bulletin-kind bulletin-kind--docs">Docs</span>
 </td>
 </tr>
 <tr>
@@ -573,23 +566,6 @@ Use the Red Hat portal tooling to determine high level time and cost savings</st
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform for ServiceNow ITSM</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1tZerCHqspFzGd3-kYWUz3tsiaIvHr-Ufs-veW4TozMU/edit?usp=sharing" target="_blank">Employees</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="deck-partners-pending"><span class="deck-partners-label">Partners</span><span class="deck-partners-help"><button type="button" class="deck-partners-info-btn" aria-describedby="deck-partners-tip-21" aria-label="Partner availability details"><span class="deck-partners-info-icon" aria-hidden="true"></span></button><span id="deck-partners-tip-21" class="deck-partners-tip" role="tooltip">Not available in Red Hat Content Center yet. <a href="https://github.com/ansible/slides/issues/new?title=RHCC%3A%20Ansible%20Automation%20Platform%20for%20ServiceNow%20ITSM&amp;body=%23%23%20Deck%0AAnsible%20Automation%20Platform%20for%20ServiceNow%20ITSM%0A%0A%23%23%20Context%0AThere%20is%20currently%20no%20Red%20Hat%20Content%20Center%20%28Partners%29%20link%20for%20this%20deck%20on%20Slide%20Finder.%0A%0A%23%23%20Ask%0APlease%20add%20an%20RHCC%20/%20Partners%20link%20when%20available%2C%20or%20comment%20here%20if%20it%20cannot%20be%20published%20for%20partners%20%28and%20why%29.%0A" target="_blank" rel="noopener">Open a GitHub issue</a> to request it, or to note why a Partners link cannot be added.</span></span></span></div>
-</li>
-</ul>
-
-# Reference Architectures
-
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Deploying Ansible Automation Platform 2.1</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index" target="_blank">Employees</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Deploying Ansible Automation Platform 2 on Red Hat OpenShift</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index" target="_blank">Employees</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Automation Platform 1.2 to 2 Migration Guide</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index" target="_blank">Employees</a></div>
 </li>
 </ul>
 

@@ -51,7 +51,6 @@
 - [Cumplimiento de políticas](#policy-enforcement)
 - [Automatización de seguridad](#security-automation)
 - [Automatización ServiceNow ITSM](#servicenow-itsm-automation)
-- [Arquitecturas de referencia](#reference-architectures)
 - [Logos, gráficos, iconos y reglas de marca](#logos-graphics-icons-and-brand-rules)
 
 </nav>
@@ -148,12 +147,6 @@
 <td>
 <a class="bulletin-title" target="_new" href="https://access.redhat.com/support/policy/updates/ansible-automation-platform">Ciclo de vida de AAP</a>
 <span class="bulletin-kind bulletin-kind--kb">KB</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://docs.redhat.com/en/documentation/red_hat_ansible_automation_platform/latest/html-single/tested_deployment_models/index">Modelos de implementación probados</a>
-<span class="bulletin-kind bulletin-kind--docs">Docs</span>
 </td>
 </tr>
 <tr>
@@ -553,22 +546,6 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 <li class="deck-item">
 <strong class="deck-title">Ansible Automation Platform para ServiceNow ITSM</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/1tZerCHqspFzGd3-kYWUz3tsiaIvHr-Ufs-veW4TozMU/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
-</li>
-</ul>
-
-<h1 id="reference-architectures">Arquitecturas de referencia</h1>
-<ul class="deck-list">
-<li class="deck-item">
-<strong class="deck-title">Implementación de Ansible Automation Platform 2.1</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.1/html-single/deploying_ansible_automation_platform_2.1/index" target="_blank">Empleados</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Implementación de Ansible Automation Platform 2 en Red Hat OpenShift</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/deploying_ansible_automation_platform_2_on_red_hat_openshift/index" target="_blank">Empleados</a></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Guía de migración de Ansible Automation Platform 1.2 a 2</strong>
-<div class="deck-access"><a href="https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html-single/ansible_automation_platform_1.2_to_2_migration_guide/index" target="_blank">Empleados</a></div>
 </li>
 </ul>
 
