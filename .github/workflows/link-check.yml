@@ -1,0 +1,62 @@
+name: Weekly external link check
+
+on:
+  schedule:
+    # Mondays at 14:00 UTC
+    - cron: "0 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: link-check
+  cancel-in-progress: true
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install checker dependency
+        run: pip install curl_cffi
+
+      - name: Check external links
+        id: check
+        continue-on-error: true
+        run: python scripts/check_external_links.py --report link-check-report.md
+
+      - name: Prepare PR body
+        id: body
+        if: steps.check.outcome == 'failure'
+        run: |
+          {
+            echo "## Summary"
+            echo "Weekly external link check found broken links."
+            echo
+            echo "Review \`link-check-report.md\` and remove or replace dead URLs."
+            echo
+            echo "## Report"
+            echo
+            cat link-check-report.md
+          } > /tmp/pr-body.md
+
+      - name: Open or update pull request
+        if: steps.check.outcome == 'failure'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "Report broken external links from weekly check"
+          title: "Weekly link check: broken external URLs found"
+          body-path: /tmp/pr-body.md
+          branch: link-check/weekly
+          delete-branch: true
+          add-paths: |
+            link-check-report.md
