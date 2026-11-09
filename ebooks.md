@@ -4,6 +4,7 @@
 - [Hybrid Cloud Automation](#hybrid-cloud-automation)
 - [Infrastructure](#infrastructure)
 - [Network Automation](#network-automation)
+- [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
 - [Security](#security)
 - [Value of a subscription](#value-of-a-subscription)
 
@@ -54,6 +55,26 @@
 </td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/graduate-to-ansible-automation-platform-ebook">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=e735dd08-e9af-425b-a5f3-5de95ae42203">Content Center</a></td>
+</tr>
+<tr>
+<td>Advance your automation maturity</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-maturity-guide-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=d64de790-9c9d-48bc-a2ff-961592a75e29">Content Center</a></td>
+</tr>
+<tr>
+<td>Speed automation adoption with a community of practice</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/automation-community-of-practice-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=74157b8c-0bbd-4568-a323-13c8417889c7">Content Center</a></td>
+</tr>
+<tr>
+<td>Accelerate your IT automation with AI</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/accelerate-your-it-automation-with-ai-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=9e7facab-5643-4955-a413-78d4e3552c80">Content Center</a></td>
+</tr>
+<tr>
+<td>Build a trusted IT automation foundation in the AI era</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/it-automation-in-ai-era-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=4d072471-14c5-4c2d-8a3a-6657f6b82ef5">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -142,6 +163,30 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/network-automation-technical-e-book">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=363c136c-0c30-4d74-a3d0-59f3d1eea97a">Content Center</a></td>
 </tr>
+<tr>
+<td>Manage virtual infrastructure with confidence</td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/manage-virtual-infrastructure-with-confidence-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f9daba46-a5e2-471e-899b-cf26ad5b4c24">Content Center</a></td>
+</tr>
+</tbody>
+</table>
+
+# Event-Driven Ansible (EDA)
+
+<table>
+<thead>
+<tr>
+<th>ebook title</th>
+<th>external link</th>
+<th>RHCC Link (employees and partners)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Observability and Event-Driven Ansible</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/observability-and-event-driven-ansible">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=1da7c425-7807-4a8b-b576-7975017648cc">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -184,6 +229,11 @@
 <td>Red Hat Ansible Automation Platform: A beginner’s guide</td>
 <td><a target="_blank" href="https://www.redhat.com/en/resources/ansible-automation-platform-beginner-guide-ebook">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c124c535-7608-4729-bba6-79c9b28f4181">Content Center</a></td>
+</tr>
+<tr>
+<td>10 high-value ways to automate high-efficiency workflows</td>
+<td><a target="_blank" href="https://www.redhat.com/en/engage/automate-high-efficiency-workflows-ebook">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=af529b84-267c-4551-b85b-aa75e8cbf5e2">Content Center</a></td>
 </tr>
 </tbody>
 </table>
