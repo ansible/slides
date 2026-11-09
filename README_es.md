@@ -101,6 +101,35 @@
 </tr>
 </tbody>
 </table>
+
+<table class="bulletin-power5">
+<thead>
+<tr>
+<th>Power 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Securtiy + Lightwell</a>
+<span class="bulletin-meta">14 ago 2026 · Chad Ferman</span>
+</td>
+</tr>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Domina tu pitch de AAP 2.7</a>
+<span class="bulletin-meta">17 jun 2026 · Tricia McConnell</span>
+</td>
+</tr>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Ep 66 — AAP + victoria MetLife</a>
+<span class="bulletin-meta">7 may 2026 · Harper Buete and Tucker Fisher</span>
+</td>
+</tr>
+</tbody>
+</table>
+
 <table class="bulletin-docs">
 <thead>
 <tr>
