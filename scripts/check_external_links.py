@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Check public external links in site content pages.
 
-Skips content.redhat.com (auth wall) and github.com edit links.
+Skips content.redhat.com (auth wall), github.com edit links, and Power 5
+learning-video hosts that often 404 to unauthenticated checkers.
 Writes a markdown report and exits non-zero when broken links are found.
 """
 
@@ -32,8 +33,15 @@ SKIP_HOST_PREFIXES = (
     "https://content.redhat.com/",
     "https://github.com/",
     "http://github.com/",
+    # Power 5 / RH learning videos: auth-gated or checker-unfriendly; keep on site.
+    "https://videos.learning.redhat.com/",
 )
 HREF_RE = re.compile(r'href="(https?://[^"]+)"', re.I)
+# Also skip any href that appears inside a Power 5 bulletin table.
+POWER5_TABLE_RE = re.compile(
+    r'<table class="bulletin-power5">.*?</table>',
+    re.I | re.S,
+)
 
 
 def collect_links(files: list[Path]) -> list[tuple[str, str]]:
@@ -42,7 +50,9 @@ def collect_links(files: list[Path]) -> list[tuple[str, str]]:
     for path in files:
         text = path.read_text(encoding="utf-8", errors="replace")
         rel = str(path.relative_to(ROOT))
-        for url in HREF_RE.findall(text):
+        # Strip Power 5 bulletin tables so their links are never reported.
+        scan_text = POWER5_TABLE_RE.sub("", text)
+        for url in HREF_RE.findall(scan_text):
             if any(url.startswith(p) for p in SKIP_HOST_PREFIXES):
                 continue
             key = (rel, url)
