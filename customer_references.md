@@ -160,6 +160,34 @@
 <td><a target="_blank" href="https://www.redhat.com/en/resources/bcbsnc-case-study">on redhat.com</a></td>
 <td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c66585a7-8531-44e4-bebb-8b6c5702fdc1">Content Center</a></td>
 </tr>
+<tr>
+<td>Swisscom gains efficiency by standardizing and expanding automation</td>
+<td>Swisscom</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/swisscom-standardizes-and-expands-automation-case-study">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=be52f99b-9adc-475c-b776-0272e5380688">Content Center</a></td>
+</tr>
+<tr>
+<td>Mutua Madrileña adopts automation as standard with Red Hat</td>
+<td>Mutua Madrileña</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/mutua-madrilena-adopts-automation-case-study">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=266e78c7-3823-4e71-b089-35b6e0940290">Content Center</a></td>
+</tr>
+<tr>
+<td>ProRail accelerates IT processes from weeks to days with automation</td>
+<td>ProRail</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/prorail-case-study">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cf271e23-8d14-40da-b364-9c0d2cc4f680">Content Center</a></td>
+</tr>
+<tr>
+<td>Cepsa boosts efficiency with Red Hat Ansible Automation Platform</td>
+<td>Cepsa</td>
+<td><class id="emea">EMEA</class></td>
+<td><a target="_blank" href="https://www.redhat.com/en/resources/cepsa-case-study">on redhat.com</a></td>
+<td><a  target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=973b9e0b-06d8-4583-a2d2-246f4c2b6db9">Content Center</a></td>
+</tr>
 </tbody>
 </table>
 
