@@ -111,7 +111,7 @@
 <tbody>
 <tr>
 <td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Securtiy + Lightwell</a>
+<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Security + Lightwell</a>
 <span class="bulletin-meta">Aug 14, 2026 · Chad Ferman</span>
 </td>
 </tr>
