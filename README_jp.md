@@ -64,26 +64,20 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://ansible-tmm.github.io/aap-orchestrator-demos/demos/cicd-pipeline/">Automating CI/CD pipelines with Lightwell</a>
+<span class="bulletin-meta">2026年11月11日 · demo.redhat.com で実行</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing">Network Content Kit</a>
 <span class="bulletin-meta">2026年9月24日</span>
 </td>
 </tr>
 <tr>
 <td>
-<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
-<span class="bulletin-meta">2026年8月24日</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
-<span class="bulletin-meta">2026年8月24日</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1ZsMRZaSDplAIIXKrUqTK1_sR4AE9a9YgWMa-KpLSsz4/">Red Hat Ansible G2 Review Highlights</a>
-<span class="bulletin-meta">2025年2月3日</span>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing">2026 Cloud Content Kit</a>
+<span class="bulletin-meta">2026年8月11日</span>
 </td>
 </tr>
 </tbody>
