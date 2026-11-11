@@ -65,38 +65,20 @@
 <tbody>
 <tr>
 <td>
+<a class="bulletin-title" target="_new" href="https://ansible-tmm.github.io/aap-orchestrator-demos/demos/cicd-pipeline/">Automating CI/CD pipelines with Lightwell</a>
+<span class="bulletin-meta">11 nov 2026 · Ejecutar en demo.redhat.com</span>
+</td>
+</tr>
+<tr>
+<td>
 <a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/167BrsNMO_vCPyYpEcpNZGMQoeOHzhzt72uI9KzLmQbE/edit?usp=sharing">Network Content Kit</a>
 <span class="bulletin-meta">24 sep 2026</span>
 </td>
 </tr>
 <tr>
 <td>
-<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1eF8YJ3g0cH7VFLx5zobNQmrtpgTau1x2xIobh_ndkkw/edit?usp=sharing">Automation Orchestrator 101</a>
-<span class="bulletin-meta">24 ago 2026</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://docs.google.com/presentation/d/1q4jpmIOC-B9m2S3n7OgIM39UEcHgVjLWQ2qgXWNitsI/edit?usp=sharing">Monthly ABU GTM Collective</a>
-<span class="bulletin-meta">24 ago 2026</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/Link/Content/DCq4DGPW7WFTBGhD7JhPm3BhpTPV">AAP + victoria de cliente</a>
-<span class="bulletin-meta">7 ago 2026 · Gran empresa global de servicios financieros y seguros</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/Link/Content/DC39D99BDQp4C8qVQHpCqD6gjJ7j">Domina tu pitch de AAP 2.7</a>
-<span class="bulletin-meta">7 ago 2026</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D92483258">Partner Tech Power Hour sobre AAP 2.7</a>
-<span class="bulletin-meta">7 ago 2026</span>
+<a class="bulletin-title" target="_new" href="https://docs.google.com/document/d/1W5r4iZaGMmXSWq8sGZ51TC9r8CxYLiehtT_V57mr1Ig/edit?usp=sharing">2026 Cloud Content Kit</a>
+<span class="bulletin-meta">11 ago 2026</span>
 </td>
 </tr>
 </tbody>
