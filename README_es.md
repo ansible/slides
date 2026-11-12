@@ -509,15 +509,11 @@ Usa las herramientas del portal de Red Hat para estimar ahorros de tiempo y cost
 </li>
 <li class="deck-item">
 <strong class="deck-title">Automatización de seguridad con Ansible - 101/201</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1v-Qj6Wrz8suoSfR3L4O1DcgPgOsW8lppLN8t9iMczw8/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=97d129d2-7752-4a8f-9730-b39754e75888&amp;fusionQueryId=POMvjp8OJn&amp;query=security%20automation%20101" target="_blank">Partners</a></div>
+<div class="deck-access"><a href="https://docs.google.com/presentation/d/1FqGa7R1MJACgsCezwJu2UqAZR0hS--5botps1yjoAgA/edit" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><a href="https://content.redhat.com/us/en/assets/display.html?id=97d129d2-7752-4a8f-9730-b39754e75888&amp;fusionQueryId=POMvjp8OJn&amp;query=security%20automation%20101" target="_blank">Partners</a></div>
 </li>
 <li class="deck-item">
 <strong class="deck-title">Automatización de seguridad con Ansible - 301</strong>
 <div class="deck-access"><a href="https://docs.google.com/presentation/d/19qZyXhZO6rfhzPElAMypIbfEnL9nPW83ce4i5MWJD2s/edit?usp=sharing" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
-</li>
-<li class="deck-item">
-<strong class="deck-title">Ansible Automation Platform — Mythos</strong>
-<div class="deck-access"><a href="https://docs.google.com/presentation/d/1-ZgLAyKVx3ccHyJB-eGaozMpNGq3AjFOfoAK9YZfl1Y/edit?slide=id.g3e8ae193bf2_4_199#slide=id.g3e8ae193bf2_4_199" target="_blank">Empleados</a><span aria-hidden="true" class="deck-access-sep"> | </span><span class="cell-status">Próximamente</span></div>
 </li>
 </ul>
 
