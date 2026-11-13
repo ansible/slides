@@ -645,37 +645,46 @@ header {
   }
 }
 
-// Collateral type filters + pills
-.collateral-type-filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 12px 0 20px;
+// Collateral left-nav type filters (match TOC link chrome)
+body.ux-new .tableofcontents .collateral-type-nav {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0;
 }
 
-.collateral-type-filter {
+body.ux-new .tableofcontents .collateral-type-nav > li + li {
+  margin-top: 0.05rem;
+}
+
+body.ux-new .tableofcontents .collateral-type-filter {
   appearance: none;
-  border: 1px solid #d2d2d2;
-  background: #fff;
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  gap: 0.5rem;
+  padding: 0.4rem 0.55rem;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
   color: #151515;
   font-family: 'Red Hat Text', sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 500;
-  line-height: 1.2;
-  padding: 6px 12px;
-  border-radius: 999px;
+  line-height: 1.35;
+  text-align: left;
   cursor: pointer;
-  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+  transition: background-color 0.12s ease, color 0.12s ease;
 }
 
-.collateral-type-filter:hover {
-  border-color: #6a6e73;
+body.ux-new .tableofcontents .collateral-type-filter:hover {
+  background: #f0f0f0;
+  color: #151515;
 }
 
-.collateral-type-filter.is-active {
-  background: #151515;
-  border-color: #151515;
-  color: #fff;
+body.ux-new .tableofcontents .collateral-type-filter.is-active {
+  background: #eeeeee;
+  color: #151515;
+  font-weight: 600;
 }
 
 .collateral-type-pill {
@@ -692,6 +701,17 @@ header {
 table.collateral-table tbody tr[hidden] {
   display: none;
 }
+
+// Collateral section icons in left nav
+body.ux-new .tableofcontents a[href="#general"]::before { content: "\f0ca"; }
+body.ux-new .tableofcontents a[href="#edge-and-network"]::before { content: "\f6ff"; }
+body.ux-new .tableofcontents a[href="#event-driven-ansible-eda"]::before { content: "\f0e7"; }
+body.ux-new .tableofcontents a[href="#hybrid-cloud-automation"]::before { content: "\f0c2"; }
+body.ux-new .tableofcontents a[href="#infrastructure-automation"]::before { content: "\f233"; }
+body.ux-new .tableofcontents a[href="#services"]::before { content: "\f0b1"; }
+body.ux-new .tableofcontents a[href="#verticals"]::before { content: "\f1ad"; }
+body.ux-new .tableofcontents a[href="#security"]::before { content: "\f023"; }
+body.ux-new .tableofcontents a[href="#value-of-a-subscription"]::before { content: "\f02b"; }
 
 // custom footer
 

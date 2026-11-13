@@ -1,28 +1,42 @@
-<h1> Collateral<div class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</div></h1>
-<p>Datasheets, whitepapers, briefs, checklists, e-books, and other non-slide collateral. Filter by type or jump to a section below.</p>
-
-<div class="collateral-type-filters" id="collateral-type-filters" role="group" aria-label="Filter by type">
-  <button type="button" class="collateral-type-filter is-active" data-filter="all">All</button>
-  <button type="button" class="collateral-type-filter" data-filter="Datasheet">Datasheet</button>
-  <button type="button" class="collateral-type-filter" data-filter="Brief">Brief</button>
-  <button type="button" class="collateral-type-filter" data-filter="Whitepaper">Whitepaper</button>
-  <button type="button" class="collateral-type-filter" data-filter="E-Book">E-Book</button>
-  <button type="button" class="collateral-type-filter" data-filter="Checklist">Checklist</button>
-  <button type="button" class="collateral-type-filter" data-filter="Overview">Overview</button>
-  <button type="button" class="collateral-type-filter" data-filter="Analyst material">Analyst</button>
-  <button type="button" class="collateral-type-filter" data-filter="Jumpstart automation resource">Jumpstart</button>
+<div class="page-intro">
+  <h1>Collateral</h1>
+  <span class="editlink">[<a target="_new" href="https://github.com/ansible/slides/edit/main/datasheets.md">edit</a>]</span>
 </div>
 
-- [General](#general)
-  - [General Analyst Materials](#general-analyst-materials)
-- [Edge and Network](#edge-and-network)
-- [Event-Driven Ansible (EDA)](#event-driven-ansible-eda)
-- [Hybrid Cloud Automation](#hybrid-cloud-automation)
-- [Infrastructure Automation](#infrastructure-automation)
-- [Services](#services)
-- [Verticals](#verticals)
-- [Security](#security)
-- [Value of a subscription](#value-of-a-subscription)
+<p>Datasheets, whitepapers, briefs, checklists, e-books, and other non-slide collateral.</p>
+
+<div class="parentsean">
+<nav class="tableofcontents" aria-label="Collateral navigation">
+  <p><strong>Filter by type</strong></p>
+  <ul id="collateral-type-filters" class="collateral-type-nav" role="list">
+    <li><button type="button" class="collateral-type-filter is-active" data-filter="all">All</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Datasheet">Datasheet</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Brief">Brief</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Whitepaper">Whitepaper</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="E-Book">E-Book</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Checklist">Checklist</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Overview">Overview</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Analyst material">Analyst</button></li>
+    <li><button type="button" class="collateral-type-filter" data-filter="Jumpstart automation resource">Jumpstart</button></li>
+  </ul>
+  <p><strong>On this page</strong></p>
+  <ul>
+    <li><a href="#general">General</a>
+      <ul>
+        <li><a href="#general-analyst-materials">General Analyst Materials</a></li>
+      </ul>
+    </li>
+    <li><a href="#edge-and-network">Edge and Network</a></li>
+    <li><a href="#event-driven-ansible-eda">Event-Driven Ansible (EDA)</a></li>
+    <li><a href="#hybrid-cloud-automation">Hybrid Cloud Automation</a></li>
+    <li><a href="#infrastructure-automation">Infrastructure Automation</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#verticals">Verticals</a></li>
+    <li><a href="#security">Security</a></li>
+    <li><a href="#value-of-a-subscription">Value of a subscription</a></li>
+  </ul>
+</nav>
+
 # General
 
 <table class="collateral-table">
