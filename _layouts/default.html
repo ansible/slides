@@ -66,15 +66,17 @@
     <div class="wrapper">
       <header>
         <div class="header-container">
-          <a href="https://ansible.github.io/slides" class="header-brand">
-            <img
-              class="header-logo"
-              src="{{ '/assets/images/redhat-ansible-logo.svg' | relative_url }}"
-              title="Red Hat Ansible"
-              alt="Red Hat Ansible"
-            />
-            <span class="header-title">Slide Finder</span>
-          </a>
+          <div class="header-brand">
+            <a href="https://ansible-tmm.github.io" class="header-logo-link" title="TMM Hub">
+              <img
+                class="header-logo"
+                src="{{ '/assets/images/redhat-ansible-logo.svg' | relative_url }}"
+                title="Red Hat Ansible"
+                alt="Red Hat Ansible"
+              />
+            </a>
+            <a href="{{ '/slides' }}" class="header-title">Slide Finder</a>
+          </div>
           <button class="header-hamburger" id="header-hamburger" aria-label="Toggle menu">
             <i class="fas fa-bars"></i>
           </button>
@@ -91,14 +93,14 @@
             <a class="header-link" href="{{ '/slides/datasheets' }}">
               Collateral
             </a>
-            <a target="_new" class="header-link" href="https://labs.demoredhat.com/">
+            <a class="header-link" href="https://labs.demoredhat.com/">
               Workshops
             </a>
-            <a class="header-link" target="_new" href="https://www.redhat.com/aap-interact">
-              Interactive experiences
-            </a>
-            <a class="header-link" target="_new" href="https://github.com/ansible/slides/issues/new">
+            <a class="header-link" id="open-issue-link" href="https://github.com/ansible/slides/issues/new">
               Open an issue
+            </a>
+            <a class="header-link" href="https://ansible-tmm.github.io">
+              TMM Hub
             </a>
           </div>
         </div>
@@ -169,6 +171,20 @@
             link.classList.add('header-link--active');
           }
         });
+      });
+    </script>
+
+    <!-- Prefill GitHub issue links with the current page URL -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var issueLink = document.getElementById('open-issue-link');
+        if (!issueLink) return;
+        var pageUrl = window.location.href;
+        var title = 'Issue on ' + window.location.pathname;
+        var body = '**Page:** ' + pageUrl + '\n\nDescribe the issue here:\n';
+        issueLink.href = 'https://github.com/ansible/slides/issues/new'
+          + '?title=' + encodeURIComponent(title)
+          + '&body=' + encodeURIComponent(body);
       });
     </script>
 
