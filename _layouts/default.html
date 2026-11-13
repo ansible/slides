@@ -62,6 +62,9 @@
     <script src="{{ '/assets/js/deck-filter.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/toc-spy.js' | relative_url }}"></script>
     {% endif %}
+    {% if page.name == 'datasheets.md' %}
+    <script src="{{ '/assets/js/collateral-filter.js' | relative_url }}"></script>
+    {% endif %}
 
     <div class="wrapper">
       <header>
@@ -84,18 +87,31 @@
             <a class="header-link" href="{{ '/slides' }}">
               Slides
             </a>
-            <a class="header-link" href="{{ '/slides/ebooks' }}">
-              E-Books
+            <a class="header-link" href="{{ '/slides/datasheets' }}">
+              Collateral
             </a>
             <a class="header-link" href="{{ '/slides/customer_references' }}">
               Customer references
             </a>
-            <a class="header-link" href="{{ '/slides/datasheets' }}">
-              Collateral
-            </a>
             <a class="header-link" href="https://labs.demoredhat.com/">
               Workshops
             </a>
+            <div class="header-dropdown">
+              <button class="header-link header-dropdown__toggle" type="button" aria-expanded="false" aria-haspopup="true">
+                More <i class="fas fa-chevron-down header-dropdown__icon"></i>
+              </button>
+              <div class="header-dropdown__menu">
+                <a class="header-dropdown__item" href="https://ansible-tmm.github.io/solution-guides/">
+                  Solution Guides
+                </a>
+                <a class="header-dropdown__item" href="https://ansible.github.io/product-demos/">
+                  Product Demos
+                </a>
+                <a class="header-dropdown__item" href="https://ansible-tmm.github.io/aap-orchestrator-demos/">
+                  Orchestrator Demos
+                </a>
+              </div>
+            </div>
             <a class="header-link" id="open-issue-link" href="https://github.com/ansible/slides/issues/new">
               Open an issue
             </a>
@@ -157,6 +173,35 @@
           } else {
             icon.className = 'fas fa-bars';
           }
+        });
+      });
+    </script>
+
+    <!-- Header dropdowns -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('.header-dropdown__toggle').forEach(function(toggle) {
+          toggle.addEventListener('click', function(e) {
+            e.stopPropagation();
+            var dropdown = toggle.closest('.header-dropdown');
+            var wasOpen = dropdown.classList.contains('header-dropdown--open');
+            document.querySelectorAll('.header-dropdown--open').forEach(function(d) {
+              d.classList.remove('header-dropdown--open');
+              var t = d.querySelector('.header-dropdown__toggle');
+              if (t) t.setAttribute('aria-expanded', 'false');
+            });
+            if (!wasOpen) {
+              dropdown.classList.add('header-dropdown--open');
+              toggle.setAttribute('aria-expanded', 'true');
+            }
+          });
+        });
+        document.addEventListener('click', function() {
+          document.querySelectorAll('.header-dropdown--open').forEach(function(d) {
+            d.classList.remove('header-dropdown--open');
+            var t = d.querySelector('.header-dropdown__toggle');
+            if (t) t.setAttribute('aria-expanded', 'false');
+          });
         });
       });
     </script>
