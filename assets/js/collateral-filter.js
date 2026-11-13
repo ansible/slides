@@ -49,11 +49,16 @@ document.addEventListener("DOMContentLoaded", function () {
         .forEach(function (li) {
           var childLis = li.querySelectorAll(":scope > ul > li");
           if (!childLis.length) return;
-          var anyChildVisible = Array.prototype.some.call(childLis, function (child) {
-            return !child.hidden;
-          });
+          var anyChildVisible = Array.prototype.some.call(
+            childLis,
+            function (child) {
+              return !child.hidden;
+            }
+          );
           var ownLink = li.querySelector(":scope > a[href^='#']");
-          var ownId = ownLink ? (ownLink.getAttribute("href") || "").slice(1) : "";
+          var ownId = ownLink
+            ? (ownLink.getAttribute("href") || "").slice(1)
+            : "";
           var ownTarget = ownId ? document.getElementById(ownId) : null;
           var ownVisible = ownTarget && !ownTarget.hidden;
           li.hidden = !(ownVisible || anyChildVisible);
