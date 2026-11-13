@@ -645,46 +645,37 @@ header {
   }
 }
 
-// Collateral left-nav type filters (match TOC link chrome)
-body.ux-new .tableofcontents .collateral-type-nav {
-  list-style: none;
-  margin: 0 0 1rem;
-  padding: 0;
-}
-
-body.ux-new .tableofcontents .collateral-type-nav > li + li {
-  margin-top: 0.05rem;
-}
-
-body.ux-new .tableofcontents .collateral-type-filter {
-  appearance: none;
+// Collateral type filter pills (content column, under intro)
+body.ux-new .collateral-type-filters {
   display: flex;
-  align-items: flex-start;
-  width: 100%;
-  gap: 0.5rem;
-  padding: 0.4rem 0.55rem;
-  border: none;
-  border-radius: 8px;
-  background: transparent;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 0.35rem 0 1.25rem;
+}
+
+body.ux-new .collateral-type-filter {
+  appearance: none;
+  border: 1px solid #d2d2d2;
+  background: #fff;
   color: #151515;
   font-family: 'Red Hat Text', sans-serif;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 500;
-  line-height: 1.35;
-  text-align: left;
+  line-height: 1.2;
+  padding: 6px 12px;
+  border-radius: 999px;
   cursor: pointer;
-  transition: background-color 0.12s ease, color 0.12s ease;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
-body.ux-new .tableofcontents .collateral-type-filter:hover {
-  background: #f0f0f0;
-  color: #151515;
+body.ux-new .collateral-type-filter:hover {
+  border-color: #6a6e73;
 }
 
-body.ux-new .tableofcontents .collateral-type-filter.is-active {
-  background: #eeeeee;
-  color: #151515;
-  font-weight: 600;
+body.ux-new .collateral-type-filter.is-active {
+  background: #151515;
+  border-color: #151515;
+  color: #fff;
 }
 
 .collateral-type-pill {
