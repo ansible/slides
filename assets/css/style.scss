@@ -646,11 +646,13 @@ header {
 }
 
 // Collateral type filter pills (content column, under intro)
+// Keep left/right margins — shorthand here would override section > * and shift pills left
 body.ux-new .collateral-type-filters {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin: 0.35rem 0 1.25rem;
+  margin-top: 0.35rem;
+  margin-bottom: 1.25rem;
 }
 
 body.ux-new .collateral-type-filter {
