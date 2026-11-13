@@ -37,11 +37,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/prism-vsc-dark-plus.css' | relative_url}}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% assign slides_finder = false %}
+    {% assign collateral_page = false %}
     {% if page.name == 'README.md' or page.name == 'README_jp.md' or page.name == 'README_es.md' %}
       {% assign slides_finder = true %}
     {% endif %}
+    {% if page.name == 'datasheets.md' %}
+      {% assign collateral_page = true %}
+    {% endif %}
   </head>
-  <body{% if slides_finder %} class="ux-new"{% endif %}>
+  <body{% if slides_finder or collateral_page %} class="ux-new"{% endif %}>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NRJNCH95"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -60,9 +64,11 @@
     <script src="{{ '/assets/tablelink.js' | relative_url }}"></script>
     {% if slides_finder %}
     <script src="{{ '/assets/js/deck-filter.js' | relative_url }}"></script>
+    {% endif %}
+    {% if slides_finder or collateral_page %}
     <script src="{{ '/assets/js/toc-spy.js' | relative_url }}"></script>
     {% endif %}
-    {% if page.name == 'datasheets.md' %}
+    {% if collateral_page %}
     <script src="{{ '/assets/js/collateral-filter.js' | relative_url }}"></script>
     {% endif %}
 
@@ -211,7 +217,9 @@
       document.addEventListener('DOMContentLoaded', function() {
         var path = window.location.pathname.replace(/\/$/, '').replace(/\/index\.html$/, '');
         document.querySelectorAll('.header-link').forEach(function(link) {
-          var href = link.getAttribute('href').replace(/\/$/, '');
+          var raw = link.getAttribute('href');
+          if (!raw) return;
+          var href = raw.replace(/\/$/, '');
           if (path === href || (href !== '{{ "/" | relative_url }}'.replace(/\/$/, '') && path.indexOf(href) === 0)) {
             link.classList.add('header-link--active');
           }

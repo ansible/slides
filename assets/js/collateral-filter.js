@@ -8,9 +8,18 @@ document.addEventListener("DOMContentLoaded", function () {
   var rows = Array.prototype.slice.call(
     document.querySelectorAll("table.collateral-table tbody tr[data-type]")
   );
-  var sections = Array.prototype.slice.call(
-    document.querySelectorAll("section > h1, section > h2")
-  );
+  var toc = document.querySelector(".tableofcontents");
+  var tocLinks = toc
+    ? Array.prototype.slice.call(toc.querySelectorAll('a[href^="#"]'))
+    : [];
+
+  function headingForTable(table) {
+    var el = table.previousElementSibling;
+    while (el && el.tagName !== "H1" && el.tagName !== "H2") {
+      el = el.previousElementSibling;
+    }
+    return el;
+  }
 
   function applyFilter(value) {
     rows.forEach(function (row) {
@@ -19,43 +28,43 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     document.querySelectorAll("table.collateral-table").forEach(function (table) {
-      var visible = table.querySelectorAll("tbody tr[data-type]:not([hidden])");
-      table.hidden = visible.length === 0;
-      var heading = table.previousElementSibling;
-      while (heading && heading.tagName !== "H1" && heading.tagName !== "H2") {
-        heading = heading.previousElementSibling;
-      }
-      if (heading && (heading.tagName === "H1" || heading.tagName === "H2")) {
-        // defer section hide to pass below
-      }
+      var empty =
+        table.querySelectorAll("tbody tr[data-type]:not([hidden])").length === 0;
+      table.hidden = empty;
+      var heading = headingForTable(table);
+      if (heading) heading.hidden = empty;
     });
 
-    sections.forEach(function (heading) {
-      if (heading.closest(".editlink")) return;
-      var el = heading.nextElementSibling;
-      var hasVisible = false;
-      while (el && el.tagName !== "H1" && el.tagName !== "H2") {
-        if (el.matches && el.matches("table.collateral-table") && !el.hidden) {
-          hasVisible = true;
-        }
-        if (
-          el.querySelectorAll &&
-          el.querySelectorAll("table.collateral-table:not([hidden])").length
-        ) {
-          hasVisible = true;
-        }
-        el = el.nextElementSibling;
-      }
-      // Keep the page title (first h1 with editlink) always visible
-      if (heading.querySelector && heading.querySelector(".editlink")) {
-        heading.hidden = false;
-        return;
-      }
-      heading.hidden = !hasVisible;
+    tocLinks.forEach(function (link) {
+      var id = (link.getAttribute("href") || "").slice(1);
+      var target = id ? document.getElementById(id) : null;
+      var li = link.parentElement;
+      if (li && target) li.hidden = !!target.hidden;
     });
+
+    if (toc) {
+      Array.prototype.slice
+        .call(toc.querySelectorAll("li"))
+        .reverse()
+        .forEach(function (li) {
+          var childLis = li.querySelectorAll(":scope > ul > li");
+          if (!childLis.length) return;
+          var anyChildVisible = Array.prototype.some.call(childLis, function (child) {
+            return !child.hidden;
+          });
+          var ownLink = li.querySelector(":scope > a[href^='#']");
+          var ownId = ownLink ? (ownLink.getAttribute("href") || "").slice(1) : "";
+          var ownTarget = ownId ? document.getElementById(ownId) : null;
+          var ownVisible = ownTarget && !ownTarget.hidden;
+          li.hidden = !(ownVisible || anyChildVisible);
+        });
+    }
 
     buttons.forEach(function (btn) {
-      btn.classList.toggle("is-active", btn.getAttribute("data-filter") === value);
+      btn.classList.toggle(
+        "is-active",
+        btn.getAttribute("data-filter") === value
+      );
     });
   }
 
@@ -81,7 +90,12 @@ document.addEventListener("DOMContentLoaded", function () {
   try {
     var params = new URLSearchParams(window.location.search);
     var type = params.get("type");
-    if (type && buttons.some(function (b) { return b.getAttribute("data-filter") === type; })) {
+    if (
+      type &&
+      buttons.some(function (b) {
+        return b.getAttribute("data-filter") === type;
+      })
+    ) {
       initial = type;
     }
   } catch (e) {
