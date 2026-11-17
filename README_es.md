@@ -93,7 +93,13 @@
 <tbody>
 <tr>
 <td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Securtiy + Lightwell</a>
+<a class="bulletin-title" target="_new" href="https://saleshub.redhat.com/apps/doccenter/1d1918e9-b5b0-4428-b8fc-87e02ad44156/doc/%252Fdd04d516a5-19b3-48c9-e01a-d2bf52939de4%252FdfMmNhNDhiYjktYzE1Ny00ZjgyLWJlYjUtNTdhY2NjZmY5Y2Rh%252CPT0%253D%252CVmlkZW8%253D%252Flff9a930cd-9be1-4f55-bdd5-1a9c25252a25/grid/">Ep 84 — Automation orchestrator</a>
+<span class="bulletin-meta">17 nov 2026 · Harper Buete</span>
+</td>
+</tr>
+<tr>
+<td>
+<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_0odeyuqy">Ep 80 — Ansible Security + Lightwell</a>
 <span class="bulletin-meta">14 ago 2026 · Chad Ferman</span>
 </td>
 </tr>
@@ -101,12 +107,6 @@
 <td>
 <a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/Power%205%20-%20Episode%2068%20%22Master%20your%20AAP%202_7%20Pitch%22/1_5soe6g6j/366567272">Ep 68 — Domina tu pitch de AAP 2.7</a>
 <span class="bulletin-meta">17 jun 2026 · Tricia McConnell</span>
-</td>
-</tr>
-<tr>
-<td>
-<a class="bulletin-title" target="_new" href="https://videos.learning.redhat.com/media/1_4pszx8k5">Ep 66 — AAP + victoria MetLife</a>
-<span class="bulletin-meta">7 may 2026 · Harper Buete and Tucker Fisher</span>
 </td>
 </tr>
 </tbody>
